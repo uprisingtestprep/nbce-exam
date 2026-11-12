@@ -1,0 +1,2691 @@
+[
+ {
+  "id": "E01",
+  "system": "Musculoskeletal",
+  "title": "Low back pain with leg pain and a weak foot",
+  "door_chart": {
+   "patient": "Marcus Delgado, 38, male",
+   "vitals": "BP 128/80, HR 72, RR 14, temp 98.2 F, height 5 ft 11 in, weight 214 lb",
+   "chief_complaint": "Low back pain that shoots down my left leg for 3 weeks",
+   "history_on_chart": "Warehouse worker who lifts boxes all day. Pain began after lifting a pallet. Sitting makes it worse. Took ibuprofen with little help.",
+   "medications": "Ibuprofen 400 mg as needed",
+   "allergies": "None known"
+  },
+  "patient_script": {
+   "opening_line": "My back has been killing me and now my leg is getting in on it too.",
+   "behavior": "Friendly but worried about losing work. Speaks quickly, shifts in the chair, stands up often because sitting hurts.",
+   "if_asked": {
+    "onset": "Three weeks ago, a sharp pull in the low back while lifting. Leg pain started on day 4.",
+    "pain quality": "Back is a deep ache. Leg is sharp and electric, down the outside of the left thigh and calf to the top of the foot and big toe. Leg is 7 out of 10, back 4 out of 10.",
+    "what makes it worse": "Sitting, coughing, sneezing, bending forward.",
+    "what makes it better": "Walking around and lying on the right side with knees bent.",
+    "numbness or weakness": "Tingling on top of the left foot. Says the foot has been slapping the floor a little when he walks.",
+    "bowel or bladder": "Denies any change, no numbness in the groin or inner thighs.",
+    "fever, weight loss, cancer history": "Denies all.",
+    "night pain": "Hurts a bit when he rolls over but is not worse at night."
+   },
+   "volunteers_only_if_asked": [
+    "The foot slapping started 4 days ago and seems to be getting worse",
+    "Father had back surgery at age 50",
+    "He has not had any imaging"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Afebrile, walks with a slight antalgic lean to the right and a mild left foot slap. Appears uncomfortable but not in distress.",
+   "inspection": "Loss of lumbar lordosis, slight lateral shift to the right. No skin changes, no swelling.",
+   "palpation": "Tenderness and spasm in left lumbar paraspinal muscles and left gluteal region. Midline L5 spinous process mildly tender. No step off.",
+   "range_of_motion": "Lumbar flexion limited to 40 degrees with leg pain reproduced. Extension 10 degrees, increases left leg pain. Right lateral flexion full, left lateral flexion limited and painful.",
+   "orthopedic_tests": "Straight leg raise left positive at 40 degrees reproducing leg pain below the knee. Right negative. Crossed straight leg raise negative. Braggard positive on left. Slump test positive on left. Kemp test left positive for leg pain. Femoral nerve stretch negative. Valsalva positive for back and leg pain.",
+   "neurologic": "Left ankle dorsiflexion 4 out of 5, left great toe extension 4 minus out of 5, other myotomes 5 out of 5. Heel walking difficult on left, toe walking normal. Decreased light touch over the dorsum of the left foot and first web space. Patellar reflexes 2+ equal. Achilles reflexes 2+ equal. Babinski downgoing both sides. Perianal sensation not tested unless symptoms warrant, and none are reported.",
+   "other_system_exam": "Abdomen soft and nontender, no pulsatile mass. Pedal pulses 2+ and equal."
+  },
+  "checklist": {
+   "history": [
+    "Asks about onset and what he was doing when pain began",
+    "Asks pain quality and exactly where the leg pain travels",
+    "Asks about numbness, tingling and weakness in the leg or foot",
+    "Screens for bowel, bladder and saddle numbness (cauda equina)",
+    "Screens for fever, weight loss, cancer history and night pain",
+    "Asks about aggravating and relieving factors including cough and sitting",
+    "Asks about prior episodes, treatment and medications"
+   ],
+   "physical_exam": [
+    "Observes gait including heel and toe walking",
+    "Measures lumbar range of motion and notes pain response",
+    "Performs straight leg raise on both sides",
+    "Tests lower limb myotomes in both legs",
+    "Tests lower limb reflexes",
+    "Tests sensation by dermatome",
+    "Checks pulses and does a quick abdominal exam",
+    "Performs Valsalva or slump to support disc involvement"
+   ],
+   "diagnosis_and_case_management": [
+    "States working diagnosis of left L5 radiculopathy, likely L4 to L5 disc herniation",
+    "Names a differential such as piriformis syndrome, facet syndrome and spinal stenosis",
+    "Recognizes the foot drop signs as a motor deficit that needs monitoring",
+    "Rules out cauda equina syndrome aloud",
+    "Plans conservative care with strength retesting within 48 to 72 hours and a clear threshold for urgent referral",
+    "Orders MRI and arranges a surgical opinion because the motor deficit is progressing"
+   ],
+   "communication": [
+    "Introduces self and confirms patient name",
+    "Uses plain language to explain a disc problem",
+    "Explains warning signs that mean go to the emergency room today",
+    "Checks that the patient understands and invites questions"
+   ],
+   "professionalism": [
+    "Washes hands and drapes or positions patient respectfully",
+    "Obtains verbal consent before testing",
+    "Says aloud what he or she is doing for the video"
+   ]
+  },
+  "diagnosis": {
+   "working": "Left L5 radiculopathy from a probable L4 to L5 disc herniation with mild motor deficit",
+   "differential": [
+    "Piriformis syndrome",
+    "Lumbar facet syndrome with referred pain",
+    "Lumbar spinal stenosis",
+    "Peroneal neuropathy at the fibular head"
+   ],
+   "red_flags_to_catch": [
+    "Progressive foot weakness over 4 days",
+    "Possible early cauda equina signs must be asked about and ruled out"
+   ],
+   "imaging_or_labs_to_order": "MRI of the lumbar spine promptly because the motor deficit is already progressing, with a spine surgery opinion arranged; repeat strength testing within 48 to 72 hours. Plain films are not needed first in this case.",
+   "referral_or_emergency": "Treat conservatively with careful, non rotational care and shared care with a medical provider for pain control. Send to the emergency room at once if saddle numbness, bladder or bowel change, or rapid worsening of weakness appears. Refer to a spine surgeon if the deficit worsens."
+  },
+  "model_soap": {
+   "S": "38 year old male warehouse worker, 3 weeks of low back pain with left leg pain to dorsal foot and great toe, 7 of 10. Worse with sitting, cough and flexion. Foot slapping for 4 days. Denies bowel, bladder, saddle numbness, fever, weight loss.",
+   "O": "Antalgic gait, left foot slap. Flexion 40 degrees painful. SLR left positive at 40 degrees, slump and Valsalva positive. Left dorsiflexion 4/5, EHL 4 minus/5. Decreased sensation dorsal left foot. Reflexes 2+ equal. Babinski negative.",
+   "A": "Left L5 radiculopathy, probable L4 to L5 disc herniation with mild motor deficit. No cauda equina signs.",
+   "P": "Conservative care with gentle, flexion distraction style care and activity modification. Retest strength in 48 to 72 hours. Order MRI promptly and arrange a spine surgery opinion because the weakness is progressing. Shared care for pain. Go to the ER for saddle numbness, bladder or bowel change, or sudden weakness."
+  },
+  "common_errors": [
+   "Skipping the bowel, bladder and saddle numbness screen",
+   "Testing only the right side or only straight leg raise and missing the motor exam",
+   "Calling the foot slap normal and not planning a recheck or referral threshold",
+   "Using rotational manipulation on an acute disc with a motor deficit",
+   "Ordering plain films only and calling it a full workup",
+   "Not stating the red flags to the patient in plain words"
+  ]
+ },
+ {
+  "id": "E02",
+  "system": "Musculoskeletal",
+  "title": "Shoulder pain after a fall with trouble lifting the arm",
+  "door_chart": {
+   "patient": "Dolores Whitfield, 61, female",
+   "vitals": "BP 134/82, HR 76, RR 14, temp 98.4 F, height 5 ft 4 in, weight 168 lb",
+   "chief_complaint": "Right shoulder pain and I cannot lift my arm",
+   "history_on_chart": "Fell on an icy step 5 weeks ago and landed on the right arm. Pain at night. Retired school secretary, right handed.",
+   "medications": "Lisinopril 10 mg daily, acetaminophen as needed",
+   "allergies": "Sulfa drugs"
+  },
+  "patient_script": {
+   "opening_line": "Ever since I slipped on the ice, I cannot get my arm up to reach the cupboard.",
+   "behavior": "Polite and a little frustrated. Rubs her shoulder, winces when reaching, wants a clear answer about whether she needs surgery.",
+   "if_asked": {
+    "onset": "Five weeks ago, sudden pain when she hit the ground. Some bruising the first week.",
+    "pain quality": "Deep, dull ache in the upper outer shoulder, sharp when lifting. 6 out of 10 at night, 3 out of 10 at rest in the day.",
+    "what makes it worse": "Lifting the arm, reaching behind, and lying on that side.",
+    "what makes it better": "Support under the arm and acetaminophen help a little.",
+    "numbness or weakness": "No numbness. Arm feels weak and tired when she holds it up.",
+    "neck pain": "None. Turning her head does not change the shoulder pain.",
+    "fever, weight loss, cancer history": "Denies all. Had a mammogram last year, normal.",
+    "chest pain or shortness of breath": "Denies."
+   },
+   "volunteers_only_if_asked": [
+    "Heard a pop at the time of the fall",
+    "She has not had any imaging",
+    "She stopped doing her own hair because she cannot raise the arm"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Afebrile, comfortable at rest, holds right arm close to the body.",
+   "inspection": "Mild atrophy of right supraspinatus and infraspinatus fossae. Faded bruise along the upper arm. No deformity at the AC joint.",
+   "palpation": "Tender over the greater tuberosity and anterior subacromial space. AC joint nontender. Biceps groove mildly tender. Cervical spine nontender.",
+   "range_of_motion": "Right active abduction 70 degrees with a shoulder hike. Passive abduction 150 degrees. Active flexion 80 degrees. Passive external rotation 60 degrees. Left shoulder full.",
+   "orthopedic_tests": "Drop arm test positive on the right. Empty can test positive and weak. External rotation lag sign positive. Painful arc 70 to 120 degrees. Hawkins Kennedy positive. Neer positive. Speed test mildly positive. Apprehension test negative. Spurling negative. Cross body adduction negative for AC pain.",
+   "neurologic": "Right shoulder abduction 3 out of 5, external rotation 3 out of 5. Elbow and wrist myotomes 5 out of 5. Biceps, triceps and brachioradialis reflexes 2+ equal. Sensation intact in all dermatomes.",
+   "other_system_exam": "Lungs clear. Radial pulses 2+ equal. No lymph nodes in the axilla."
+  },
+  "checklist": {
+   "history": [
+    "Asks how and when the injury happened",
+    "Asks pain quality, location and 0 to 10 severity",
+    "Asks about night pain and sleeping position",
+    "Asks about weakness, numbness and neck involvement",
+    "Asks about a pop at the time of injury",
+    "Screens for fever, weight loss, cancer and chest symptoms",
+    "Asks about handedness, work and daily activities"
+   ],
+   "physical_exam": [
+    "Inspects for atrophy, bruising and deformity",
+    "Compares active and passive range of motion",
+    "Performs drop arm test",
+    "Performs empty can or full can test",
+    "Performs external rotation lag sign",
+    "Performs impingement tests such as Neer and Hawkins Kennedy",
+    "Screens the cervical spine with Spurling or range of motion",
+    "Tests shoulder myotomes and reflexes"
+   ],
+   "diagnosis_and_case_management": [
+    "States working diagnosis of a full thickness rotator cuff tear, supraspinatus and infraspinatus",
+    "Names a differential such as impingement, adhesive capsulitis, biceps tendinopathy and cervical radiculopathy",
+    "Explains why active motion is much less than passive motion",
+    "Orders MRI or diagnostic ultrasound of the shoulder",
+    "Refers to orthopedics for surgical opinion since the weakness persisted 5 weeks",
+    "Avoids strong stretching or aggressive manual force to the shoulder"
+   ],
+   "communication": [
+    "Introduces self and confirms name",
+    "Explains a tendon tear in simple words",
+    "Addresses her fear about surgery honestly",
+    "Confirms the patient understands the plan"
+   ],
+   "professionalism": [
+    "Obtains consent and drapes shoulder appropriately",
+    "Washes hands before the exam",
+    "Narrates actions for the video"
+   ]
+  },
+  "diagnosis": {
+   "working": "Traumatic full thickness tear of the right supraspinatus and infraspinatus tendons",
+   "differential": [
+    "Subacromial impingement with partial tear",
+    "Adhesive capsulitis",
+    "Biceps tendon tear or tendinopathy",
+    "Cervical radiculopathy at C5 to C6"
+   ],
+   "red_flags_to_catch": [
+    "Persistent weakness 5 weeks after trauma",
+    "Positive drop arm and lag sign suggest full thickness tear that needs early repair decision"
+   ],
+   "imaging_or_labs_to_order": "Plain films of the shoulder to rule out fracture, then MRI or ultrasound to confirm and size the tear.",
+   "referral_or_emergency": "Refer to an orthopedic surgeon for a repair decision, since delay lets the tendon retract and the muscle turn to fat. Not an emergency."
+  },
+  "model_soap": {
+   "S": "61 year old right handed female, 5 weeks of right shoulder pain after a fall on ice. Cannot lift arm. Night pain 6 of 10. Heard a pop. No neck pain, numbness, fever or chest symptoms.",
+   "O": "Supraspinatus and infraspinatus atrophy. Active abduction 70 degrees, passive 150 degrees. Drop arm, empty can and external rotation lag positive. Neer and Hawkins Kennedy positive. Abduction and external rotation 3/5. Spurling negative. Reflexes and sensation normal.",
+   "A": "Probable full thickness right rotator cuff tear, supraspinatus and infraspinatus. Impingement and adhesive capsulitis considered.",
+   "P": "Plain films of shoulder to rule out fracture, then MRI or ultrasound. Orthopedic referral for repair opinion. Sling for comfort only short term. Avoid stretching and heavy lifting. Acetaminophen as needed. Recheck in 1 week."
+  },
+  "common_errors": [
+   "Labeling it only as impingement and starting strengthening and stretching",
+   "Missing that passive motion is much better than active motion",
+   "Skipping the cervical screen so a C5 root problem is not ruled out",
+   "Applying vigorous mobilization to a torn tendon",
+   "Not ordering imaging or referring in a traumatic case with weakness"
+  ]
+ },
+ {
+  "id": "E03",
+  "system": "Musculoskeletal",
+  "title": "Neck pain and headache after painting a ceiling",
+  "door_chart": {
+   "patient": "Renata Okafor, 44, female",
+   "vitals": "BP 142/88, HR 80, RR 16, temp 98.6 F, height 5 ft 7 in, weight 152 lb",
+   "chief_complaint": "Neck pain on the left and a headache since Tuesday",
+   "history_on_chart": "Painted a ceiling for two hours with head tilted back 3 days ago. Neck pain began that night. Headache at the back of the head. Takes birth control pills.",
+   "medications": "Oral contraceptive, ibuprofen as needed",
+   "allergies": "None known"
+  },
+  "patient_script": {
+   "opening_line": "My neck is so sore on one side and my head is pounding in the back, can you fix it?",
+   "behavior": "Anxious and tired, wants quick relief, presses on her neck. Says she expects a neck adjustment because that helped her a friend.",
+   "if_asked": {
+    "onset": "Pain started suddenly that night while stretching after painting. The headache came the next morning.",
+    "pain quality": "Constant deep ache in the left neck and the back of the head, 8 out of 10, worse than any headache she has had. Not throbbing.",
+    "what makes it worse": "Turning the head to the right and looking up.",
+    "what makes it better": "Nothing really, ibuprofen did not help.",
+    "dizziness or vision": "Felt dizzy twice yesterday. Her left eyelid has looked droopy and the left pupil looks smaller in the mirror since this morning.",
+    "numbness or weakness": "Left side of the face feels tingly around the cheek. Hands are fine.",
+    "speech or swallowing": "Words came out a little slurred once yesterday for a few minutes.",
+    "fever, trauma or prior neck problems": "No fever, no car crash, no prior neck problems.",
+    "migraine history": "None."
+   },
+   "volunteers_only_if_asked": [
+    "The droopy eyelid and small pupil",
+    "The brief slurred speech yesterday",
+    "The headache is the worst of her life at the back of the head"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Afebrile, appears tired and in moderate pain, holds the neck rigidly.",
+   "inspection": "Left ptosis about 2 mm. Left pupil 3 mm, right pupil 5 mm, both react to light. No sweating difference noted in the forehead.",
+   "palpation": "Left upper cervical paraspinals and suboccipital muscles tender and in spasm. No midline step off.",
+   "range_of_motion": "Cervical rotation right 40 degrees with pain, left 60 degrees. Flexion and extension limited by pain.",
+   "orthopedic_tests": "Cervical compression mildly positive for local pain only. Distraction mildly relieves pain. Spurling negative. Shoulder depression negative. Vertebral artery provocative tests and rotation extension positioning NOT performed, because findings already suggest vascular injury.",
+   "neurologic": "Cranial nerves: left Horner pattern (ptosis and miosis). Mild decreased pinprick over left cheek. Tongue and palate midline. Mild dysmetria on finger to nose on the left. Upper limb strength 5 out of 5 and reflexes 2+ equal. Gait slightly wide based.",
+   "other_system_exam": "Carotid pulses present with a soft bruit on the left. Heart regular, no murmur. BP equal in both arms."
+  },
+  "checklist": {
+   "history": [
+    "Asks about onset, trigger and mechanism including recent neck extension or rotation",
+    "Asks pain quality and compares with prior headaches",
+    "Asks about dizziness, vision change, drooping eyelid and double vision",
+    "Asks about numbness, speech or swallowing problems",
+    "Asks about risk factors such as birth control pills, smoking and migraine",
+    "Asks about fever, trauma and prior neck problems",
+    "Asks about medications and what has helped"
+   ],
+   "physical_exam": [
+    "Takes bilateral blood pressure",
+    "Inspects eyes for ptosis and pupil size",
+    "Tests cranial nerves",
+    "Tests sensation of the face and extremities",
+    "Tests coordination such as finger to nose and gait",
+    "Listens to the carotids for a bruit",
+    "Palpates and tests cervical range of motion gently",
+    "Avoids vertebral artery provocative tests and neck manipulation"
+   ],
+   "diagnosis_and_case_management": [
+    "States suspicion of cervical artery dissection (vertebral or carotid) with Horner syndrome and brain stem signs",
+    "Recognizes this is a medical emergency",
+    "Does NOT perform or plan neck manipulation",
+    "Calls for emergency transport and imaging (CT or MR angiography)",
+    "Names a differential such as cervical strain, migraine and subarachnoid hemorrhage",
+    "Documents findings and the emergency referral"
+   ],
+   "communication": [
+    "Introduces self and confirms name",
+    "Explains the concern calmly without causing panic",
+    "Tells the patient clearly not to drive herself",
+    "Confirms she understands and agrees to go"
+   ],
+   "professionalism": [
+    "Puts patient safety above the patient's request for an adjustment",
+    "Obtains consent for the exam",
+    "Says aloud the reason for stopping testing and referring"
+   ]
+  },
+  "diagnosis": {
+   "working": "Suspected left cervical artery dissection with Horner syndrome and early posterior circulation signs",
+   "differential": [
+    "Acute cervical strain",
+    "Migraine or cervicogenic headache",
+    "Subarachnoid hemorrhage",
+    "Stroke from other cause"
+   ],
+   "red_flags_to_catch": [
+    "Worst headache of life at the back of the head with neck pain",
+    "Horner syndrome (droopy eyelid, small pupil)",
+    "Transient slurred speech and facial tingling",
+    "Oral contraceptive use and neck extension as risk and trigger"
+   ],
+   "imaging_or_labs_to_order": "Emergency CT angiography or MR angiography of head and neck at a hospital. Not done in office.",
+   "referral_or_emergency": "Emergency department by ambulance now. No manipulation of the neck. A dissection can lead to a stroke within hours or days."
+  },
+  "model_soap": {
+   "S": "44 year old female, neck pain and occipital headache for 3 days after painting a ceiling with neck extended. Worst headache of life, 8 of 10. Dizzy twice, brief slurred speech, left facial tingling, droopy left eyelid. On oral contraceptives. No trauma or fever.",
+   "O": "BP 142/88 equal arms. Left ptosis and miosis. Decreased pinprick left cheek. Mild left dysmetria, wide gait. Soft left carotid bruit. Neck muscles tender and rotation painful. Vertebral artery tests withheld.",
+   "A": "Suspected left cervical artery dissection with Horner syndrome and brain stem signs. Cervical strain less likely.",
+   "P": "Emergency transport by ambulance to the hospital for CT or MR angiography. No neck manipulation. Not to drive. Findings reported to the emergency team. Follow up after medical care."
+  },
+  "common_errors": [
+   "Performing vertebral artery provocative tests or a neck adjustment",
+   "Not noticing the droopy eyelid and small pupil because the eyes were never inspected",
+   "Calling it a muscle strain and sending her home with exercises",
+   "Sending her to a regular appointment next week instead of the emergency room",
+   "Letting the patient drive herself to the hospital",
+   "Not asking about birth control, smoking or the speech change"
+  ]
+ },
+ {
+  "id": "E04",
+  "system": "Neurology",
+  "title": "Numb hands at night in a data entry worker",
+  "door_chart": {
+   "patient": "Linda Park, 52, female",
+   "vitals": "BP 138/86, HR 78, RR 14, temp 98.3 F, height 5 ft 3 in, weight 191 lb",
+   "chief_complaint": "Both hands go numb at night and drop things",
+   "history_on_chart": "Data entry clerk for 20 years. Right hand worse than left. Wakes up at 3 am shaking her hand. Very thirsty lately.",
+   "medications": "None",
+   "allergies": "Penicillin"
+  },
+  "patient_script": {
+   "opening_line": "My hands fall asleep every night and now I keep dropping my coffee cup.",
+   "behavior": "Chatty and a bit embarrassed about dropping things. Shakes out her right hand while talking.",
+   "if_asked": {
+    "onset": "About 6 months, getting steadily worse.",
+    "pain quality": "Tingling and burning in the thumb, index and middle fingers, sometimes an ache up the forearm. 5 out of 10.",
+    "what makes it worse": "Typing, holding a phone, driving, sleeping with wrists bent.",
+    "what makes it better": "Shaking the hand out and hanging it off the bed.",
+    "neck pain": "Occasional stiffness but no arm pain from the neck.",
+    "weakness": "Opening jars is hard, buttons are harder.",
+    "thirst, urination, weight": "Very thirsty, urinating often at night, lost about 8 pounds without trying.",
+    "pinky finger": "The little finger is normal."
+   },
+   "volunteers_only_if_asked": [
+    "Thirst and frequent urination started 2 months ago",
+    "Mother has type 2 diabetes",
+    "She has never had blood sugar checked"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Afebrile, overweight, mild distress when shaking hand. Skin dry.",
+   "inspection": "Mild thenar atrophy on the right. No swelling or redness of the wrists.",
+   "palpation": "Tender over the right carpal tunnel. Neck and shoulders nontender. No tenderness at the cubital tunnel.",
+   "range_of_motion": "Cervical motion full and painless. Wrist range of motion full.",
+   "orthopedic_tests": "Phalen test positive on the right in 25 seconds, left in 40 seconds. Tinel sign positive over the right median nerve. Carpal compression test positive on the right. Spurling negative. Tinel at the elbow negative. Elbow flexion test negative. Adson negative.",
+   "neurologic": "Right abductor pollicis brevis 4 out of 5, left 5 out of 5. Grip strength reduced on the right. Decreased pinprick over the right thumb, index, middle and half of ring finger, sparing the thenar eminence base. Reflexes 2+ equal in both arms. Pinprick decreased at both feet in a stocking pattern. Monofilament reduced at the toes.",
+   "other_system_exam": "Capillary glucose in office 268 mg/dL. Breath has no fruity odor. Pedal pulses present."
+  },
+  "checklist": {
+   "history": [
+    "Asks which fingers are affected and which spare",
+    "Asks about timing, especially night symptoms",
+    "Asks about hand use, work and posture",
+    "Asks about neck pain, arm pain and the little finger",
+    "Asks about weakness and dropping objects",
+    "Screens for diabetes symptoms such as thirst and weight loss",
+    "Asks about pregnancy, thyroid and family history"
+   ],
+   "physical_exam": [
+    "Inspects the hand for thenar atrophy",
+    "Performs Phalen test",
+    "Performs Tinel sign at the wrist",
+    "Performs carpal compression test",
+    "Tests grip and thumb abduction strength",
+    "Tests sensation by nerve territory",
+    "Screens the neck with Spurling and range of motion",
+    "Checks feet sensation or glucose when diabetes is suspected"
+   ],
+   "diagnosis_and_case_management": [
+    "States working diagnosis of right greater than left carpal tunnel syndrome",
+    "Names a differential including cervical radiculopathy, pronator syndrome and peripheral neuropathy",
+    "Recognizes possible undiagnosed diabetes as the underlying cause",
+    "Orders fasting glucose, A1c and thyroid tests",
+    "Refers for nerve conduction study because of thenar atrophy",
+    "Plans wrist splint at night, ergonomic changes and shared care with a medical doctor"
+   ],
+   "communication": [
+    "Introduces self and confirms name",
+    "Explains what the median nerve does in simple words",
+    "Explains why blood tests are needed",
+    "Checks understanding and invites questions"
+   ],
+   "professionalism": [
+    "Obtains consent before exam and testing",
+    "Maintains professional boundaries and hand hygiene",
+    "Narrates actions for the video"
+   ]
+  },
+  "diagnosis": {
+   "working": "Bilateral carpal tunnel syndrome, right worse, probably related to undiagnosed type 2 diabetes",
+   "differential": [
+    "Cervical radiculopathy at C6 to C7",
+    "Pronator teres syndrome",
+    "Diabetic peripheral neuropathy alone",
+    "Thoracic outlet syndrome"
+   ],
+   "red_flags_to_catch": [
+    "Thenar atrophy and weakness suggest advanced nerve damage",
+    "Classic diabetes symptoms with glucose 268 mg/dL",
+    "Stocking pattern foot numbness"
+   ],
+   "imaging_or_labs_to_order": "Fasting glucose, A1c, TSH. Nerve conduction study and EMG of the arms.",
+   "referral_or_emergency": "Same week visit with a medical doctor for diabetes. Hand surgery referral if the nerve study shows severe compression or atrophy keeps progressing."
+  },
+  "model_soap": {
+   "S": "52 year old female data entry clerk, 6 months of bilateral hand numbness and burning in thumb, index and middle fingers, right worse, worst at night, dropping objects. Thirst, frequent urination, 8 pound weight loss. Mother has diabetes.",
+   "O": "Right thenar atrophy. Phalen and Tinel positive on the right. APB 4/5 right. Decreased sensation median distribution right. Spurling negative. Stocking pattern decreased sensation both feet. Office glucose 268 mg/dL.",
+   "A": "Carpal tunnel syndrome, right worse than left, with suspected new type 2 diabetes. Cervical radiculopathy unlikely.",
+   "P": "Same week referral to medical doctor for diabetes testing and care. Order A1c and TSH. Nerve conduction study. Night wrist splints, ergonomic changes. Hand surgery referral if severe. Recheck in 2 weeks."
+  },
+  "common_errors": [
+   "Treating the wrists only and missing the diabetes signs",
+   "Not checking the neck or the little finger to separate cervical from median nerve problems",
+   "Skipping strength testing and not noticing thenar atrophy",
+   "Forgetting to send to a medical doctor for blood testing",
+   "Calling a bilateral stocking pattern part of carpal tunnel",
+   "Doing aggressive wrist manipulation instead of a splint and shared care"
+  ]
+ },
+ {
+  "id": "E05",
+  "system": "Neurology",
+  "title": "New headache in an older woman with jaw pain",
+  "door_chart": {
+   "patient": "Helen Marchetti, 69, female",
+   "vitals": "BP 148/84, HR 82, RR 16, temp 99.4 F, height 5 ft 2 in, weight 139 lb",
+   "chief_complaint": "Headache on the right side of my head for 3 weeks",
+   "history_on_chart": "Never had headaches before. Scalp is sore when I comb my hair. Tired and achy in the shoulders. Retired nurse.",
+   "medications": "Levothyroxine 75 mcg, calcium and vitamin D",
+   "allergies": "None known"
+  },
+  "patient_script": {
+   "opening_line": "I have never had headaches in my life and this one will not go away.",
+   "behavior": "Practical and calm, a little worried because she was a nurse. Minimizes her symptoms at first and says it is probably just stress.",
+   "if_asked": {
+    "onset": "Three weeks ago, gradual, now constant.",
+    "pain quality": "Throbbing and burning over the right temple, 6 out of 10.",
+    "what makes it worse": "Chewing, brushing hair, resting her head on the right side of the pillow.",
+    "what makes it better": "Acetaminophen takes the edge off for an hour.",
+    "jaw pain": "Her jaw aches and gets tired after chewing a few bites of food.",
+    "vision": "Had a short spell of blurry vision in the right eye yesterday that cleared in a minute.",
+    "shoulder and hip stiffness": "Stiff and aching in both shoulders and hips each morning for 2 months, lasting an hour.",
+    "fever, weight loss": "Night sweats and about 6 pounds weight loss in 2 months.",
+    "neck pain or trauma": "No neck pain or injury."
+   },
+   "volunteers_only_if_asked": [
+    "The blurry vision episode yesterday",
+    "The jaw tiring when she chews",
+    "Morning stiffness in the shoulders and hips"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Low grade temp 99.4 F, appears tired, mildly thin.",
+   "inspection": "Right temporal region looks slightly swollen with a visible cord like artery. No rash.",
+   "palpation": "Right superficial temporal artery tender, thickened and nodular with a weak pulse compared with the left. Scalp tenderness over the right temple. Cervical spine nontender. Right masseter and TMJ mildly tender.",
+   "range_of_motion": "Cervical range of motion full and painless. Jaw opens 40 mm without deviation.",
+   "orthopedic_tests": "Cervical compression negative. Spurling negative. Shoulder range of motion limited by stiffness but no tears found.",
+   "neurologic": "Cranial nerves II to XII intact. Visual acuity 20/30 right, 20/25 left. Visual fields full to confrontation today. Fundus not seen without a scope. No papilledema on a quick look if scope available. Motor 5 out of 5. Reflexes 2+ equal. Gait normal.",
+   "other_system_exam": "Heart regular. Radial pulses equal. Carotids without bruit. Temporal pulse on the right decreased."
+  },
+  "checklist": {
+   "history": [
+    "Asks onset, quality and location of the headache",
+    "Asks if this is new compared with past headaches",
+    "Asks about jaw pain with chewing",
+    "Asks about vision changes including brief blurry spells",
+    "Asks about scalp tenderness",
+    "Asks about morning stiffness in shoulders and hips",
+    "Screens for fever, night sweats and weight loss",
+    "Asks about medications and trauma"
+   ],
+   "physical_exam": [
+    "Takes temperature and vital signs",
+    "Palpates the temporal arteries and compares both sides",
+    "Checks scalp tenderness",
+    "Tests visual acuity and fields",
+    "Tests cranial nerves",
+    "Examines the cervical spine",
+    "Checks TMJ and jaw motion",
+    "Tests shoulder motion and strength"
+   ],
+   "diagnosis_and_case_management": [
+    "States suspicion of giant cell (temporal) arteritis",
+    "Recognizes the risk of permanent vision loss",
+    "Orders ESR and CRP urgently",
+    "Refers same day to a medical doctor or the emergency room",
+    "Names a differential such as polymyalgia rheumatica, tension headache and cervicogenic headache",
+    "Does not start spinal manipulation or plan a wait and see course"
+   ],
+   "communication": [
+    "Introduces self and confirms name",
+    "Explains the concern in plain words without fear",
+    "Explains why she must be seen today",
+    "Checks that she understands and agrees"
+   ],
+   "professionalism": [
+    "Puts urgent patient safety first",
+    "Obtains consent and uses hand hygiene",
+    "Narrates findings for the video"
+   ]
+  },
+  "diagnosis": {
+   "working": "Suspected giant cell arteritis (temporal arteritis) with possible polymyalgia rheumatica",
+   "differential": [
+    "Polymyalgia rheumatica alone",
+    "Tension type headache",
+    "Cervicogenic headache",
+    "Trigeminal neuralgia or TMJ disorder"
+   ],
+   "red_flags_to_catch": [
+    "New headache after age 50",
+    "Jaw claudication",
+    "Temporal artery tenderness and weak pulse",
+    "Transient vision loss",
+    "Weight loss, night sweats and low grade fever"
+   ],
+   "imaging_or_labs_to_order": "ESR and CRP the same day. Temporal artery biopsy or ultrasound arranged by the medical team.",
+   "referral_or_emergency": "Same day emergency referral. Delay can cause permanent blindness. Steroids are started by the medical doctor, not by the chiropractor."
+  },
+  "model_soap": {
+   "S": "69 year old female, 3 weeks of new right temporal headache, throbbing 6 of 10, jaw pain with chewing, scalp tenderness, brief right eye blurry vision yesterday, morning shoulder and hip stiffness, night sweats, 6 pound weight loss.",
+   "O": "Temp 99.4 F. Right temporal artery thickened, tender, decreased pulse. Acuity 20/30 right, 20/25 left. Cranial nerves intact. Neck and TMJ exam benign.",
+   "A": "Suspected giant cell arteritis with polymyalgia rheumatica. Tension or cervicogenic headache unlikely.",
+   "P": "Same day referral to emergency room or medical doctor for ESR, CRP and steroid decision. No spinal manipulation. Explained risk of vision loss. Follow up after medical evaluation."
+  },
+  "common_errors": [
+   "Treating it as a tension or neck headache and starting care",
+   "Not palpating the temporal arteries",
+   "Not asking about jaw pain, vision and morning stiffness",
+   "Planning a recheck in 1 to 2 weeks instead of same day referral",
+   "Starting steroids or suggesting herbal remedies instead of referring",
+   "Failing to check vision at all"
+  ]
+ },
+ {
+  "id": "E06",
+  "system": "Cardiovascular",
+  "title": "High blood pressure and chest tightness with exertion",
+  "door_chart": {
+   "patient": "Walter Henry, 56, male",
+   "vitals": "BP 168/102, HR 88, RR 18, temp 98.5 F, height 5 ft 10 in, weight 236 lb",
+   "chief_complaint": "Neck and left shoulder ache, and chest tightness when I walk fast",
+   "history_on_chart": "Truck driver. Smoked a pack a day for 30 years. Father died of a heart attack at 54. Never saw a doctor for blood pressure.",
+   "medications": "None, occasional antacids",
+   "allergies": "None known"
+  },
+  "patient_script": {
+   "opening_line": "My neck and left shoulder have been aching, and honestly my chest feels tight when I hurry.",
+   "behavior": "Gruff and downplays symptoms. Jokes that it is just heartburn. Tends to cut answers short until asked directly.",
+   "if_asked": {
+    "onset": "Neck ache for 2 weeks. Chest tightness for about 2 weeks, mostly walking uphill or carrying loads.",
+    "pain quality": "Pressure in the middle of the chest like a heavy hand, spreading to the left shoulder and jaw. Neck ache is dull. 5 out of 10.",
+    "what makes it worse": "Walking fast, stairs, cold air. Neck movement does not change the chest tightness.",
+    "what makes it better": "Stopping and resting for about 5 minutes. Antacids do not help.",
+    "shortness of breath, sweating, nausea": "Short of breath and sweaty during the tightness on two occasions.",
+    "last episode": "Yesterday while loading the truck, lasting about 8 minutes.",
+    "swelling or fainting": "No leg swelling. Felt lightheaded once.",
+    "smoking, alcohol and diet": "Smokes a pack a day, drinks 2 beers nightly, eats fast food on the road."
+   },
+   "volunteers_only_if_asked": [
+    "Chest pressure goes to the jaw and left shoulder",
+    "Episode yesterday lasted 8 minutes",
+    "Father died of a heart attack at 54"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Seated BP right arm 168/102, left arm 164/100. HR 88 regular. Overweight, appears anxious but comfortable at rest.",
+   "inspection": "No jugular distention. No leg swelling. Xanthelasma near the left eyelid. Nicotine stained fingertips.",
+   "palpation": "Mild tenderness of left upper trapezius and C5 to C6 paraspinals. Chest wall nontender, no pain with palpation or deep breathing.",
+   "range_of_motion": "Cervical range of motion mildly limited by tightness, no change in chest tightness with movement. Left shoulder full range, no pain.",
+   "orthopedic_tests": "Cervical compression and Spurling negative. Shoulder depression and shoulder impingement tests negative. Pain not reproduced by chest wall palpation.",
+   "neurologic": "Upper limb strength 5 out of 5, reflexes 2+ equal, sensation intact. Cranial nerves intact.",
+   "other_system_exam": "Heart: S4 gallop, no murmur. Lungs clear. Carotid bruit on the right. Abdomen soft, no pulsatile mass. Femoral pulses equal. Pedal pulses 2+. Fundoscopy not performed in the office."
+  },
+  "checklist": {
+   "history": [
+    "Asks character, location and radiation of the chest discomfort",
+    "Asks what triggers and relieves it, including exertion and rest",
+    "Asks about shortness of breath, sweating, nausea and lightheadedness",
+    "Asks duration and last episode",
+    "Asks about cardiac risk factors such as smoking, family history and diet",
+    "Asks about blood pressure history and medications",
+    "Asks if neck movement changes the symptoms"
+   ],
+   "physical_exam": [
+    "Takes blood pressure in both arms",
+    "Takes pulse and respiratory rate",
+    "Listens to heart and lungs",
+    "Checks carotid arteries for bruits",
+    "Inspects for edema and jugular distention",
+    "Palpates the chest wall to test for musculoskeletal pain",
+    "Examines the cervical spine and shoulder",
+    "Checks peripheral pulses"
+   ],
+   "diagnosis_and_case_management": [
+    "States suspicion of exertional angina (unstable or new onset) with severe hypertension",
+    "Recognizes this as a probable cardiac problem, not a neck problem",
+    "Does not perform spinal manipulation",
+    "Refers urgently to the emergency room or cardiology for ECG and troponin",
+    "Names a differential such as GERD, cervical radiculopathy and musculoskeletal strain",
+    "Advises to avoid exertion and not to drive himself"
+   ],
+   "communication": [
+    "Introduces self and confirms name",
+    "Explains the concern respectfully to a patient who minimizes",
+    "Explains why he needs a heart evaluation today",
+    "Confirms agreement with the plan"
+   ],
+   "professionalism": [
+    "Puts safety ahead of patient's request for neck care",
+    "Obtains consent and uses hand hygiene",
+    "Narrates actions for the video"
+   ]
+  },
+  "diagnosis": {
+   "working": "New onset exertional angina, likely unstable, with severe uncontrolled hypertension",
+   "differential": [
+    "Gastroesophageal reflux",
+    "Cervical radiculopathy with referred shoulder pain",
+    "Musculoskeletal chest wall strain",
+    "Aortic dissection"
+   ],
+   "red_flags_to_catch": [
+    "Pressure in the chest with exertion relieved by rest",
+    "Radiation to jaw and left shoulder",
+    "Episode lasting 8 minutes with sweating and shortness of breath",
+    "BP 168/102",
+    "Strong risk factors: smoker, father died at 54, overweight, carotid bruit"
+   ],
+   "imaging_or_labs_to_order": "12 lead ECG and serial troponin at the hospital; stress testing or angiography only after the cardiology team stabilises him. Lipid panel and glucose later.",
+   "referral_or_emergency": "Same day emergency room by ambulance, since new onset angina can become a heart attack. Not treatable in a chiropractic office."
+  },
+  "model_soap": {
+   "S": "56 year old male truck driver, 2 weeks of neck and left shoulder ache and chest pressure with exertion relieved by rest in 5 minutes, radiating to jaw and left shoulder, sweating and shortness of breath. Last episode yesterday lasted 8 minutes. Smoker 30 pack years, father died of MI at 54, untreated hypertension.",
+   "O": "BP 168/102 right, 164/100 left. HR 88. S4 gallop, right carotid bruit. Lungs clear. Chest wall nontender. Cervical tests negative. Neuro intact.",
+   "A": "Probable new onset unstable angina with severe hypertension. Neck and shoulder symptoms likely referred cardiac pain. Cervical strain less likely.",
+   "P": "Emergency transport to hospital for ECG and troponin. No spinal manipulation and no exertion. Not to drive. Cardiology follow up. Risk factor counseling later."
+  },
+  "common_errors": [
+   "Treating the neck and shoulder pain and ignoring the chest symptoms",
+   "Taking blood pressure in only one arm or skipping it",
+   "Accepting the patient's claim that it is heartburn",
+   "Scheduling a follow up visit instead of sending him to the emergency room",
+   "Performing spinal manipulation on a possibly unstable cardiac patient",
+   "Not asking about family history, smoking and what relieves the chest tightness"
+  ]
+ },
+ {
+  "id": "E07",
+  "system": "Musculoskeletal",
+  "title": "Pop in the knee during a soccer game",
+  "door_chart": {
+   "patient": "Marcus Tillery, 19, male",
+   "vitals": "BP 118/72, HR 70, RR 14, temp 98.4 F, height 5 ft 11 in, weight 172 lb",
+   "chief_complaint": "Right knee pain and swelling after a soccer game 2 days ago",
+   "history_on_chart": "Planted my foot and twisted, heard a pop, could not keep playing. Knee swelled by that night. Feels like it might give out when I walk.",
+   "medications": "Ibuprofen 400 mg as needed",
+   "allergies": "None known"
+  },
+  "patient_script": {
+   "opening_line": "I hurt my knee at my game and I need to be back on the field in two weeks.",
+   "behavior": "Anxious and a little impatient, wants a quick fix, answers in short sentences.",
+   "if_asked": {
+    "onset": "Two days ago, no one hit me, I cut to the left and my foot stayed planted.",
+    "pain quality": "Dull ache, 5 out of 10, sharp when I turn.",
+    "swelling": "Swelled within a few hours, not slowly over days.",
+    "locking": "No true locking, it just feels loose.",
+    "giving way": "Yes, twice when I stepped off a curb.",
+    "numbness or foot color change": "None, foot feels normal.",
+    "fever, other joint pain, rash": "None.",
+    "past injuries": "Sprained the same ankle last year."
+   },
+   "volunteers_only_if_asked": [
+    "Heard a loud pop at the moment of injury",
+    "Knee gave way twice since",
+    "Has been walking on it and playing a short scrimmage yesterday"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Healthy, walks with a marked limp, guarding the right leg, and can take only two steps before stopping.",
+   "inspection": "Moderate swelling of the right knee, no redness, no bruising on the calf, no deformity.",
+   "palpation": "Warm joint, effusion with positive ballotable patella, joint line tenderness at the lateral side mild, no tenderness over the fibular head or tibial tubercle, calf soft and not tender.",
+   "range_of_motion": "Flexion limited to 100 degrees by swelling, extension lacks 5 degrees, no true block.",
+   "orthopedic_tests": "Lachman positive with soft end feel and increased translation. Anterior drawer positive. Pivot shift positive but guarded. Posterior drawer negative. Valgus and varus stress at 0 and 30 degrees stable. McMurray equivocal for lateral pain. Ottawa knee rules: unable to bear weight for 4 steps, so radiographs are indicated.",
+   "neurologic": "Lower limb reflexes 2 plus and symmetric, strength 5 out of 5 except quadriceps 4 out of 5 from pain, sensation intact.",
+   "other_system_exam": "Dorsalis pedis and posterior tibial pulses 2 plus, foot warm with brisk capillary refill."
+  },
+  "checklist": {
+   "history": [
+    "Asks the mechanism of injury (twist, contact or no contact)",
+    "Asks about a pop, timing of swelling, and locking or giving way",
+    "Asks about numbness, foot color change, or calf pain",
+    "Asks about past knee injuries and the earlier ankle sprain",
+    "Asks about medications, allergies, and sports goals",
+    "Asks screening questions for fever, other joint pain, and rash"
+   ],
+   "physical_exam": [
+    "Checks vitals and watches gait",
+    "Inspects and palpates for effusion, warmth, and joint line tenderness",
+    "Measures active and passive range of motion",
+    "Performs Lachman, anterior drawer, and pivot shift",
+    "Performs valgus and varus stress and posterior drawer",
+    "Performs McMurray for meniscus",
+    "Checks distal pulses and a lower limb neurologic screen",
+    "Applies Ottawa knee rules"
+   ],
+   "diagnosis_and_case_management": [
+    "States working diagnosis of anterior cruciate ligament tear",
+    "Lists meniscus tear, collateral ligament sprain, and tibial plateau fracture as differentials",
+    "Orders knee radiographs and refers for MRI and orthopedic evaluation",
+    "Gives RICE style care, a brace, crutches, and no return to sport",
+    "Does not manipulate or stress the knee further"
+   ],
+   "communication": [
+    "Introduces self and uses plain language",
+    "Explains the likely diagnosis and why sport must stop",
+    "Sets honest expectations about recovery time",
+    "Asks the patient to repeat back the plan"
+   ],
+   "professionalism": [
+    "Washes hands and drapes appropriately",
+    "Respects patient goals while putting safety first",
+    "Documents clearly and states referral plan"
+   ]
+  },
+  "diagnosis": {
+   "working": "Right anterior cruciate ligament tear, likely with lateral meniscus involvement",
+   "differential": [
+    "Meniscus tear",
+    "Medial collateral ligament sprain",
+    "Patellar dislocation with spontaneous reduction",
+    "Tibial plateau fracture"
+   ],
+   "red_flags_to_catch": [
+    "Fast swelling within hours suggests bleeding into the joint",
+    "Unable to bear weight, so radiographs per Ottawa rules",
+    "Check pulses to rule out vascular injury with knee instability"
+   ],
+   "imaging_or_labs_to_order": "Knee radiographs to rule out fracture, then MRI to confirm ligament and meniscus damage.",
+   "referral_or_emergency": "Refer to orthopedics or sports medicine within days. Send to the emergency department if the foot is cold, pale, or pulseless."
+  },
+  "model_soap": {
+   "S": "19 year old male, right knee pain and swelling 2 days after a non contact twist playing soccer. Heard a pop, swelling within hours, giving way twice. No numbness. Takes ibuprofen. No allergies.",
+   "O": "BP 118/72, HR 70. Effusion, warm joint, flexion 100 degrees, extension lacks 5. Lachman and anterior drawer positive, pivot shift positive. Ligament stress at 0 and 30 stable. Pulses 2 plus. Ottawa rules positive.",
+   "A": "Probable right ACL tear, possible lateral meniscus injury. Rule out fracture.",
+   "P": "Knee radiographs today, MRI and orthopedic referral. Brace, crutches, ice, elevation, no sports. Return precautions for cold or pale foot or calf swelling. Follow up in 1 week."
+  },
+  "common_errors": [
+   "Skipping Lachman and drawer tests because the knee is swollen",
+   "Forgetting to check distal pulses",
+   "Skipping radiographs even though Ottawa rules are positive",
+   "Telling the patient they can return to sport in two weeks",
+   "Doing repeated stress tests that further injure the knee"
+  ]
+ },
+ {
+  "id": "E08",
+  "system": "Musculoskeletal",
+  "title": "Mid back pain after lifting a grandchild",
+  "door_chart": {
+   "patient": "Dorothy Hargrove, 72, female",
+   "vitals": "BP 138/80, HR 76, RR 16, temp 98.2 F, height 5 ft 1 in (was 5 ft 4 in at age 40), weight 108 lb",
+   "chief_complaint": "Sharp mid back pain for 5 days",
+   "history_on_chart": "Felt a sharp pain in my middle back when I lifted my grandson out of his car seat. Worse when I stand up from a chair. Ibuprofen helps a little.",
+   "medications": "Prednisone 10 mg daily for rheumatoid arthritis, ibuprofen, calcium",
+   "allergies": "Sulfa drugs"
+  },
+  "patient_script": {
+   "opening_line": "I just lifted my grandson and something in my back caught. It has not let up all week.",
+   "behavior": "Polite, minimizes pain, says she does not want to be a bother.",
+   "if_asked": {
+    "onset": "Sudden, 5 days ago when lifting about 25 pounds.",
+    "pain quality": "Sharp, 7 out of 10 with standing, 3 at rest, stays in the middle back, no radiation.",
+    "night pain": "Hurts a bit lying flat but she can sleep on her side.",
+    "weight loss": "Lost 4 pounds over a year, thinks from poor appetite.",
+    "bowel and bladder": "Normal, no leg weakness or numbness.",
+    "cancer history": "None, but never had a mammogram in 8 years.",
+    "falls": "One fall 6 months ago, no fracture.",
+    "smoking": "Smoked half a pack a day for 40 years, quit 10 years ago.",
+    "menopause": "Menopause at 48, never had a bone density scan."
+   },
+   "volunteers_only_if_asked": [
+    "Has taken prednisone for 9 years",
+    "Has lost about 3 inches of height",
+    "Mother had a hip fracture at 78"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Thin, frail looking, increased thoracic kyphosis, rises slowly from the chair holding the armrests.",
+   "inspection": "Marked thoracic kyphosis, no skin changes, no rash.",
+   "palpation": "Sharp point tenderness over the T10 spinous process, mild paraspinal spasm, no other spinal tenderness, no abdominal mass.",
+   "range_of_motion": "Thoracic flexion painful, extension and rotation limited by pain, lumbar motion mildly limited.",
+   "orthopedic_tests": "Percussion of T10 reproduces the pain. Valsalva mildly increases pain locally. Rib spring negative. Straight leg raise negative. Hip and shoulder tests normal.",
+   "neurologic": "Lower limb strength 5 out of 5, reflexes 2 plus, sensation intact, no clonus, plantar responses flexor.",
+   "other_system_exam": "Lungs clear, heart regular, abdomen soft and non tender, no pulsatile mass, breast exam not performed in this encounter."
+  },
+  "checklist": {
+   "history": [
+    "Asks the mechanism and force involved",
+    "Asks about night pain, weight loss, and cancer history",
+    "Asks about steroid use and its duration",
+    "Asks about falls, menopause, smoking, and family fracture history",
+    "Asks about bowel, bladder, and leg weakness",
+    "Asks about medications and allergies"
+   ],
+   "physical_exam": [
+    "Measures height and compares to past height",
+    "Inspects posture and kyphosis",
+    "Palpates the spine for point tenderness",
+    "Uses gentle spinal percussion rather than force",
+    "Performs thoracic range of motion within comfort",
+    "Does a full lower limb neurologic exam",
+    "Checks lungs and abdomen"
+   ],
+   "diagnosis_and_case_management": [
+    "States working diagnosis of thoracic vertebral compression fracture",
+    "Lists strain, metastatic disease, and myeloma as differentials",
+    "Orders thoracic and lumbar radiographs and a DEXA scan",
+    "Avoids spinal manipulation and heavy soft tissue work at the fracture",
+    "Refers to the primary care physician for osteoporosis treatment and workup"
+   ],
+   "communication": [
+    "Uses calm language for a worried older patient",
+    "Explains why manipulation is not safe for her",
+    "Gives clear lifting and activity advice",
+    "Checks that she understands the referral"
+   ],
+   "professionalism": [
+    "Helps patient safely on and off the table",
+    "Does not promise a cure",
+    "Documents the contraindication to manipulation"
+   ]
+  },
+  "diagnosis": {
+   "working": "Thoracic compression fracture at T10 from osteoporosis, made worse by long term steroid use",
+   "differential": [
+    "Muscle strain",
+    "Metastatic bone disease",
+    "Multiple myeloma",
+    "Pathologic fracture from infection"
+   ],
+   "red_flags_to_catch": [
+    "Age over 70",
+    "Long term corticosteroid use",
+    "Height loss and increased kyphosis",
+    "Minor trauma causing severe pain",
+    "Unexplained weight loss"
+   ],
+   "imaging_or_labs_to_order": "Thoracic and lumbar radiographs, DEXA scan, and blood tests such as CBC, calcium, ESR, and vitamin D. Consider serum protein electrophoresis.",
+   "referral_or_emergency": "Same week referral to her physician for osteoporosis care and cancer screening. Emergency referral if leg weakness, numbness, or loss of bladder or bowel control appears."
+  },
+  "model_soap": {
+   "S": "72 year old female, 5 days of sharp mid back pain that began when lifting a child. Long term prednisone, 3 inch height loss, mild weight loss, prior smoker. No leg weakness or bladder change.",
+   "O": "BP 138/80. Marked kyphosis. Point tenderness and positive percussion at T10. Neurologic exam normal. Lungs clear, abdomen soft.",
+   "A": "Probable T10 osteoporotic compression fracture. Rule out malignancy or myeloma.",
+   "P": "No spinal manipulation. Thoracic and lumbar radiographs, DEXA, blood tests. Refer to primary physician this week. Lifting limits, walking, and bracing as advised. Return at once for leg weakness or bladder changes."
+  },
+  "common_errors": [
+   "Performing spinal manipulation on a high risk older patient",
+   "Treating as a simple muscle strain without radiographs",
+   "Forgetting to ask about steroid use",
+   "Missing the height loss and kyphosis",
+   "Not referring for bone density and cancer workup"
+  ]
+ },
+ {
+  "id": "E09",
+  "system": "Neurology",
+  "title": "Spinning when rolling over in bed",
+  "door_chart": {
+   "patient": "Elaine Fontaine, 58, female",
+   "vitals": "BP 128/78, HR 72, RR 14, temp 98.6 F, height 5 ft 5 in, weight 150 lb",
+   "chief_complaint": "Dizziness and spinning for 10 days",
+   "history_on_chart": "Room spins for under a minute when I roll over in bed or look up to a shelf. Feels a little nauseous after. No headache.",
+   "medications": "Lisinopril 10 mg, atorvastatin",
+   "allergies": "None known"
+  },
+  "patient_script": {
+   "opening_line": "The room spins when I turn over in bed, and it scares me.",
+   "behavior": "Worried she might be having a stroke, speaks quickly, a little tearful.",
+   "if_asked": {
+    "onset": "10 days ago, first noticed rolling to the right in bed.",
+    "pain quality": "No pain, a spinning feeling lasting about 30 seconds.",
+    "triggers": "Rolling right, looking up, bending over.",
+    "hearing": "No ringing, no hearing loss, no ear fullness.",
+    "neurologic symptoms": "No double vision, slurred speech, facial droop, weakness, or numbness.",
+    "headache or neck pain": "None. No recent neck injury.",
+    "constant dizziness": "No, between spells she feels normal.",
+    "recent illness": "A cold two weeks ago.",
+    "falls": "No falls but has held the wall for balance."
+   },
+   "volunteers_only_if_asked": [
+    "Vomited once during an episode",
+    "Fear of stroke because her father had one",
+    "Has had a neck adjustment in the past with no problem"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Well appearing, speech clear, no distress.",
+   "inspection": "No nystagmus at rest, normal gait on level ground, no facial asymmetry.",
+   "palpation": "Neck muscles mildly tight, no tenderness over the cervical spine.",
+   "range_of_motion": "Cervical motion full and pain free, no dizziness with active neck rotation alone.",
+   "orthopedic_tests": "Dix Hallpike to the right: after 3 seconds, vertigo and torsional upbeating nystagmus toward the right ear lasting 25 seconds, fatigues on repeat. Dix Hallpike left is negative. Supine roll test negative. Head impulse test normal both sides. Cervical rotation test without head hanging reproduces no symptoms.",
+   "neurologic": "Cranial nerves 2 to 12 intact, finger to nose normal, rapid alternating movements normal, Romberg normal, gait and tandem walk normal, no vertical nystagmus, no direction changing nystagmus.",
+   "other_system_exam": "Ear exam normal, tympanic membranes clear, Weber midline, Rinne air greater than bone bilaterally. Carotid auscultation clear."
+  },
+  "checklist": {
+   "history": [
+    "Asks what the dizziness feels like (spinning versus lightheaded)",
+    "Asks about triggers and how long each spell lasts",
+    "Asks about hearing loss, tinnitus, and ear fullness",
+    "Asks about stroke symptoms such as double vision, speech or facial changes",
+    "Asks about headache, neck pain, and neck trauma",
+    "Asks about recent illness and medications"
+   ],
+   "physical_exam": [
+    "Checks vitals and general appearance",
+    "Examines for resting nystagmus",
+    "Tests cranial nerves",
+    "Performs cerebellar tests and Romberg and gait",
+    "Performs Dix Hallpike on both sides",
+    "Performs head impulse test and supine roll test",
+    "Examines ears and does Weber and Rinne",
+    "Auscultates carotids"
+   ],
+   "diagnosis_and_case_management": [
+    "States working diagnosis of right posterior canal benign paroxysmal positional vertigo",
+    "Lists vestibular neuritis, Meniere disease, and central causes in the differential",
+    "Explains why this is not stroke and states stroke warning signs to watch",
+    "Performs or plans the Epley maneuver after ruling out central signs",
+    "Refers if signs are central or do not resolve in a few weeks"
+   ],
+   "communication": [
+    "Reassures the patient without dismissing her fear",
+    "Explains the maneuver in plain steps",
+    "Warns that brief dizziness may recur",
+    "Gives fall prevention advice"
+   ],
+   "professionalism": [
+    "Obtains consent before moving the head",
+    "Stays alert for nausea and has a bucket ready",
+    "Documents negative central findings"
+   ]
+  },
+  "diagnosis": {
+   "working": "Right posterior canal benign paroxysmal positional vertigo",
+   "differential": [
+    "Vestibular neuritis",
+    "Meniere disease",
+    "Vertebrobasilar insufficiency or cerebellar stroke",
+    "Medication related dizziness"
+   ],
+   "red_flags_to_catch": [
+    "New severe headache or neck pain",
+    "Double vision, slurred speech, or facial droop",
+    "Vertical or direction changing nystagmus",
+    "Inability to walk or truncal ataxia"
+   ],
+   "imaging_or_labs_to_order": "None needed when the exam is typical. MRI if any central sign, or if the vertigo does not respond to repositioning.",
+   "referral_or_emergency": "Emergency referral for any stroke sign. Refer to ENT or neurology if the vertigo persists beyond 3 to 4 weeks or findings change."
+  },
+  "model_soap": {
+   "S": "58 year old female, 10 days of spinning vertigo on rolling or looking up, each lasting under 1 minute. No hearing loss, headache, or stroke symptoms. Recent cold. Takes lisinopril and atorvastatin.",
+   "O": "BP 128/78. Cranial nerves, cerebellar tests, Romberg, and gait normal. No resting nystagmus. Right Dix Hallpike: delayed torsional upbeating nystagmus 25 seconds, fatigues. Left negative. Head impulse normal.",
+   "A": "Right posterior canal BPPV. Central cause unlikely.",
+   "P": "Epley maneuver right today. Avoid lying flat for a short time and sleep slightly propped. Fall precautions. Recheck in 1 week. Go to the emergency department for double vision, speech trouble, weakness, or severe headache."
+  },
+  "common_errors": [
+   "Skipping the neurologic exam before positional testing",
+   "Doing cervical manipulation as the treatment for vertigo",
+   "Doing Dix Hallpike on one side only",
+   "Not asking about stroke warning signs",
+   "Doing the wrong direction for the Epley maneuver"
+  ]
+ },
+ {
+  "id": "E10",
+  "system": "Neurology",
+  "title": "Leg pain when walking in the grocery store",
+  "door_chart": {
+   "patient": "Walter Kowalski, 67, male",
+   "vitals": "BP 144/86, HR 78, RR 16, temp 98.4 F, height 5 ft 9 in, weight 205 lb",
+   "chief_complaint": "Both legs ache and feel heavy when I walk",
+   "history_on_chart": "Pain starts after about 10 minutes of walking. I have to sit down to feel better. Low back stiff in the mornings. Type 2 diabetes for 12 years.",
+   "medications": "Metformin, lisinopril, aspirin 81 mg",
+   "allergies": "Penicillin"
+  },
+  "patient_script": {
+   "opening_line": "I can't get through the grocery store anymore without sitting down.",
+   "behavior": "Friendly, a bit discouraged, jokes about getting old.",
+   "if_asked": {
+    "onset": "Gradual over 8 months, getting worse.",
+    "pain quality": "Heavy, achy, with tingling down both thighs and calves, worse on the right.",
+    "relief": "Sitting or bending forward over the cart relieves it in about 3 minutes.",
+    "uphill and downhill": "Worse walking downhill, better walking uphill or riding a bike.",
+    "bowel and bladder": "Normal, no saddle numbness.",
+    "feet": "Occasional tingling in toes at night, no burning.",
+    "cold feet or skin changes": "No sores, no color change.",
+    "weight loss or fever": "None.",
+    "back pain": "Mild, 3 out of 10, stiff in the morning."
+   },
+   "volunteers_only_if_asked": [
+    "Can ride a stationary bike 30 minutes without pain",
+    "Last A1c was 7.4 percent",
+    "Has been avoiding walks and gained 15 pounds"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Overweight, walks with a slight forward lean, appears comfortable seated.",
+   "inspection": "Flattened lumbar curve, no skin ulcers, hair present on lower legs, feet warm with normal color.",
+   "palpation": "Mild lumbar paraspinal tightness, no midline tenderness, no abdominal pulsatile mass.",
+   "range_of_motion": "Lumbar extension limited and reproduces thigh and calf tingling after 20 seconds, flexion full and relieves symptoms.",
+   "orthopedic_tests": "Straight leg raise negative bilaterally. Kemp test positive for leg symptoms on extension both sides. Hip range of motion normal. Walking on a treadmill style test in the office reproduces symptoms at 6 minutes, relieved by forward flexion.",
+   "neurologic": "Strength 5 out of 5 except right extensor hallucis longus 4 out of 5, ankle reflexes 1 plus bilaterally, patellar 2 plus, vibration reduced at both great toes, light touch preserved, monofilament felt at all sites.",
+   "other_system_exam": "Dorsalis pedis and posterior tibial pulses 2 plus bilaterally, capillary refill normal, ABI not measured in the office."
+  },
+  "checklist": {
+   "history": [
+    "Asks what makes symptoms better or worse, including sitting and bending forward",
+    "Asks about walking distance and uphill versus downhill",
+    "Asks about bowel, bladder, and saddle numbness",
+    "Asks about diabetes control and foot symptoms",
+    "Asks about cold feet, skin changes, and cardiovascular risk",
+    "Asks about weight loss, fever, and cancer history",
+    "Asks about medications"
+   ],
+   "physical_exam": [
+    "Checks vitals and observes gait and posture",
+    "Inspects feet and skin",
+    "Palpates pulses in the legs and feet",
+    "Tests lumbar extension and flexion for symptom reproduction",
+    "Performs straight leg raise and Kemp test",
+    "Does full lower limb strength, reflex, and sensory testing",
+    "Tests vibration and monofilament",
+    "Examines the abdomen for a pulsatile mass"
+   ],
+   "diagnosis_and_case_management": [
+    "States working diagnosis of lumbar spinal stenosis with neurogenic claudication",
+    "Lists vascular claudication, diabetic peripheral neuropathy, and hip arthritis as differentials",
+    "Explains how pulses and relief by flexion separate stenosis from vascular claudication",
+    "Orders MRI of the lumbar spine and refers if weakness progresses",
+    "Plans flexion based exercise and weight loss, and avoids extension and high velocity thrust in the lumbar spine"
+   ],
+   "communication": [
+    "Explains stenosis in simple words",
+    "Addresses his frustration about activity",
+    "Sets realistic goals",
+    "Reviews warning signs of cauda equina"
+   ],
+   "professionalism": [
+    "Coordinates with his primary doctor about diabetes",
+    "Respects patient preferences about treatment",
+    "Documents the neurologic findings clearly"
+   ]
+  },
+  "diagnosis": {
+   "working": "Lumbar spinal stenosis with neurogenic claudication, with early diabetic neuropathy as a contributing finding",
+   "differential": [
+    "Vascular claudication from peripheral artery disease",
+    "Diabetic peripheral neuropathy",
+    "Hip osteoarthritis",
+    "Lumbar disc herniation"
+   ],
+   "red_flags_to_catch": [
+    "New bowel or bladder changes or saddle numbness",
+    "Progressive leg weakness",
+    "Absent pulses or cold feet suggesting vascular disease",
+    "Unexplained weight loss or fever"
+   ],
+   "imaging_or_labs_to_order": "MRI lumbar spine. Consider ankle brachial index and nerve conduction testing if the picture is unclear. Check A1c and B12.",
+   "referral_or_emergency": "Surgical or spine specialist referral if weakness progresses or conservative care fails. Emergency care for cauda equina signs."
+  },
+  "model_soap": {
+   "S": "67 year old male, 8 months of bilateral leg heaviness and tingling when walking, relieved by sitting or bending forward, better uphill. Type 2 diabetes. No bowel or bladder changes. Takes metformin, lisinopril, aspirin.",
+   "O": "BP 144/86. Lumbar extension reproduces symptoms, flexion relieves. SLR negative. Right EHL 4 out of 5, ankle reflexes 1 plus, reduced vibration at toes. Pulses 2 plus, feet warm.",
+   "A": "Lumbar spinal stenosis with neurogenic claudication. Mild diabetic neuropathy. Vascular claudication unlikely.",
+   "P": "MRI lumbar spine. Flexion based exercise, walking program with cart or bike, weight loss. No lumbar extension thrust. Check A1c and B12 with primary doctor. Return for weakness or bladder changes."
+  },
+  "common_errors": [
+   "Calling it neuropathy and ignoring the positional pattern",
+   "Not checking leg pulses",
+   "Using high velocity lumbar extension techniques",
+   "Forgetting to screen for cauda equina signs",
+   "Not coordinating diabetes care"
+  ]
+ },
+ {
+  "id": "E11",
+  "system": "Pulmonary",
+  "title": "Cough that will not go away",
+  "door_chart": {
+   "patient": "Priya Nair, 34, female",
+   "vitals": "BP 112/70, HR 82, RR 18, temp 98.6 F, SpO2 97 percent, height 5 ft 4 in, weight 138 lb",
+   "chief_complaint": "Dry cough for 3 months, worse at night",
+   "history_on_chart": "Cough started after a cold and never left. Wakes me at night. Chest feels tight when I exercise or laugh. Never smoked.",
+   "medications": "Ibuprofen as needed for back pain, birth control pill",
+   "allergies": "Seasonal pollen, cats"
+  },
+  "patient_script": {
+   "opening_line": "I have had this cough for three months and nothing helps.",
+   "behavior": "Tired, a little frustrated, coughs now and then during the visit.",
+   "if_asked": {
+    "onset": "Three months ago after a cold.",
+    "pain quality": "Dry cough, tight chest, no pain, a faint wheeze at night.",
+    "triggers": "Cold air, running, cat dander, laughing.",
+    "sputum": "Almost none, never bloody.",
+    "fever and weight loss": "No fever, no weight change, no night sweats.",
+    "reflux": "Occasional heartburn, not daily.",
+    "family history": "Brother has asthma, mother has eczema.",
+    "travel and sick contacts": "No travel, no one sick at home.",
+    "back pain and ibuprofen": "Takes ibuprofen about three times a week and notices more tightness afterward."
+   },
+   "volunteers_only_if_asked": [
+    "Chest tightness gets worse after ibuprofen",
+    "Had eczema as a child",
+    "Uses her friend's albuterol inhaler once and it helped"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Well appearing, speaks in full sentences, occasional dry cough, no use of accessory muscles.",
+   "inspection": "Normal chest shape, no clubbing, no cyanosis, nasal mucosa pale and swollen.",
+   "palpation": "Chest expansion symmetric, no tenderness, tactile fremitus normal.",
+   "range_of_motion": "Thoracic and neck motion normal.",
+   "orthopedic_tests": "None relevant to this complaint.",
+   "neurologic": "Cranial nerves and strength normal.",
+   "other_system_exam": "Lungs: end expiratory wheeze in both lower fields, prolonged expiration, no crackles, resonant to percussion. Forced expiration provokes cough. Heart regular without murmur. Throat mildly cobblestoned. No lymph nodes. Legs without swelling. Peak flow 340 L per minute, predicted about 450."
+  },
+  "checklist": {
+   "history": [
+    "Asks about onset, timing, and night waking",
+    "Asks about triggers such as cold air, exercise, and allergens",
+    "Asks about sputum, blood, fever, and weight loss",
+    "Asks about heartburn and postnasal drip",
+    "Asks about smoking, family history of asthma, and eczema",
+    "Asks about medications including ibuprofen and any ACE inhibitor",
+    "Asks about travel and sick contacts"
+   ],
+   "physical_exam": [
+    "Checks vitals including SpO2 and respiratory rate",
+    "Inspects for clubbing, cyanosis, and nasal findings",
+    "Palpates for chest expansion",
+    "Percusses the chest",
+    "Auscultates all lung fields including forced expiration",
+    "Measures peak flow or requests spirometry",
+    "Examines throat and lymph nodes",
+    "Checks heart and legs"
+   ],
+   "diagnosis_and_case_management": [
+    "States working diagnosis of asthma",
+    "Lists GERD, postnasal drip, ACE inhibitor cough, and infection in the differential",
+    "Orders spirometry before and after bronchodilator and refers to her physician",
+    "Advises avoiding ibuprofen and triggers pending evaluation",
+    "Gives return precautions for shortness of breath"
+   ],
+   "communication": [
+    "Uses clear, simple words about asthma",
+    "Acknowledges her frustration",
+    "Explains why she needs medical testing",
+    "Checks understanding of warning signs"
+   ],
+   "professionalism": [
+    "Wears a mask or washes hands with a coughing patient",
+    "Does not claim chiropractic care treats asthma itself",
+    "Documents clearly and communicates the referral"
+   ]
+  },
+  "diagnosis": {
+   "working": "Asthma with chronic cough and chest tightness, possible NSAID sensitivity",
+   "differential": [
+    "Gastroesophageal reflux",
+    "Upper airway cough syndrome",
+    "ACE inhibitor cough",
+    "Post infectious cough or pertussis",
+    "Early COPD"
+   ],
+   "red_flags_to_catch": [
+    "Coughing blood",
+    "Weight loss or night sweats",
+    "Oxygen saturation under 94 percent",
+    "Severe shortness of breath or inability to speak in full sentences"
+   ],
+   "imaging_or_labs_to_order": "Spirometry with bronchodilator response, chest radiograph if the cough persists or findings atypical.",
+   "referral_or_emergency": "Refer to primary care or pulmonology for spirometry and a controller or rescue inhaler plan. Send to emergency care for severe breathlessness, low saturation, or blue lips."
+  },
+  "model_soap": {
+   "S": "34 year old female, 3 months of dry cough, worse at night and with cold air and exercise. Chest tightness, no fever or weight loss. Never smoked. Brother has asthma. Takes ibuprofen and gets more tightness after it.",
+   "O": "BP 112/70, RR 18, SpO2 97 percent. End expiratory wheeze both bases, prolonged expiration. Peak flow 340, predicted 450. Pale swollen nasal mucosa. No clubbing, normal heart.",
+   "A": "Probable asthma. NSAID sensitivity possible. Reflux or upper airway cough less likely.",
+   "P": "Refer to physician for spirometry and inhaler plan. Avoid ibuprofen until reviewed. Trigger control. Return or call emergency for severe breathlessness."
+  },
+  "common_errors": [
+   "Treating a three month cough as a simple cold",
+   "Not listening during forced expiration",
+   "Missing the NSAID link to tightness",
+   "Failing to ask about coughing blood and weight loss",
+   "Offering spinal adjustments as a treatment for asthma"
+  ]
+ },
+ {
+  "id": "E12",
+  "system": "Gastrointestinal",
+  "title": "Back pain that gets better leaning forward",
+  "door_chart": {
+   "patient": "Raymond Delacroix, 49, male",
+   "vitals": "BP 146/92, HR 108, RR 20, temp 100.4 F, height 5 ft 10 in, weight 192 lb",
+   "chief_complaint": "Mid back pain for 2 days",
+   "history_on_chart": "Pain started after a big dinner. It goes straight through to my back. I feel sick to my stomach. I thought I slept wrong.",
+   "medications": "None, takes an antacid occasionally",
+   "allergies": "None known"
+  },
+  "patient_script": {
+   "opening_line": "My back is killing me and nothing I do makes it go away.",
+   "behavior": "Uncomfortable, restless, leans forward in the chair, minimizes drinking when first asked.",
+   "if_asked": {
+    "onset": "Two days ago, a few hours after a heavy meal and drinks.",
+    "pain quality": "Deep, constant, boring pain at the upper belly that goes through to the mid back, 8 out of 10.",
+    "position": "Better leaning forward or curled up, much worse lying flat.",
+    "movement": "Turning and bending the back does not change it.",
+    "nausea and vomiting": "Vomited three times, no relief.",
+    "bowel": "No blood in stool, no diarrhea.",
+    "urinary": "No burning or blood in urine.",
+    "alcohol": "Admits to 4 to 5 beers most nights for years, more this weekend.",
+    "gallstones": "Told of gallstones once, never treated.",
+    "chest pain or shortness of breath": "None.",
+    "fever": "Felt feverish last night."
+   },
+   "volunteers_only_if_asked": [
+    "Heavy drinking over the weekend",
+    "Previous episode of similar but milder pain last year",
+    "Has not eaten since vomiting"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Uncomfortable, sitting forward, mildly dehydrated with dry mucous membranes, tachycardic.",
+   "inspection": "Spine normal, no skin changes, abdomen mildly distended.",
+   "palpation": "Spinal palpation causes no change in pain. Marked epigastric tenderness with voluntary guarding. No pulsatile mass. No costovertebral angle tenderness.",
+   "range_of_motion": "Lumbar and thoracic range of motion full and does not reproduce the pain.",
+   "orthopedic_tests": "Straight leg raise negative. Kemp test negative. Percussion over the spine non tender. Rib spring negative. Pain is the same in all spinal positions tested.",
+   "neurologic": "Strength 5 out of 5, reflexes 2 plus, sensation intact, no radiculopathy.",
+   "other_system_exam": "Abdomen: bowel sounds diminished, epigastric tenderness, no rebound, Murphy sign negative, McBurney point non tender. No visible bruising at the flanks or umbilicus. Femoral pulses equal and strong. Lungs clear. Heart rapid and regular."
+  },
+  "checklist": {
+   "history": [
+    "Asks about onset, relation to meals, and pain character",
+    "Asks what positions or movements change the pain",
+    "Asks about nausea, vomiting, fever, and bowel changes",
+    "Asks about alcohol use and gallstone history",
+    "Asks about urinary symptoms and chest pain",
+    "Asks about previous similar episodes",
+    "Asks about medications and allergies"
+   ],
+   "physical_exam": [
+    "Checks full vitals and hydration",
+    "Observes position of comfort",
+    "Palpates spine and shows pain is not mechanical",
+    "Examines the abdomen with gentle palpation and listening first",
+    "Checks for guarding, rebound, and Murphy sign",
+    "Palpates for a pulsatile abdominal mass and femoral pulses",
+    "Checks costovertebral angle for kidney involvement",
+    "Performs a brief neurologic screen"
+   ],
+   "diagnosis_and_case_management": [
+    "States working diagnosis of acute pancreatitis",
+    "Lists cholecystitis, perforated ulcer, aortic aneurysm, and kidney stone in the differential",
+    "Recognizes this is not a mechanical back problem and does no spinal manipulation",
+    "Sends the patient to the emergency department today for lipase and imaging",
+    "Tells the patient not to eat or drink and arranges safe transport"
+   ],
+   "communication": [
+    "Stays calm and explains the urgency clearly",
+    "Asks about alcohol without judgment",
+    "Explains why chiropractic treatment is not appropriate today",
+    "Confirms the patient has a ride and understands"
+   ],
+   "professionalism": [
+    "Calls the emergency department with a short handoff",
+    "Documents vitals and the reason for referral",
+    "Does not delay care to try treatment first"
+   ]
+  },
+  "diagnosis": {
+   "working": "Acute pancreatitis presenting as mid back pain, likely alcohol or gallstone related",
+   "differential": [
+    "Acute cholecystitis or biliary colic",
+    "Perforated peptic ulcer",
+    "Abdominal aortic aneurysm",
+    "Kidney stone",
+    "Myocardial infarction presenting in the upper abdomen"
+   ],
+   "red_flags_to_catch": [
+    "Pain unchanged by spinal movement",
+    "Pain relieved by leaning forward and worse lying flat",
+    "Fever and fast heart rate",
+    "Repeated vomiting and abdominal guarding",
+    "Alcohol use and gallstone history"
+   ],
+   "imaging_or_labs_to_order": "Serum lipase and amylase, liver tests, CBC, and abdominal ultrasound or CT. Consider ECG if any chest symptoms.",
+   "referral_or_emergency": "Same day emergency department referral. Pancreatitis can lead to shock, so do not let him drive himself."
+  },
+  "model_soap": {
+   "S": "49 year old male, 2 days of epigastric pain through to mid back, after heavy meal and alcohol. Vomiting, fever last night. Better leaning forward, worse lying flat. Daily beer use, known gallstones.",
+   "O": "BP 146/92, HR 108, temp 100.4 F. Dry mucosa. Spinal motion and palpation do not change pain. Epigastric tenderness with guarding. No pulsatile mass. Femoral pulses equal. Neurologic screen normal.",
+   "A": "Suspected acute pancreatitis. Biliary disease, ulcer, and aneurysm in the differential. Not a mechanical spine problem.",
+   "P": "No spinal treatment. Same day emergency department by ambulance or driver for lipase and imaging. Nothing by mouth. Handoff called. Return to care after medical clearance."
+  },
+  "common_errors": [
+   "Treating with spinal manipulation because the pain is in the back",
+   "Not checking the abdomen",
+   "Missing that leaning forward helps and lying flat worsens the pain",
+   "Skipping vitals that show fever and fast heart rate",
+   "Sending the patient home to rest or drive himself"
+  ]
+ },
+ {
+  "id": "E13",
+  "system": "Gastrointestinal",
+  "title": "Back pain with epigastric burning and dark stools on daily ibuprofen",
+  "door_chart": {
+   "patient": "Walter Brennan, 58, male",
+   "vitals": "BP 118/74 sitting, HR 96, RR 16, temp 98.4 F, height 5 ft 10 in, weight 192 lb",
+   "chief_complaint": "Low back pain for three months",
+   "history_on_chart": "Back aches after yard work. I take ibuprofen all day to keep going. Stomach has been bothering me a few weeks. Feeling tired.",
+   "medications": "Ibuprofen 800 mg three times a day (over the counter plus old prescription), lisinopril 10 mg daily",
+   "allergies": "No known drug allergies"
+  },
+  "patient_script": {
+   "opening_line": "My back has been sore for months and the ibuprofen is not helping as much as it used to.",
+   "behavior": "Friendly, a little tough guy, downplays his stomach. Wants an adjustment and a quick fix. Gets worried if told his stomach could be bleeding.",
+   "if_asked": {
+    "onset": "Back pain began three months ago after lifting mulch. It is a dull ache across the low back, 4 out of 10, no leg symptoms.",
+    "pain quality": "Back pain is worse with bending and better with walking. Not worse at night.",
+    "stomach symptoms": "A burning pain in the upper middle belly for about four weeks. It comes between meals and wakes me up some nights. Eating a little helps for a while.",
+    "stool color": "Yes, my stools have been black and sticky for about a week. I figured it was something I ate.",
+    "vomiting": "No vomiting of blood. Some nausea in the morning.",
+    "dizziness": "A bit lightheaded when I stand up fast, and I get winded on the stairs.",
+    "alcohol and smoking": "Two or three beers a night. I smoke half a pack a day.",
+    "weight change": "Lost about five pounds without trying."
+   },
+   "volunteers_only_if_asked": [
+    "Black stools for a week",
+    "Waking at night with burning pain",
+    "Lightheaded on standing",
+    "Ibuprofen total is about 2400 mg a day",
+    "Heavy beer use"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "BP 118/74 sitting, 100/62 standing with HR rising to 112. Pale conjunctivae. Mildly diaphoretic.",
+   "inspection": "Normal lumbar posture. No skin lesions. Pale nail beds.",
+   "palpation": "Mild lumbar paraspinal tightness bilaterally. Epigastric tenderness to deep palpation, mild guarding, no rebound, no rigidity. Liver edge not palpable. No pulsatile mass.",
+   "range_of_motion": "Lumbar flexion 60 degrees with mild pain at end range, extension 20 degrees, lateral bending full.",
+   "orthopedic_tests": "Straight leg raise negative bilaterally. Kemp test mildly positive on the right for local pain only. Femoral nerve stretch negative.",
+   "neurologic": "Lower extremity strength, sensation and reflexes normal and symmetric.",
+   "other_system_exam": "Abdomen soft, bowel sounds present. Rectal exam is outside the encounter, but the patient reports tarry stools. Heart rate regular and fast. Lungs clear."
+  },
+  "checklist": {
+   "history": [
+    "Asks about onset and mechanism of the back pain",
+    "Asks about all medications including dose and frequency of NSAIDs",
+    "Asks about stomach pain, timing and relation to meals",
+    "Asks about stool color, vomiting blood and nausea",
+    "Asks about lightheadedness, fatigue and weight loss",
+    "Asks about alcohol and tobacco use",
+    "Screens for back pain red flags such as night pain, fever and bowel or bladder change"
+   ],
+   "physical_exam": [
+    "Measures vitals including orthostatic blood pressure and pulse",
+    "Checks conjunctival and skin pallor",
+    "Palpates the abdomen in all quadrants including epigastrium",
+    "Checks for guarding and rebound",
+    "Performs lumbar range of motion",
+    "Performs straight leg raise and a lower extremity neurologic screen",
+    "Palpates for pulsatile abdominal mass"
+   ],
+   "diagnosis_and_case_management": [
+    "Recognizes probable upper GI bleed from NSAID induced ulcer",
+    "Lists differential: gastritis, peptic ulcer, esophageal varices or cancer, mechanical low back pain",
+    "Does not treat with manipulation or advise continuing NSAIDs",
+    "Arranges same day emergency or urgent medical evaluation",
+    "Advises stopping ibuprofen until a physician decides",
+    "Documents the back pain as a secondary, likely mechanical problem to revisit"
+   ],
+   "communication": [
+    "Explains in plain words that the stomach and black stools are the priority",
+    "Uses a calm tone and avoids scaring the patient",
+    "Confirms the patient understands why he is being sent today",
+    "Asks about transportation and tells him not to drive himself",
+    "Invites questions"
+   ],
+   "professionalism": [
+    "Introduces self and washes hands",
+    "Drapes and positions the patient respectfully",
+    "Stays within scope and states the referral clearly",
+    "Speaks aloud what is being done for the video"
+   ]
+  },
+  "diagnosis": {
+   "working": "Suspected NSAID induced peptic ulcer with upper gastrointestinal bleeding and early volume loss; coexisting mechanical low back pain",
+   "differential": [
+    "Erosive gastritis",
+    "Duodenal or gastric ulcer",
+    "Esophageal varices from alcohol use",
+    "Gastric cancer"
+   ],
+   "red_flags_to_catch": [
+    "Melena for one week",
+    "Orthostatic drop in blood pressure with rising heart rate",
+    "Heavy NSAID dose with alcohol use",
+    "Unintentional weight loss",
+    "Pallor and shortness of breath on exertion"
+   ],
+   "imaging_or_labs_to_order": "Stat CBC and hemoglobin, stool occult blood, BUN and creatinine, then upper endoscopy by the receiving physician; H. pylori testing",
+   "referral_or_emergency": "Same day emergency department referral. Do not adjust. The orthostatic changes and melena suggest active blood loss that can worsen quickly."
+  },
+  "model_soap": {
+   "S": "58 year old man, low back pain 3 months, dull, 4 of 10, no leg symptoms. Taking ibuprofen 2400 mg a day. Epigastric burning 4 weeks, wakes him at night. Black sticky stools 1 week, lightheaded on standing, 5 lb weight loss. Drinks 2 to 3 beers nightly, smokes half a pack daily.",
+   "O": "Sitting BP 118/74 HR 96, standing BP 100/62 HR 112. Pale conjunctivae. Epigastric tenderness with mild guarding, no rebound. Lumbar flexion 60 degrees, SLR negative, neuro normal.",
+   "A": "Suspected NSAID induced peptic ulcer with upper GI bleed and orthostatic changes. Differential gastritis, varices, gastric cancer. Mechanical low back pain, secondary.",
+   "P": "No manipulation. Stop ibuprofen. Sent to emergency department today for CBC, stool testing and endoscopy. Patient told not to drive. Call hospital with report. Revisit back pain after medical clearance."
+  },
+  "common_errors": [
+   "Focusing on the back and adjusting the spine while ignoring the black stools",
+   "Never asking the total daily NSAID dose",
+   "Skipping orthostatic vitals",
+   "Telling the patient to switch to a different pain pill and come back next week",
+   "Referring to a routine primary care visit instead of same day emergency care"
+  ]
+ },
+ {
+  "id": "E14",
+  "system": "Gastrointestinal",
+  "title": "Cramping and bloody diarrhea with joint and back stiffness in a young woman",
+  "door_chart": {
+   "patient": "Priya Nandakumar, 26, female",
+   "vitals": "BP 108/66, HR 88, RR 14, temp 99.1 F, height 5 ft 5 in, weight 119 lb",
+   "chief_complaint": "Low back stiffness and belly cramps",
+   "history_on_chart": "Back stiff in the morning for about two months. Belly cramps and loose stools for four months. Tired a lot. Lost some weight.",
+   "medications": "Ibuprofen as needed, oral contraceptive",
+   "allergies": "Sulfa drugs cause a rash"
+  },
+  "patient_script": {
+   "opening_line": "My lower back is stiff every morning and my stomach has been a mess for months.",
+   "behavior": "Quiet, a little embarrassed to talk about bowel habits. Opens up if the doctor is gentle and private. Worried it is stress or her fault.",
+   "if_asked": {
+    "onset": "Back stiffness began about two months ago, worst for an hour after waking, better when I move around. Not from an injury.",
+    "pain quality": "Dull, deep ache in the buttocks and low back, sometimes alternating sides.",
+    "bowel habits": "Six to eight loose stools a day, some at night. I see blood and mucus most days.",
+    "abdominal pain": "Crampy pain in the lower left belly that eases after I go.",
+    "weight and appetite": "Down ten pounds in three months. I am afraid to eat.",
+    "fever": "Low fevers in the evening sometimes.",
+    "eyes and skin": "My left eye got red and sore last month. A tender red bump on my shin.",
+    "family history": "My uncle had Crohn disease.",
+    "travel and diet": "No travel, no new foods, no antibiotics lately."
+   },
+   "volunteers_only_if_asked": [
+    "Blood and mucus in stool",
+    "Night time bowel movements",
+    "Ten pound weight loss",
+    "Red painful eye last month",
+    "Uncle with Crohn disease"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Thin, mildly pale. Temp 99.1 F, HR 88.",
+   "inspection": "Tender raised red nodule on right anterior shin. Mild pallor. Two small mouth ulcers.",
+   "palpation": "Tenderness over both sacroiliac joints. Mild left lower quadrant abdominal tenderness without guarding or rebound. No palpable mass.",
+   "range_of_motion": "Lumbar flexion 50 degrees with stiffness, extension 15 degrees, lateral bending reduced by about a quarter bilaterally. Chest expansion 2 cm.",
+   "orthopedic_tests": "FABER positive bilaterally for sacroiliac pain, sacroiliac compression positive, straight leg raise negative, Gaenslen test positive on the left.",
+   "neurologic": "Strength, sensation and reflexes normal in the lower extremities.",
+   "other_system_exam": "Left eye mild injection, pupils equal and reactive. No jaundice. Heart and lungs normal. Bowel sounds active."
+  },
+  "checklist": {
+   "history": [
+    "Asks about back stiffness pattern, morning duration and response to movement",
+    "Asks about stool frequency, blood, mucus and night time bowel movements",
+    "Asks about weight loss, fever and appetite",
+    "Asks about eye, skin and mouth symptoms",
+    "Asks about family history of bowel or autoimmune disease",
+    "Asks about recent travel, antibiotics, diet and stress",
+    "Asks about NSAID use and its effect on the bowels"
+   ],
+   "physical_exam": [
+    "Measures vitals and weight",
+    "Inspects skin, eyes and mouth",
+    "Palpates the abdomen with attention to tenderness, guarding and masses",
+    "Performs lumbar range of motion and chest expansion",
+    "Performs sacroiliac provocation tests such as FABER, compression and Gaenslen",
+    "Performs straight leg raise and lower extremity neurologic screen"
+   ],
+   "diagnosis_and_case_management": [
+    "Recognizes probable inflammatory bowel disease with enteropathic spondyloarthritis",
+    "Differentiates from irritable bowel syndrome using blood, nocturnal symptoms, weight loss and extra intestinal signs",
+    "Lists differential: Crohn disease, ulcerative colitis, infectious colitis, celiac disease",
+    "Arranges same or next day medical assessment for labs, then gastroenterology for colonoscopy",
+    "Advises limiting NSAIDs, which can flare IBD",
+    "Defers high velocity manipulation of the spine and pelvis pending medical workup"
+   ],
+   "communication": [
+    "Asks sensitive bowel questions privately and gently",
+    "Explains that this is a medical condition and not caused by stress",
+    "Uses plain language for the report of findings",
+    "Checks that the patient agrees with the referral plan"
+   ],
+   "professionalism": [
+    "Introduces self and washes hands",
+    "Protects privacy and drapes appropriately",
+    "Stays within scope and coordinates care",
+    "Speaks aloud what is being done for the video"
+   ]
+  },
+  "diagnosis": {
+   "working": "Probable inflammatory bowel disease (Crohn disease or ulcerative colitis) with enteropathic spondyloarthritis, uveitis and erythema nodosum",
+   "differential": [
+    "Irritable bowel syndrome",
+    "Infectious colitis",
+    "Celiac disease",
+    "Ankylosing spondylitis without bowel disease"
+   ],
+   "red_flags_to_catch": [
+    "Blood and mucus in the stool",
+    "Night time diarrhea",
+    "Weight loss",
+    "Inflammatory back pain pattern in a young adult",
+    "Red eye and erythema nodosum"
+   ],
+   "imaging_or_labs_to_order": "CBC, CRP, ESR, albumin, fecal calprotectin, stool studies, then colonoscopy; HLA B27 and sacroiliac imaging as the medical team sees fit",
+   "referral_or_emergency": "Same day or next day medical assessment (urgent care or emergency room) for CBC, CRP and stool studies, then gastroenterology; emergency if fever above 100.4 F, resting heart rate above 90, severe pain, rigid abdomen or heavier bleeding. Co management of the spine is possible after diagnosis."
+  },
+  "model_soap": {
+   "S": "26 year old woman, 2 months of low back and buttock stiffness, worst for an hour in the morning, better with movement. 4 months of 6 to 8 loose stools daily with blood, mucus and night episodes. 10 lb weight loss, evening low fevers, red left eye last month, tender shin bump. Uncle has Crohn disease. Uses ibuprofen.",
+   "O": "Temp 99.1 F, BMI low. Mild pallor, mouth ulcers, tender red nodule right shin, left eye mildly injected. Left lower quadrant tenderness, no guarding. FABER and compression positive, Gaenslen positive left. Chest expansion 2 cm. Neuro normal.",
+   "A": "Probable inflammatory bowel disease with enteropathic arthritis and extra intestinal signs. Differential IBS, infectious colitis, celiac disease.",
+   "P": "Same or next day medical assessment for labs, then gastroenterology for colonoscopy. Limit NSAIDs. No spinal or pelvic manipulation until diagnosed. Explained findings. Return of fever or heavy bleeding means emergency care."
+  },
+  "common_errors": [
+   "Labeling the problem irritable bowel syndrome despite blood and weight loss",
+   "Adjusting the sacroiliac joints on a patient with active inflammatory disease",
+   "Missing the eye and shin findings because only the spine was examined",
+   "Recommending more ibuprofen for the back stiffness",
+   "Asking bowel questions in a rushed or embarrassing way and getting no real answers"
+  ]
+ },
+ {
+  "id": "E15",
+  "system": "Endocrine",
+  "title": "Burning feet and numbness in a woman with type 2 diabetes",
+  "door_chart": {
+   "patient": "Loretta Hayes, 62, female",
+   "vitals": "BP 144/88, HR 78, RR 16, temp 98.2 F, height 5 ft 3 in, weight 214 lb",
+   "chief_complaint": "Burning and tingling in both feet",
+   "history_on_chart": "Feet burn at night and feel numb. Diagnosed with diabetes 11 years ago. I do not check my sugar much. Has a sore on the foot that will not heal.",
+   "medications": "Metformin 1000 mg twice a day, atorvastatin 20 mg",
+   "allergies": "Penicillin, hives"
+  },
+  "patient_script": {
+   "opening_line": "My feet burn so badly at night that I cannot sleep.",
+   "behavior": "Talkative and a little defensive about her diabetes control. Embarrassed about the foot sore. Wants something for the pain.",
+   "if_asked": {
+    "onset": "The tingling started about two years ago in the toes and has crept up to the ankles. The burning is worse over the last six months.",
+    "pain quality": "Burning, stabbing, and pins and needles. Sheets hurt my feet.",
+    "foot sore": "A sore on the bottom of my right foot behind the big toe for about five weeks. It drains a little. I do not feel it much.",
+    "sugar control": "My last A1c a year ago was 9.2. Home sugars are in the 200s when I check.",
+    "diabetes symptoms": "Very thirsty, urinating often, blurry vision at times.",
+    "other": "Eye doctor last seen four years ago. No chest pain. Feet are cold in the evenings.",
+    "alcohol and smoking": "No alcohol. Quit smoking five years ago, smoked 20 years."
+   },
+   "volunteers_only_if_asked": [
+    "Foot sore for five weeks with drainage",
+    "A1c 9.2 a year ago",
+    "Has not seen an eye doctor in four years",
+    "Thirst and frequent urination",
+    "Cold feet in the evening"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "BP 144/88, BMI 38, afebrile. Random fingerstick glucose is not available at this station.",
+   "inspection": "Dry, shiny skin with hair loss on both shins and feet. Right plantar ulcer 1 cm at the first metatarsal head, with a rim of callus, shallow, small amount of clear drainage, no surrounding redness or odor.",
+   "palpation": "Dorsalis pedis pulses diminished bilaterally, posterior tibial weak. Capillary refill 4 seconds in the toes. Feet cool to touch. No calf tenderness.",
+   "range_of_motion": "Ankle and foot range normal. Lumbar range normal.",
+   "orthopedic_tests": "Straight leg raise negative. No joint swelling or deformity.",
+   "neurologic": "10 gram monofilament sensation absent at toes and forefoot bilaterally. Vibration absent at the great toes. Ankle reflexes absent. Pinprick reduced in a stocking pattern to mid shin. Strength normal.",
+   "other_system_exam": "Lungs clear, heart regular. Visual acuity grossly intact."
+  },
+  "checklist": {
+   "history": [
+    "Asks about onset, progression and location of foot symptoms",
+    "Asks about the quality and night pattern of the pain",
+    "Asks about the foot sore, how long and any drainage",
+    "Asks about diabetes history, A1c and home glucose readings",
+    "Asks about thirst, urination and vision changes",
+    "Asks about eye exams, kidney testing and cardiovascular history",
+    "Asks about smoking, alcohol and medication use"
+   ],
+   "physical_exam": [
+    "Measures blood pressure, pulse and weight",
+    "Inspects both feet including between the toes and plantar surface",
+    "Palpates dorsalis pedis and posterior tibial pulses",
+    "Tests monofilament and vibration sensation",
+    "Tests ankle and knee reflexes",
+    "Tests pinprick in a stocking distribution",
+    "Checks capillary refill and skin temperature",
+    "Measures the ulcer size and notes drainage"
+   ],
+   "diagnosis_and_case_management": [
+    "Recognizes probable diabetic peripheral neuropathy with poor glycemic control",
+    "Recognizes the plantar neuropathic ulcer as urgent and a risk for infection or osteomyelitis",
+    "Recognizes signs of peripheral arterial disease",
+    "Orders or recommends A1c, fasting glucose, kidney function and urinalysis",
+    "Refers to primary care or endocrinology and to wound or podiatry care promptly",
+    "Advises daily foot checks, proper footwear and off loading the ulcer"
+   ],
+   "communication": [
+    "Uses a nonjudgmental tone about diabetes control",
+    "Explains in plain words why the foot sore is serious",
+    "Teaches foot care steps simply",
+    "Confirms the patient will make the appointments"
+   ],
+   "professionalism": [
+    "Introduces self and washes hands",
+    "Handles the foot with gloves and care",
+    "Stays within scope and coordinates with the medical team",
+    "Speaks aloud what is being done for the video"
+   ]
+  },
+  "diagnosis": {
+   "working": "Diabetic distal symmetric polyneuropathy with a neuropathic plantar ulcer and probable peripheral arterial disease, poorly controlled type 2 diabetes",
+   "differential": [
+    "Vitamin B12 deficiency from long term metformin",
+    "Lumbar spinal stenosis",
+    "Alcoholic or toxic neuropathy",
+    "Hypothyroid neuropathy"
+   ],
+   "red_flags_to_catch": [
+    "Non healing plantar ulcer for five weeks",
+    "Absent monofilament sensation",
+    "Diminished pulses and slow capillary refill",
+    "Hyperglycemia symptoms with an A1c of 9.2",
+    "Overdue eye exam"
+   ],
+   "imaging_or_labs_to_order": "A1c, fasting glucose, B12 level, kidney function, urinalysis for albumin, foot x ray to look for osteomyelitis, ankle brachial index",
+   "referral_or_emergency": "Urgent medical or wound care assessment within 24 to 48 hours with ABI and foot x ray, because absent or weak pulses suggest ischemia on top of neuropathy. Same day emergency care if the ulcer shows redness, swelling, pus, fever or odor. Not suitable for spinal treatment of the foot symptoms."
+  },
+  "model_soap": {
+   "S": "62 year old woman, type 2 diabetes 11 years. Burning, numb feet 2 years, worse at night. Plantar sore on right foot 5 weeks with mild drainage. A1c 9.2 a year ago. Thirst, frequent urination, blurry vision. No eye exam in 4 years. On metformin and atorvastatin. Former smoker.",
+   "O": "BP 144/88, BMI 38. Dry hairless shins, cool feet, DP pulses diminished, cap refill 4 seconds. 1 cm right plantar ulcer at first metatarsal head, shallow, clear drainage, no erythema. Monofilament and vibration absent, ankle reflexes absent, stocking pinprick loss.",
+   "A": "Diabetic peripheral neuropathy with neuropathic ulcer, probable peripheral arterial disease, poorly controlled type 2 diabetes. Differential B12 deficiency, stenosis.",
+   "P": "Urgent referral to primary care for A1c, B12, kidney tests, foot x ray and ABI; wound care or podiatry assessment within 24 to 48 hours. Off load foot, daily foot checks, proper shoes. Eye exam. Emergency care if redness, pus or fever."
+  },
+  "common_errors": [
+   "Treating the lumbar spine and calling the foot symptoms a pinched nerve",
+   "Not removing the shoes and socks to inspect the foot",
+   "Testing light touch only and skipping monofilament and vibration",
+   "Overlooking pulses and circulation",
+   "Not asking about the last A1c, eye exam or kidney testing"
+  ]
+ },
+ {
+  "id": "E16",
+  "system": "Endocrine",
+  "title": "Neck and shoulder pain with fatigue and cold intolerance",
+  "door_chart": {
+   "patient": "Denise Kowalczyk, 41, female",
+   "vitals": "BP 124/82, HR 56, RR 14, temp 97.1 F, height 5 ft 6 in, weight 188 lb",
+   "chief_complaint": "Neck and shoulder pain and always tired",
+   "history_on_chart": "Neck and shoulders ache and feel stiff. I am exhausted even after sleeping nine hours. Gained weight and I am always cold. Hair is thinning.",
+   "medications": "Ibuprofen as needed, a multivitamin",
+   "allergies": "None"
+  },
+  "patient_script": {
+   "opening_line": "I came for my neck, but honestly I am just worn out all the time.",
+   "behavior": "Tired, slow speech, flat mood. A little frustrated that doctors told her it is just stress. Relieved when taken seriously.",
+   "if_asked": {
+    "onset": "Neck and shoulder stiffness for about four months, no injury. Worse in the morning.",
+    "pain quality": "Dull ache and tightness, 5 out of 10, with muscle cramps and some tingling in both hands.",
+    "fatigue": "Tired for about six months. I nap every afternoon.",
+    "weight and temperature": "Gained 18 pounds without eating more. I wear a sweater in July.",
+    "bowel and skin": "Constipated. My skin is very dry and my hair is falling out.",
+    "mood": "Feeling down and foggy, forgetful.",
+    "periods": "Heavy periods lately.",
+    "family history": "My mother and my sister take thyroid pills.",
+    "neck front": "My neck feels a little full in front when I swallow."
+   },
+   "volunteers_only_if_asked": [
+    "Weight gain of 18 pounds",
+    "Constipation",
+    "Cold intolerance",
+    "Heavy periods",
+    "Mother and sister have thyroid disease",
+    "Fullness in the front of the neck"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "HR 56, temp 97.1 F, BMI 30. Puffy face, slow speech, dry coarse skin, thinning outer eyebrows.",
+   "inspection": "Mild diffuse swelling in the anterior neck. Forward head posture. Periorbital puffiness.",
+   "palpation": "Thyroid diffusely enlarged, firm, non tender, rubbery, no discrete nodule, moves with swallowing. No cervical lymphadenopathy. Trapezius and levator scapulae tender with trigger points.",
+   "range_of_motion": "Cervical rotation 60 degrees bilaterally with stiffness, flexion and extension mildly reduced.",
+   "orthopedic_tests": "Spurling negative, cervical distraction relieves tightness slightly, shoulder depression negative. Phalen positive bilaterally, Tinel positive at both wrists.",
+   "neurologic": "Deep tendon reflexes 1 plus with delayed relaxation phase at the Achilles. Strength normal. Sensation reduced over the median distribution of both hands.",
+   "other_system_exam": "Heart rate slow and regular, no murmur. Lungs clear. Mild non pitting swelling of the lower legs."
+  },
+  "checklist": {
+   "history": [
+    "Asks about onset and pattern of neck and shoulder pain",
+    "Asks about fatigue, sleep and daytime sleepiness",
+    "Asks about weight change, cold intolerance and skin and hair changes",
+    "Asks about bowel habits and menstrual changes",
+    "Asks about mood, memory and concentration",
+    "Asks about family history of thyroid disease",
+    "Asks about neck fullness, swallowing and hand symptoms"
+   ],
+   "physical_exam": [
+    "Measures vitals including pulse rate and temperature",
+    "Inspects face, skin and hair",
+    "Palpates the thyroid and cervical nodes",
+    "Performs cervical range of motion and Spurling test",
+    "Tests deep tendon reflexes and notes relaxation phase",
+    "Performs Phalen and Tinel for carpal tunnel",
+    "Checks for peripheral edema"
+   ],
+   "diagnosis_and_case_management": [
+    "Recognizes probable primary hypothyroidism likely Hashimoto thyroiditis",
+    "Links the carpal tunnel signs and muscle aches to hypothyroidism",
+    "Lists differential: depression, anemia, sleep apnea, fibromyalgia",
+    "Orders or recommends TSH, free T4 and thyroid antibodies",
+    "Co manages: refers to primary care for medical treatment, may provide soft tissue care for the neck after workup",
+    "Gives return precautions for chest pain, confusion or severe slowing"
+   ],
+   "communication": [
+    "Validates that the fatigue is real and not just stress",
+    "Explains thyroid function in plain words",
+    "Avoids promising a cure with chiropractic care",
+    "Checks understanding of the lab and referral plan"
+   ],
+   "professionalism": [
+    "Introduces self and washes hands",
+    "Maintains respectful draping for neck and shoulder exam",
+    "Stays within scope and communicates with the physician",
+    "Speaks aloud what is being done for the video"
+   ]
+  },
+  "diagnosis": {
+   "working": "Probable primary hypothyroidism (Hashimoto thyroiditis) with secondary myalgia and bilateral carpal tunnel symptoms",
+   "differential": [
+    "Depression",
+    "Iron deficiency anemia",
+    "Obstructive sleep apnea",
+    "Fibromyalgia"
+   ],
+   "red_flags_to_catch": [
+    "Pulse of 56 with low temperature",
+    "Delayed relaxation of reflexes",
+    "Diffuse firm goiter",
+    "Heavy periods with weight gain",
+    "Early signs of myxedema such as puffy face and leg swelling"
+   ],
+   "imaging_or_labs_to_order": "TSH, free T4, thyroid peroxidase antibodies, CBC, lipid panel, vitamin D and B12; thyroid ultrasound if a nodule appears",
+   "referral_or_emergency": "Non emergency referral to primary care within a week or two for thyroid replacement. Emergency care if confusion, hypothermia, very slow pulse or breathing trouble appear. Spinal care for the neck only after thyroid status is clarified."
+  },
+  "model_soap": {
+   "S": "41 year old woman, 4 months neck and shoulder ache, 5 of 10, with hand tingling and cramps. Fatigue 6 months, 18 lb weight gain, cold intolerance, constipation, dry skin, hair loss, heavy periods, low mood and fog. Mother and sister have thyroid disease. Neck feels full.",
+   "O": "HR 56, temp 97.1 F, BMI 30. Puffy face, dry skin, thinning eyebrows. Diffusely enlarged firm nontender thyroid, no nodule. Cervical rotation 60 degrees, Spurling negative. Phalen and Tinel positive both wrists. Achilles reflex delayed relaxation. Mild leg edema.",
+   "A": "Probable primary hypothyroidism, likely Hashimoto, with myalgia and carpal tunnel symptoms. Differential depression, anemia, sleep apnea, fibromyalgia.",
+   "P": "Refer to primary care for TSH, free T4, antibodies and CBC within one to two weeks. Hold neck manipulation until thyroid status is known; gentle soft tissue care allowed. Return or emergency care for confusion, chest pain or breathing trouble."
+  },
+  "common_errors": [
+   "Treating only the neck and attributing fatigue to stress",
+   "Never palpating the thyroid or checking reflex relaxation",
+   "Overlooking the heart rate and temperature in the vitals",
+   "Stopping at carpal tunnel and not asking why it appeared",
+   "Promising that adjustments will fix the fatigue"
+  ]
+ },
+ {
+  "id": "E17",
+  "system": "Endocrine",
+  "title": "Low back pain in a man with a large waist, high blood pressure and high sugar",
+  "door_chart": {
+   "patient": "Marcus Odell, 49, male",
+   "vitals": "BP 152/96, HR 82, RR 16, temp 98.6 F, height 5 ft 9 in, weight 252 lb, waist 46 in",
+   "chief_complaint": "Low back pain that comes and goes",
+   "history_on_chart": "Back hurts at the end of long workdays. I sit a lot driving a truck. No major health problems that I know of. Never see a doctor.",
+   "medications": "None",
+   "allergies": "None"
+  },
+  "patient_script": {
+   "opening_line": "My lower back gets sore by the end of the day, and I figured a chiropractor could loosen it up.",
+   "behavior": "Easygoing, jokes about his weight, dismisses health warnings. Not worried about blood pressure. Will agree to a referral if told how it affects his family.",
+   "if_asked": {
+    "onset": "Back soreness began about a year ago, gradual, no injury. Worse after sitting for hours.",
+    "pain quality": "Dull ache across the low back, 3 to 4 out of 10, no leg pain.",
+    "diet and activity": "Fast food most days, soda, almost no exercise.",
+    "sleep": "My wife says I snore loudly and stop breathing at night. I am sleepy while driving.",
+    "diabetes symptoms": "Thirsty and urinate often, especially at night. Cuts heal slowly.",
+    "chest symptoms": "No chest pain. Mild shortness of breath on stairs.",
+    "family history": "Father had a heart attack at 54 and has diabetes. Mother has high blood pressure.",
+    "alcohol and smoking": "A few beers on weekends. Smokes a pack a day."
+   },
+   "volunteers_only_if_asked": [
+    "Snoring and witnessed pauses in breathing",
+    "Sleepy while driving",
+    "Thirst and frequent night urination",
+    "Father had a heart attack at 54",
+    "Smokes a pack a day"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "BP 152/96 right arm, 150/94 left arm on repeat, HR 82, BMI 37, waist 46 inches. Neck circumference 18 inches.",
+   "inspection": "Central obesity. Darkened velvety skin on the back of the neck and in the armpits. Mild lumbar hyperlordosis.",
+   "palpation": "Mild lumbar paraspinal muscle tension, no focal bony tenderness, no step off. Abdomen obese, soft, nontender. No pulsatile mass.",
+   "range_of_motion": "Lumbar flexion 55 degrees, extension 15 degrees, mild tightness at end range.",
+   "orthopedic_tests": "Straight leg raise negative bilaterally. Kemp test mild local pain. Hip range normal.",
+   "neurologic": "Lower extremity strength, sensation and reflexes normal. Monofilament sensation intact.",
+   "other_system_exam": "Heart regular without murmur. Lungs clear. No ankle edema. Pedal pulses present. Office capillary glucose 214 mg/dL (random)."
+  },
+  "checklist": {
+   "history": [
+    "Asks about onset, mechanism and pattern of the low back pain",
+    "Asks about night pain, weight loss and neurologic symptoms",
+    "Asks about diet, activity and sleep",
+    "Asks about snoring and daytime sleepiness",
+    "Asks about thirst, urination and slow healing",
+    "Asks about chest pain and shortness of breath",
+    "Asks about family history of heart disease and diabetes",
+    "Asks about tobacco and alcohol use"
+   ],
+   "physical_exam": [
+    "Measures blood pressure in both arms and repeats it",
+    "Measures height, weight, BMI and waist circumference",
+    "Inspects skin for acanthosis nigricans",
+    "Auscultates heart and lungs",
+    "Performs lumbar range of motion",
+    "Performs straight leg raise and a lower extremity neurologic screen",
+    "Checks for abdominal mass and pedal pulses"
+   ],
+   "diagnosis_and_case_management": [
+    "Recognizes metabolic syndrome with stage 2 hypertension and probable type 2 diabetes",
+    "Notes probable obstructive sleep apnea and high cardiovascular risk",
+    "Identifies mechanical low back pain as the presenting problem",
+    "Orders or recommends fasting glucose, A1c, lipid panel and a sleep study",
+    "Refers to primary care within days for blood pressure and diabetes care",
+    "Provides lifestyle counseling and a gradual activity plan and may treat the back as co management after referral"
+   ],
+   "communication": [
+    "Uses a respectful, non shaming tone about weight",
+    "Connects the findings to his family history in plain words",
+    "Gives clear, small first steps for diet and activity",
+    "Confirms he will see a physician soon"
+   ],
+   "professionalism": [
+    "Introduces self and washes hands",
+    "Uses an appropriately sized cuff and gown",
+    "Stays within scope and coordinates care",
+    "Speaks aloud what is being done for the video"
+   ]
+  },
+  "diagnosis": {
+   "working": "Metabolic syndrome with stage 2 hypertension, probable undiagnosed type 2 diabetes and likely obstructive sleep apnea; mechanical low back pain",
+   "differential": [
+    "Isolated mechanical low back pain",
+    "Hypothyroidism",
+    "Cushing syndrome",
+    "Nonalcoholic fatty liver disease"
+   ],
+   "red_flags_to_catch": [
+    "Blood pressure 150 over 95 on repeat",
+    "Acanthosis nigricans suggesting insulin resistance",
+    "Polyuria and polydipsia",
+    "Witnessed apneas and sleepiness while driving",
+    "Smoker with early family heart disease"
+   ],
+   "imaging_or_labs_to_order": "Fasting glucose, A1c, lipid panel, kidney function, liver enzymes, TSH, ECG; sleep study; lumbar x ray not needed without red flags",
+   "referral_or_emergency": "Non emergency referral to primary care within a few days for blood pressure and diabetes evaluation. Emergency care if chest pain, severe headache, neurologic deficit or very high blood pressure symptoms develop. Spinal care is appropriate for mechanical back pain once the medical plan is in motion."
+  },
+  "model_soap": {
+   "S": "49 year old male truck driver, low back ache for 1 year, 3 to 4 of 10, worse after sitting, no leg symptoms. Loud snoring with witnessed pauses and daytime sleepiness. Thirst, night urination, slow healing. Father had heart attack at 54 and diabetes. Smokes a pack a day, poor diet, no exercise.",
+   "O": "BP 152/96 and 150/94 on repeat, BMI 37, waist 46 inches, neck 18 inches. Acanthosis nigricans. Lumbar flexion 55 degrees, SLR negative, neuro normal. Heart and lungs normal.",
+   "A": "Metabolic syndrome with stage 2 hypertension, probable type 2 diabetes and probable sleep apnea. Mechanical low back pain.",
+   "P": "Refer to primary care within days for glucose, A1c, lipids and BP care, and for a sleep study. Smoking cessation and diet advice. Gradual walking plan. Back care with soft tissue work and exercise. Emergency care for chest pain or severe headache."
+  },
+  "common_errors": [
+   "Treating the back and ignoring blood pressure and sleep symptoms",
+   "Taking blood pressure once with a cuff that is too small",
+   "Not asking about snoring in a truck driver",
+   "Shaming the patient about weight so he disengages",
+   "Telling the patient the blood pressure is fine because he feels well"
+  ]
+ },
+ {
+  "id": "E18",
+  "system": "Renal and Urologic",
+  "title": "Colicky flank pain with blood in the urine in a middle aged man",
+  "door_chart": {
+   "patient": "Marcus Delaney, 41, male",
+   "vitals": "BP 148/90, HR 96, RR 18, temp 98.6 F, height 5 ft 11 in, weight 198 lb",
+   "chief_complaint": "Right side pain that comes in waves",
+   "history_on_chart": "Sudden right side and groin pain since this morning. It comes and goes and is very bad. Nauseated. Urine looked pink. I figured I threw my back out moving boxes.",
+   "medications": "Ibuprofen as needed",
+   "allergies": "None"
+  },
+  "patient_script": {
+   "opening_line": "I think I threw my back out, but the pain keeps coming in waves and it goes down into my groin.",
+   "behavior": "Restless and cannot get comfortable, pacing or shifting in the chair. Sweaty and pale during a wave, calmer between waves. Hopes for a quick adjustment.",
+   "if_asked": {
+    "onset": "Started suddenly this morning, about four hours ago, with no injury. I moved boxes two days ago but felt fine after.",
+    "pain quality": "Sharp cramping waves, 9 out of 10 at the worst, easing to a 3 between waves. Starts in the right flank and travels to the groin.",
+    "position": "No position helps. Lying still makes it worse, so I keep moving around.",
+    "urinary symptoms": "Pink urine twice. I feel the urge often but only a little comes out.",
+    "fever and chills": "No fever or chills.",
+    "nausea": "Nauseated and vomited once.",
+    "history": "No stones before. My father had kidney stones. I drink little water and a lot of coffee.",
+    "testicular": "Some aching in the right testicle, no swelling."
+   },
+   "volunteers_only_if_asked": [
+    "Pink urine twice",
+    "Vomited once",
+    "Father had kidney stones",
+    "Aching in the right testicle",
+    "Drinks little water"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "BP 148/90, HR 96, temp 98.6 F. Uncomfortable, restless, sweating during pain waves.",
+   "inspection": "No bruising or skin changes. Shifts position often and cannot lie still.",
+   "palpation": "Tender over the right costovertebral angle. Mild right lower quadrant tenderness. Back muscles are not tight or tender. No rebound.",
+   "range_of_motion": "Lumbar motion full and does not change the pain.",
+   "orthopedic_tests": "Straight leg raise negative, Kemp negative, hip tests negative. Kidney punch on the right is positive. Left side negative.",
+   "neurologic": "Strength, sensation and reflexes normal in both legs.",
+   "other_system_exam": "Abdomen soft, no pulsatile mass, McBurney point not tender. Testicles not swollen or tender to touch. Heart and lungs normal."
+  },
+  "checklist": {
+   "history": [
+    "Asks about onset, location and quality of the pain",
+    "Asks whether position or movement changes the pain",
+    "Asks whether the pain travels to the groin or testicle",
+    "Asks about blood in the urine and urinary changes",
+    "Asks about fever, chills, nausea and vomiting",
+    "Asks about past kidney stones and family history",
+    "Asks about fluids, diet and medicines"
+   ],
+   "physical_exam": [
+    "Measures blood pressure, pulse and temperature",
+    "Percusses both costovertebral angles",
+    "Palpates the abdomen and McBurney point",
+    "Checks lumbar range of motion and notes pain does not change",
+    "Performs straight leg raise and Kemp test",
+    "Performs a lower leg neurologic screen"
+   ],
+   "diagnosis_and_case_management": [
+    "Recognizes probable kidney stone with renal colic",
+    "Lists differential: back strain, appendicitis, aortic aneurysm, pyelonephritis, testicular torsion",
+    "Does not manipulate the back",
+    "Refers the same day for urinalysis and imaging",
+    "Sends to the emergency department if pain is uncontrolled, vomiting continues, or fever appears",
+    "Gives return precautions"
+   ],
+   "communication": [
+    "Explains in plain words that this looks like a kidney stone",
+    "Kindly corrects the thrown out back theory",
+    "Checks the patient has a ride and should not drive",
+    "Invites questions"
+   ],
+   "professionalism": [
+    "Introduces self and washes hands",
+    "Drapes and positions respectfully",
+    "Stays within scope and states the referral clearly",
+    "Speaks aloud what is being done for the video"
+   ]
+  },
+  "diagnosis": {
+   "working": "Right renal colic from a kidney stone",
+   "differential": [
+    "Mechanical low back strain",
+    "Appendicitis",
+    "Acute pyelonephritis",
+    "Abdominal aortic aneurysm or testicular torsion"
+   ],
+   "red_flags_to_catch": [
+    "Pain in waves with no position of relief",
+    "Blood in the urine",
+    "Pain traveling from flank to groin",
+    "Positive kidney punch",
+    "Fever or vomiting that would signal infection or blockage"
+   ],
+   "imaging_or_labs_to_order": "Urinalysis, blood work for kidney function, and a non contrast CT or ultrasound to find the stone",
+   "referral_or_emergency": "Same day medical care for tests and pain control. Go to the emergency department now if pain cannot be controlled, vomiting continues, fever appears, or urine stops. No spinal manipulation."
+  },
+  "model_soap": {
+   "S": "41 year old man, sudden right flank pain 4 hours, spreading to the groin, comes in waves up to 9 of 10, no position relief. Pink urine twice, nausea, vomited once. No fever. Father had stones. Low fluid intake. Moved boxes two days ago without pain afterward. Takes ibuprofen, no allergies. Some right testicular ache without swelling.",
+   "O": "BP 148/90, HR 96, temp 98.6 F. Restless, sweating. Right costovertebral angle tender and kidney punch positive. No rebound. Lumbar motion full and painless. SLR and Kemp negative. Neuro normal. Testicles normal.",
+   "A": "Probable right renal colic from a kidney stone. Rule out back strain, appendicitis, pyelonephritis, aneurysm. Findings fit stone pain because the pain is colicky, unrelated to movement, and paired with blood in the urine.",
+   "P": "No manipulation. Same day referral to the emergency department for urinalysis, imaging and pain control. Told not to drive, to drink fluids, and to go sooner if fever or worse vomiting. Call receiving physician. Resume care after clearance. Advised ibuprofen only as the physician directs."
+  },
+  "common_errors": [
+   "Accepting the thrown out back story and adjusting the spine",
+   "Not asking about blood in the urine",
+   "Missing the kidney punch test",
+   "Skipping the abdominal and testicular exam",
+   "Sending the patient home with heat and rest"
+  ]
+ },
+ {
+  "id": "E19",
+  "system": "Renal and Urologic",
+  "title": "Flank pain with burning urination",
+  "door_chart": {
+   "patient": "Dana Whitfield, 34, female",
+   "vitals": "BP 112/70, HR 104, RR 18, temp 101.2 F, weight 140 lb",
+   "chief_complaint": "Right low back pain for 3 days, getting worse",
+   "history_on_chart": "Burning when I pee for about 5 days. Thought it was a bladder thing. Back started hurting 3 days ago. Chills last night.",
+   "medications": "Birth control pill, ibuprofen 400 mg as needed",
+   "allergies": "Sulfa drugs (rash)"
+  },
+  "patient_script": {
+   "opening_line": "My back has been killing me on the right side and I just feel awful.",
+   "behavior": "Tired and a bit anxious, holds her right side, answers briefly, wants a quick adjustment to fix it.",
+   "if_asked": {
+    "onset": "Burning urination started 5 days ago, back pain 3 days ago, gradual",
+    "pain quality": "Deep, dull ache, 7 out of 10, wraps toward the front on the right",
+    "aggravating or relieving": "Movement does not change it much, nothing helps, ibuprofen takes the edge off",
+    "urinary symptoms": "Frequent urges, small amounts, cloudy urine, one episode of pink tinge",
+    "fever and chills": "Chills and sweats last night, felt hot",
+    "nausea": "Nauseated, vomited once this morning",
+    "trauma": "None",
+    "bowel": "Normal",
+    "previous episodes": "Two bladder infections in the past 3 years, treated with antibiotics"
+   },
+   "volunteers_only_if_asked": [
+    "Vomited this morning",
+    "Pink tinge in urine",
+    "She stopped drinking much because peeing hurts",
+    "Sexually active with one partner, no new partner"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Febrile, tachycardic, looks ill and slightly flushed",
+   "inspection": "Guarded posture, leans slightly to the right, no skin changes, no bruising",
+   "palpation": "Mild paraspinal tenderness right lower thoracic and upper lumbar. Suprapubic tenderness mild.",
+   "range_of_motion": "Lumbar motion full but uncomfortable, no clear mechanical reproduction of pain",
+   "orthopedic_tests": "Kemp negative. SLR negative bilaterally. Kidney punch (percussion over the costovertebral angle) strongly positive on the right, negative on the left.",
+   "neurologic": "Reflexes, strength and sensation normal in the lower limbs",
+   "other_system_exam": "Abdomen soft, mild right flank guarding, no rebound, McBurney point nontender, bowel sounds normal"
+  },
+  "checklist": {
+   "history": [
+    "Asks about urinary burning, frequency and urgency",
+    "Asks about fever, chills and nausea or vomiting",
+    "Asks about blood in the urine",
+    "Asks about past urinary infections",
+    "Asks whether movement or position changes the pain",
+    "Asks about pregnancy possibility and last period",
+    "Asks about medications and allergies"
+   ],
+   "physical_exam": [
+    "Checks vital signs including temperature",
+    "Performs kidney punch percussion at the costovertebral angles",
+    "Palpates the abdomen and suprapubic area",
+    "Performs Kemp and straight leg raise",
+    "Tests lower limb neurologic screen",
+    "Observes posture and spinal motion",
+    "Washes hands and drapes appropriately"
+   ],
+   "diagnosis_and_case_management": [
+    "Names pyelonephritis (kidney infection) as the working diagnosis",
+    "Lists a kidney stone, muscle strain, appendicitis and ovarian problem as the differential",
+    "Recognizes fever plus positive kidney punch as a red flag, not a spinal problem",
+    "Orders or requests urinalysis and urine culture, and a pregnancy test",
+    "Sends the patient for same day medical care and does not manipulate",
+    "Gives clear instructions on fluids and when to go to the emergency room"
+   ],
+   "communication": [
+    "Uses plain words for kidney infection",
+    "Shows empathy for her discomfort",
+    "Explains why an adjustment is not safe today",
+    "Checks that she understands the plan and asks if she has questions"
+   ],
+   "professionalism": [
+    "Introduces self and confirms her name",
+    "Respects privacy and modesty during the exam",
+    "Stays calm and organized",
+    "Documents the referral and follow up plan"
+   ]
+  },
+  "diagnosis": {
+   "working": "Acute pyelonephritis, right side",
+   "differential": [
+    "Kidney stone (ureterolithiasis)",
+    "Lumbar muscle strain",
+    "Appendicitis or pelvic inflammatory disease",
+    "Lower urinary tract infection without kidney involvement"
+   ],
+   "red_flags_to_catch": [
+    "Fever and chills",
+    "Positive costovertebral angle tenderness",
+    "Vomiting and tachycardia",
+    "Pain unchanged by movement"
+   ],
+   "imaging_or_labs_to_order": "Urinalysis with microscopy, urine culture, CBC and basic metabolic panel by the medical provider, urine pregnancy test. Imaging only if a stone or abscess is suspected.",
+   "referral_or_emergency": "Same day emergency department referral because of fever, tachycardia, vomiting and possible urosepsis; urgent care only if she is well enough to drink and keep medication down. No spinal manipulation."
+  },
+  "model_soap": {
+   "S": "34 year old female with 3 days of right low back and flank pain, 7 of 10, constant, not affected by movement. Burning urination, frequency and cloudy urine for 5 days. Chills, one vomiting episode. Two prior UTIs. Sulfa allergy.",
+   "O": "Temp 101.2 F, HR 104, BP 112/70. Looks ill. Kidney punch positive right, negative left. Mild suprapubic tenderness. Lumbar motion full, Kemp and SLR negative. Lower limb neuro normal. Abdomen soft, no rebound.",
+   "A": "Probable acute pyelonephritis, right. Not mechanical low back pain. Differential: kidney stone, appendicitis, pelvic infection. Fever and positive kidney punch make a spinal cause unlikely.",
+   "P": "No manipulation. Same day ER referral for urinalysis, culture, bloodwork and antibiotics. Push fluids. Go to ER now if vomiting worsens, fever above 103, confusion or faintness. Call office tomorrow. Resume spinal care once the infection is treated. Told her to bring her medication list and keep taking fluids by sipping often."
+  },
+  "common_errors": [
+   "Adjusting the back because the pain is in the low back",
+   "Skipping the kidney punch test",
+   "Ignoring temperature and heart rate",
+   "Sending the patient home with only advice to drink water",
+   "Forgetting to ask about urinary symptoms because the chart says back pain"
+  ]
+ },
+ {
+  "id": "E20",
+  "system": "Renal and Urologic",
+  "title": "Back pain in a man with kidney disease",
+  "door_chart": {
+   "patient": "Walter Okafor, 58, male",
+   "vitals": "BP 164/98, HR 78, RR 16, temp 98.4 F, height 5 ft 10 in, weight 214 lb",
+   "chief_complaint": "Dull low back pain for 2 months",
+   "history_on_chart": "Type 2 diabetes for 12 years, high blood pressure, told my kidneys are weak. Ankles swell by evening. Very tired lately.",
+   "medications": "Metformin, lisinopril, ibuprofen 800 mg three times daily for the back, over the counter",
+   "allergies": "None known"
+  },
+  "patient_script": {
+   "opening_line": "My back aches all the time and the pills barely touch it anymore.",
+   "behavior": "Friendly, a little embarrassed about his weight, minimizes his kidney problem, talks a lot about work.",
+   "if_asked": {
+    "onset": "Gradual over 2 months after moving boxes at work",
+    "pain quality": "Dull ache across both sides of low back, 5 out of 10",
+    "aggravating or relieving": "Worse bending and lifting, a little better walking",
+    "neurologic": "No leg numbness or weakness",
+    "urinary": "Foamy urine for several months, getting up twice at night",
+    "systemic": "Poor appetite, itchy skin, metallic taste in the mouth",
+    "medication use": "Takes 2400 mg ibuprofen daily for 6 weeks",
+    "fever or weight loss": "Denies"
+   },
+   "volunteers_only_if_asked": [
+    "Foamy urine",
+    "Itchy skin",
+    "Takes ibuprofen far above the label dose",
+    "Last kidney blood test was over a year ago"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Hypertensive, mildly pale, obese",
+   "inspection": "Pitting edema 2 plus at both ankles, no spinal deformity",
+   "palpation": "Paraspinal muscle tenderness and tightness L3 to L5 bilaterally, no midline tenderness, no CVA tenderness",
+   "range_of_motion": "Lumbar flexion limited by pain at 50 degrees, extension mildly painful",
+   "orthopedic_tests": "Kemp positive on the right for local pain only, SLR negative, Yeoman negative, Patrick FABER negative",
+   "neurologic": "Lower limb strength, reflexes and sensation normal, monofilament sensation reduced at both great toes",
+   "other_system_exam": "Heart regular, lungs clear, no abdominal bruit, mild periorbital puffiness"
+  },
+  "checklist": {
+   "history": [
+    "Asks about onset, mechanism and activity changes",
+    "Asks about urination changes, foamy urine and nighttime voiding",
+    "Asks about swelling, fatigue, itching and appetite",
+    "Asks about all medications including over the counter pain relievers",
+    "Asks how long and how much ibuprofen is taken",
+    "Asks about diabetes control and last kidney tests",
+    "Screens for fever, weight loss and night pain"
+   ],
+   "physical_exam": [
+    "Takes blood pressure and notes it is high",
+    "Checks for edema",
+    "Palpates the spine and paraspinal muscles",
+    "Performs lumbar range of motion",
+    "Performs Kemp, SLR and FABER",
+    "Does lower limb neurologic and monofilament screen",
+    "Percusses the costovertebral angles"
+   ],
+   "diagnosis_and_case_management": [
+    "Names mechanical low back strain as the likely pain source",
+    "Recognizes probable chronic kidney disease with diabetic and NSAID contribution",
+    "Lists disc problem, spinal stenosis and bone disease from kidney failure as differentials",
+    "Recommends stopping high dose NSAIDs and discussing alternatives with his doctor",
+    "Requests blood work: creatinine, eGFR, urine albumin to creatinine ratio, electrolytes",
+    "Provides gentle care for the back but refers for medical kidney evaluation"
+   ],
+   "communication": [
+    "Explains kidney risk of ibuprofen without blame",
+    "Uses plain words for kidney function",
+    "Gives clear written plan",
+    "Confirms understanding and asks about concerns"
+   ],
+   "professionalism": [
+    "Introduces self and addresses him respectfully",
+    "Stays within scope when discussing medications",
+    "Sends a note to his primary doctor",
+    "Documents findings and referral clearly"
+   ]
+  },
+  "diagnosis": {
+   "working": "Mechanical lumbar strain with probable chronic kidney disease, worsened by NSAID overuse",
+   "differential": [
+    "Lumbar facet syndrome",
+    "Lumbar disc degeneration",
+    "Renal osteodystrophy (bone disease from kidney failure)",
+    "Diabetic neuropathy"
+   ],
+   "red_flags_to_catch": [
+    "Foamy urine and edema",
+    "Uncontrolled blood pressure",
+    "Ibuprofen 2400 mg daily with kidney disease",
+    "Fatigue, itching and metallic taste suggesting uremia"
+   ],
+   "imaging_or_labs_to_order": "Creatinine, eGFR, urine albumin to creatinine ratio, potassium, CBC, A1c by the medical doctor. Lumbar radiographs only if pain persists or red flags change.",
+   "referral_or_emergency": "Prompt (within days) referral to the primary care doctor or nephrologist for kidney function and blood pressure. Not an emergency unless confusion, chest pain or very little urine appears. Gentle chiropractic care can continue as shared care."
+  },
+  "model_soap": {
+   "S": "58 year old male with 2 months of dull bilateral low back pain, 5 of 10, worse with bending. Diabetes, high blood pressure, known weak kidneys. Foamy urine, ankle swelling, fatigue, itching. Takes ibuprofen 2400 mg daily for 6 weeks.",
+   "O": "BP 164/98. 2 plus pitting edema both ankles. Paraspinal tenderness L3 to L5, no midline tenderness, no CVA tenderness. Flexion limited to 50 degrees. Kemp positive right local pain. SLR negative. Strength and reflexes normal. Reduced monofilament at great toes.",
+   "A": "Mechanical lumbar strain. Probable chronic kidney disease with possible NSAID injury and poorly controlled hypertension. Differential: disc degeneration, renal bone disease.",
+   "P": "Stop high dose ibuprofen and discuss pain options with his doctor. Referral to primary doctor this week for creatinine, eGFR, urine albumin and blood pressure control. Gentle soft tissue work, no high velocity thrust until labs return. His doctor to review metformin and lisinopril dosing and potassium given kidney function and NSAIDs. Home walking and stretching. Return in one week. ER for little urine, confusion or chest pain."
+  },
+  "common_errors": [
+   "Treating the back only and ignoring the swelling and foamy urine",
+   "Not asking how much ibuprofen he takes",
+   "Failing to take or comment on the blood pressure",
+   "Telling him to stop all medicines on your own",
+   "Performing a strong thrust adjustment without considering possible bone weakness"
+  ]
+ },
+ {
+  "id": "E21",
+  "system": "Malignant",
+  "title": "Night back pain after prostate cancer",
+  "door_chart": {
+   "patient": "Raymond Castillo, 67, male",
+   "vitals": "BP 128/82, HR 82, RR 16, temp 98.2 F, weight 168 lb (was 185 lb last year)",
+   "chief_complaint": "Mid back pain that wakes me at night",
+   "history_on_chart": "Prostate cancer treated 4 years ago with surgery and radiation. Pain started 6 weeks ago. Lost some weight without trying.",
+   "medications": "Tamsulosin, acetaminophen",
+   "allergies": "Penicillin"
+  },
+  "patient_script": {
+   "opening_line": "I hurt right in the middle of my back and it gets worse when I lie down at night.",
+   "behavior": "Quiet, stoic, minimizes pain, a little afraid it is the cancer but does not want to say so.",
+   "if_asked": {
+    "onset": "6 weeks ago, no injury, gradual and worsening",
+    "pain quality": "Deep, boring ache 6 out of 10, 8 out of 10 at night",
+    "aggravating or relieving": "Not relieved by rest or position, a little worse lying flat",
+    "neurologic": "Occasional heaviness in the legs, no numbness, no bowel or bladder trouble yet",
+    "systemic": "17 pound weight loss in a year, poor appetite, tired",
+    "cancer follow up": "Missed his last PSA check by a year because he felt fine",
+    "fever": "No"
+   },
+   "volunteers_only_if_asked": [
+    "Missed PSA follow up",
+    "Pain keeps him up most nights",
+    "Legs feel heavy when he climbs stairs"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Thin, pale, appears tired, afebrile",
+   "inspection": "No deformity or bruising",
+   "palpation": "Focal percussion tenderness over T9 spinous process, mild paraspinal spasm",
+   "range_of_motion": "Thoracic extension and rotation painful, flexion tolerated",
+   "orthopedic_tests": "Kemp not performed in thoracic region safely. Rib spring causes sharp pain at T9. Valsalva reproduces local pain.",
+   "neurologic": "Lower limb strength 4 plus out of 5 hip flexion bilaterally, patellar reflexes 3 plus, positive Babinski on the left, sensation intact, gait slightly cautious",
+   "other_system_exam": "Abdomen soft, no mass, lungs clear, no lymph nodes felt in neck or axilla"
+  },
+  "checklist": {
+   "history": [
+    "Asks about cancer history, treatment and follow up",
+    "Asks about night pain and pain at rest",
+    "Asks about unexplained weight loss and appetite",
+    "Asks about leg weakness, numbness and gait changes",
+    "Asks about bowel and bladder function",
+    "Asks about fever, cough and other pain sites",
+    "Asks about trauma and previous spine problems"
+   ],
+   "physical_exam": [
+    "Checks vitals and weight",
+    "Percusses spinous processes",
+    "Performs rib spring and Valsalva cautiously",
+    "Does full lower limb strength and reflex testing",
+    "Tests for Babinski and clonus",
+    "Observes gait",
+    "Avoids thrust techniques during examination"
+   ],
+   "diagnosis_and_case_management": [
+    "Names metastatic spinal lesion from prostate cancer as the working diagnosis",
+    "Recognizes upper motor neuron signs as a sign of cord threat",
+    "Lists compression fracture, myeloma, infection and muscle strain as differentials",
+    "Does not manipulate the spine",
+    "Arranges urgent imaging and oncology contact, same day",
+    "Explains emergency warning signs of cord compression"
+   ],
+   "communication": [
+    "Asks openly about his fears",
+    "Explains the concern in plain gentle words",
+    "Does not promise a diagnosis before tests",
+    "Confirms he will go for urgent evaluation today"
+   ],
+   "professionalism": [
+    "Introduces self and respects his dignity",
+    "Coordinates with his oncologist or primary doctor",
+    "Documents the red flags and the referral",
+    "Declines to treat and explains why"
+   ]
+  },
+  "diagnosis": {
+   "working": "Suspected spinal metastasis at T9 from prostate cancer with early spinal cord involvement",
+   "differential": [
+    "Osteoporotic compression fracture",
+    "Multiple myeloma",
+    "Spinal infection (osteomyelitis)",
+    "Thoracic muscle strain"
+   ],
+   "red_flags_to_catch": [
+    "History of cancer",
+    "Night pain and rest pain",
+    "Unexplained weight loss",
+    "Hyperreflexia and positive Babinski"
+   ],
+   "imaging_or_labs_to_order": "Urgent MRI of the whole spine with contrast. PSA, alkaline phosphatase, calcium, CBC. Bone scan or PET as directed by oncology.",
+   "referral_or_emergency": "Same day emergency evaluation or direct oncology contact because upper motor neuron signs suggest impending cord compression. No spinal manipulation."
+  },
+  "model_soap": {
+   "S": "67 year old male, prostate cancer treated 4 years ago, missed PSA follow up. 6 weeks of mid back pain, 6 of 10 and 8 of 10 at night, unrelieved by rest. 17 pound weight loss. Leg heaviness on stairs. No bowel or bladder change.",
+   "O": "Weight 168 lb. Afebrile. Percussion tenderness T9. Rib spring and Valsalva painful locally. Hip flexion 4 plus out of 5, patellar reflexes 3 plus, left Babinski positive. Gait cautious. Sensation intact.",
+   "A": "Suspected metastatic lesion at T9 with early cord involvement. Differential: osteoporotic fracture, myeloma, infection.",
+   "P": "No manipulation. Same day referral to the emergency department for urgent MRI of the spine and oncology consult. Called his oncologist and sent exam notes. Explained warning signs: new leg weakness, numbness, loss of bladder or bowel control, go to ER at once. Patient agrees to leave now with his wife driving."
+  },
+  "common_errors": [
+   "Treating a thoracic strain without asking about cancer history",
+   "Missing the reflex and Babinski findings",
+   "Performing thoracic manipulation or a drop table thrust",
+   "Ordering plain radiographs and waiting days for results",
+   "Not taking the weight loss seriously"
+  ]
+ },
+ {
+  "id": "E22",
+  "system": "Malignant",
+  "title": "Shoulder and arm pain in a longtime smoker",
+  "door_chart": {
+   "patient": "Loretta Pruitt, 62, female",
+   "vitals": "BP 134/80, HR 88, RR 18, temp 98.6 F, weight 122 lb",
+   "chief_complaint": "Right shoulder pain going down my arm for 3 months",
+   "history_on_chart": "Smoked a pack a day for 40 years. Lost about 10 pounds. Cough that will not go away. Pain is worse at night.",
+   "medications": "Lisinopril, naproxen as needed",
+   "allergies": "Codeine (nausea)"
+  },
+  "patient_script": {
+   "opening_line": "My shoulder has been aching for months, and it is moving down my arm into my fingers.",
+   "behavior": "Tired and a little dismissive, says she is probably just getting old, answers directly.",
+   "if_asked": {
+    "onset": "3 months ago, slowly worsening, no injury",
+    "pain quality": "Deep, burning ache in the shoulder blade and inner arm, 7 out of 10",
+    "aggravating or relieving": "Shoulder movement does not change it, night is worst",
+    "neurologic": "Tingling in the ring and small fingers and weak grip",
+    "respiratory": "Chronic cough for 4 months, once coughed up a little blood",
+    "systemic": "10 pounds lost, little appetite",
+    "other": "Right eyelid seems droopy lately, according to her daughter"
+   },
+   "volunteers_only_if_asked": [
+    "Coughed up blood once",
+    "Daughter noticed droopy eyelid",
+    "Never had a chest x ray"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Thin, mild hoarseness, resting respirations slightly increased",
+   "inspection": "Right ptosis (droopy lid) and smaller right pupil, mild decreased sweating on the right face, atrophy of the right hand intrinsic muscles",
+   "palpation": "Tender over right supraclavicular area and upper scapula, fullness above the right clavicle",
+   "range_of_motion": "Shoulder range full and painless actively and passively, neck motion full",
+   "orthopedic_tests": "Neer, Hawkins and empty can negative. Spurling negative. Adson test inconclusive.",
+   "neurologic": "Right grip 4 out of 5, weak finger abduction, decreased sensation over the ulnar side of the hand, triceps reflex normal, biceps reflex normal",
+   "other_system_exam": "Decreased breath sounds at the right apex, clubbing of the fingers"
+  },
+  "checklist": {
+   "history": [
+    "Asks about smoking history in pack years",
+    "Asks about cough, blood in sputum and shortness of breath",
+    "Asks about weight loss and appetite",
+    "Asks about night pain and pain unrelated to movement",
+    "Asks about hand weakness and finger numbness",
+    "Asks about eye or facial changes and hoarseness",
+    "Asks about prior chest imaging"
+   ],
+   "physical_exam": [
+    "Checks vitals and respiratory rate",
+    "Inspects the eyes and pupils",
+    "Auscultates the lungs",
+    "Palpates supraclavicular fossae",
+    "Tests shoulder with rotator cuff tests",
+    "Tests C5 to T1 myotomes, dermatomes and reflexes",
+    "Checks hands for muscle wasting and clubbing"
+   ],
+   "diagnosis_and_case_management": [
+    "Names a Pancoast (lung apex) tumor with Horner syndrome as the working diagnosis",
+    "Explains why the shoulder tests being negative argues against a shoulder cause",
+    "Lists rotator cuff, cervical radiculopathy, thoracic outlet syndrome and brachial plexus injury as differentials",
+    "Orders chest radiograph and urgent CT, as part of referral",
+    "Refers urgently to a medical doctor or pulmonologist, not chiropractic care",
+    "Gives clear return and emergency instructions"
+   ],
+   "communication": [
+    "Explains suspicion without causing panic",
+    "Uses plain words for lung tumor and Horner syndrome",
+    "Acknowledges her concern and asks what she understands",
+    "Confirms she will seek care today"
+   ],
+   "professionalism": [
+    "Introduces self and confirms her history",
+    "Stays within scope and does not diagnose cancer as certain",
+    "Contacts her doctor and documents the plan",
+    "Respects her decision and follows up"
+   ]
+  },
+  "diagnosis": {
+   "working": "Suspected Pancoast tumor (lung apex cancer) with Horner syndrome and lower brachial plexus involvement",
+   "differential": [
+    "Rotator cuff tendinopathy",
+    "C8 or T1 cervical radiculopathy",
+    "Thoracic outlet syndrome",
+    "Ulnar neuropathy"
+   ],
+   "red_flags_to_catch": [
+    "Heavy smoking history",
+    "Weight loss and hemoptysis",
+    "Horner syndrome: ptosis, small pupil, less sweating",
+    "Shoulder pain unaffected by movement and worse at night"
+   ],
+   "imaging_or_labs_to_order": "Chest radiograph and CT of the chest with contrast, then MRI of the brachial plexus and apex; biopsy by the specialist.",
+   "referral_or_emergency": "Same day referral for chest radiograph and CT with a pulmonologist; emergency room if hemoptysis or breathing worsens. No neck or thoracic manipulation."
+  },
+  "model_soap": {
+   "S": "62 year old female, 40 pack year smoker. 3 months right shoulder and medial arm pain, 7 of 10, worse at night, not affected by movement. Tingling in ring and small fingers, weak grip. Cough 4 months, one episode of blood. 10 pound weight loss. Daughter noted droopy right eyelid.",
+   "O": "Right ptosis and miosis, decreased facial sweating. Hoarse voice. Supraclavicular fullness. Shoulder range full, rotator cuff tests negative, Spurling negative. Grip 4 out of 5, weak finger abduction, ulnar sensory loss. Reduced breath sounds right apex. Clubbing.",
+   "A": "Suspected Pancoast tumor with Horner syndrome and C8 T1 plexus involvement. Not a shoulder or disc problem.",
+   "P": "No manipulation. Urgent referral to medical doctor today for chest radiograph and CT. Contacted her doctor. Stop naproxen only per doctor. Go to ER for trouble breathing, heavy coughing of blood or new weakness. Smoking cessation resources given."
+  },
+  "common_errors": [
+   "Treating the shoulder as a rotator cuff problem despite negative tests",
+   "Missing the droopy eyelid and small pupil",
+   "Not asking about smoking and cough",
+   "Adjusting the neck or upper thoracic spine",
+   "Ordering only a shoulder radiograph"
+  ]
+ },
+ {
+  "id": "E23",
+  "system": "Cardiovascular",
+  "title": "Leg pain with walking",
+  "door_chart": {
+   "patient": "Harold Jennings, 66, male",
+   "vitals": "BP 158/92 right arm, 152/90 left arm, HR 76, RR 16, temp 98.4 F, weight 190 lb",
+   "chief_complaint": "Both calves cramp when I walk, worse on the right",
+   "history_on_chart": "Smoker 45 years. High cholesterol. Calf pain after about two blocks, goes away if I stop.",
+   "medications": "Atorvastatin, aspirin",
+   "allergies": "None"
+  },
+  "patient_script": {
+   "opening_line": "My right calf cramps up after I walk a couple of blocks, and I have to stop.",
+   "behavior": "Gruff, practical, thinks it is a pinched nerve like his brother had, impatient with questions about smoking.",
+   "if_asked": {
+    "onset": "Over about 8 months, slowly shorter walking distance",
+    "pain quality": "Tight, cramping ache in the right calf, 6 out of 10 when walking",
+    "aggravating or relieving": "Walking uphill is worse. Relief in 2 to 3 minutes standing still, no need to sit or bend forward",
+    "neurologic": "No back pain, no numbness, no weakness",
+    "vascular": "Right foot is often cold, a sore on the right big toe has not healed for 3 weeks",
+    "bowel and bladder": "Normal",
+    "smoking": "One pack a day, 45 years"
+   },
+   "volunteers_only_if_asked": [
+    "Toe sore not healing for 3 weeks",
+    "Foot feels cold",
+    "Pain happens with the same distance every time"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Hypertensive, mildly overweight, brachial pressures slightly different",
+   "inspection": "Right foot shiny, hairless skin, pale, 8 mm shallow ulcer on the right great toe tip with no drainage",
+   "palpation": "Right foot cool to touch. Dorsalis pedis and posterior tibial pulses absent on the right, weak on the left. Femoral pulses present with a bruit on the right.",
+   "range_of_motion": "Lumbar and hip motion full and painless, no pain reproduced",
+   "orthopedic_tests": "SLR negative, Kemp negative, FABER negative. Straight standing extension of the lumbar spine does not reproduce the leg pain. Buerger test: pale on elevation, dusky red on lowering.",
+   "neurologic": "Strength, reflexes and sensation normal, no cauda equina signs",
+   "other_system_exam": "Heart regular, no murmur. Capillary refill 5 seconds right foot."
+  },
+  "checklist": {
+   "history": [
+    "Asks how far he can walk before pain starts",
+    "Asks what relieves the pain and how fast",
+    "Asks whether bending forward or sitting is needed for relief",
+    "Asks about foot color, temperature and sores",
+    "Asks about smoking, diabetes and cholesterol",
+    "Asks about back pain and numbness",
+    "Asks about bowel and bladder function"
+   ],
+   "physical_exam": [
+    "Takes blood pressure in both arms",
+    "Palpates femoral, popliteal, dorsalis pedis and posterior tibial pulses",
+    "Inspects skin, hair and nails",
+    "Checks capillary refill and temperature",
+    "Performs SLR and lumbar extension tests",
+    "Performs Buerger test or elevation test",
+    "Completes a lower limb neurologic screen"
+   ],
+   "diagnosis_and_case_management": [
+    "Names peripheral arterial disease with intermittent claudication as the working diagnosis",
+    "Notes the toe ulcer as a sign of critical limb ischemia",
+    "Distinguishes vascular claudication from neurogenic claudication",
+    "Orders ankle brachial index and arterial duplex, through referral",
+    "Refers urgently to a vascular specialist or medical doctor",
+    "Counsels on stopping smoking and walking program after medical clearance"
+   ],
+   "communication": [
+    "Explains artery blockage in plain words",
+    "Handles his smoking without scolding",
+    "Explains why this is not a pinched nerve",
+    "Checks that he agrees to see a doctor within 1 to 2 days"
+   ],
+   "professionalism": [
+    "Introduces self and respects his preferences",
+    "Does not treat the spine for a vascular cause",
+    "Sends information to his primary doctor",
+    "Documents findings and referral"
+   ]
+  },
+  "diagnosis": {
+   "working": "Peripheral arterial disease of the right leg with claudication and early critical limb ischemia",
+   "differential": [
+    "Neurogenic claudication from lumbar stenosis",
+    "Chronic venous insufficiency",
+    "Diabetic or other neuropathy",
+    "Popliteal artery entrapment"
+   ],
+   "red_flags_to_catch": [
+    "Nonhealing toe ulcer",
+    "Absent pedal pulses",
+    "Cold, pale shiny skin",
+    "Femoral bruit"
+   ],
+   "imaging_or_labs_to_order": "Ankle brachial index, arterial duplex ultrasound, possibly CT angiography; lipid panel and A1c by medical doctor.",
+   "referral_or_emergency": "Urgent vascular assessment within 24 to 48 hours because of the ulcer (same day if rest pain, color change or numbness); emergency room right away if the foot turns cold, blue or numb. No manipulation for leg pain."
+  },
+  "model_soap": {
+   "S": "66 year old male, 45 pack year smoker, high cholesterol. 8 months of right calf cramping at about two blocks, relieved by standing 2 to 3 minutes. Cold right foot. Toe sore for 3 weeks. No back pain or numbness.",
+   "O": "BP 158/92 right, 152/90 left. Right foot cool, shiny, hairless. 8 mm ulcer right great toe. Right DP and PT pulses absent, left weak. Right femoral bruit. Capillary refill 5 seconds. SLR, Kemp negative. Neuro intact. Buerger positive.",
+   "A": "Peripheral arterial disease with claudication and probable critical limb ischemia. Not neurogenic claudication, since standing relieves it and spine tests are negative.",
+   "P": "No manipulation. Urgent referral to vascular specialist within 48 hours for ABI and duplex. Sent note to his doctor. Do not walk on the ulcer, keep foot clean and dry. Stop smoking, resources given. ER now if foot turns blue, cold, numb or painful at rest."
+  },
+  "common_errors": [
+   "Calling it sciatica or a pinched nerve",
+   "Not checking pedal pulses",
+   "Missing the toe ulcer and cold foot",
+   "Failing to separate vascular from neurogenic claudication",
+   "Starting a walking program before a medical workup"
+  ]
+ },
+ {
+  "id": "E24",
+  "system": "Musculoskeletal",
+  "title": "Teen with a curve in her back",
+  "door_chart": {
+   "patient": "Maya Delgado, 13, female",
+   "vitals": "BP 104/66, HR 72, RR 14, temp 98.2 F, height 5 ft 2 in (up 3 in this year), weight 108 lb",
+   "chief_complaint": "Mom noticed my shoulders look uneven",
+   "history_on_chart": "Mild ache between the shoulder blades after sports. No injury. Periods have not started yet.",
+   "medications": "None",
+   "allergies": "None"
+  },
+  "patient_script": {
+   "opening_line": "My mom says one shoulder is higher, but I do not think it is a big deal.",
+   "behavior": "Shy, answers in short phrases, looks to her mother, a little self conscious about her body and dislikes being examined.",
+   "if_asked": {
+    "onset": "Mother noticed it 2 months ago, ache for a few weeks",
+    "pain quality": "Mild dull ache, 2 out of 10, after volleyball",
+    "aggravating or relieving": "Better with rest, no night pain",
+    "neurologic": "No numbness, weakness, or headache",
+    "bowel and bladder": "Normal",
+    "family history": "Her aunt wore a back brace as a teen",
+    "growth": "Grew 3 inches in a year, no period yet"
+   },
+   "volunteers_only_if_asked": [
+    "Aunt had scoliosis",
+    "She is embarrassed to change in the locker room",
+    "No period yet"
+   ]
+  },
+  "exam_findings": {
+   "vitals_and_general": "Healthy appearing teen, normal gait, no cafe au lait spots",
+   "inspection": "Right shoulder higher, right scapula prominent, left waist crease asymmetry. Plumb line from C7 falls 1 cm to the right of the gluteal cleft.",
+   "palpation": "Mild tenderness right thoracic paraspinals, no midline tenderness",
+   "range_of_motion": "Full lumbar and thoracic motion, slight pain at end range right rotation",
+   "orthopedic_tests": "Adams forward bend test: right rib hump of about 8 degrees on the scoliometer at T7. Leg lengths equal. SLR negative.",
+   "neurologic": "Strength, sensation, reflexes normal. Abdominal reflexes symmetric. No clonus or Babinski.",
+   "other_system_exam": "Skin without hairy patch or dimple over the spine, heart and lungs normal"
+  },
+  "checklist": {
+   "history": [
+    "Asks about pain location, severity and timing",
+    "Asks about night pain or pain that wakes her",
+    "Asks about numbness, weakness and bowel or bladder changes",
+    "Asks about growth spurt and menstrual status",
+    "Asks about family history of scoliosis",
+    "Asks about when the asymmetry was first noticed",
+    "Asks about sports and backpack use"
+   ],
+   "physical_exam": [
+    "Observes posture from behind, front and side",
+    "Performs Adams forward bend test",
+    "Uses scoliometer or measures rib hump",
+    "Checks leg lengths and pelvic level",
+    "Tests strength, reflexes and sensation",
+    "Checks abdominal reflexes and skin for spinal markers",
+    "Draws a plumb line or measures shoulder height"
+   ],
+   "diagnosis_and_case_management": [
+    "Names adolescent idiopathic scoliosis as the working diagnosis",
+    "Lists leg length difference, congenital curve, neuromuscular cause and tumor as differentials",
+    "Explains that painless or mild pain curves are most often idiopathic but pain requires a closer look",
+    "Orders standing full spine radiographs with Cobb angle",
+    "Plans shared care and referral to pediatric orthopedics because she is still growing",
+    "Plans monitoring every 4 to 6 months and exercise advice"
+   ],
+   "communication": [
+    "Speaks to the teen directly as well as her mother",
+    "Explains scoliosis in simple reassuring terms",
+    "Avoids frightening words such as surgery as a first topic",
+    "Offers a chaperone and checks she is comfortable"
+   ],
+   "professionalism": [
+    "Uses gown or drape, and a chaperone for a minor",
+    "Gets parent consent",
+    "Documents measurements carefully",
+    "Coordinates with her pediatrician"
+   ]
+  },
+  "diagnosis": {
+   "working": "Adolescent idiopathic scoliosis, right thoracic curve, skeletally immature",
+   "differential": [
+    "Functional scoliosis from leg length difference",
+    "Congenital scoliosis",
+    "Neuromuscular scoliosis",
+    "Osteoid osteoma or spinal tumor causing painful scoliosis"
+   ],
+   "red_flags_to_catch": [
+    "Pain at night or constant pain",
+    "Left thoracic curve",
+    "Abnormal neurologic or abdominal reflexes",
+    "Rapid progression, skin markers"
+   ],
+   "imaging_or_labs_to_order": "Standing PA full spine radiograph with Cobb angle and Risser sign, with shielding. MRI only if neurologic signs or atypical features appear.",
+   "referral_or_emergency": "Referral to pediatric orthopedics because curve may be above 20 degrees in a premenarchal growing child. Not an emergency. Chiropractic exercise and monitoring only as shared care, no thrust to correct the curve."
+  },
+  "model_soap": {
+   "S": "13 year old female, premenarchal, grew 3 inches this year. Shoulder asymmetry noticed by mother 2 months ago. Mild thoracic ache after sports, 2 of 10, no night pain. No neuro symptoms. Aunt had scoliosis.",
+   "O": "Right shoulder and scapula high. Adams test: right thoracic rib hump, 8 degrees scoliometer. Leg lengths equal. No skin markers. Neuro and abdominal reflexes normal. SLR negative.",
+   "A": "Adolescent idiopathic scoliosis, right thoracic, skeletally immature. Differential: leg length cause, congenital curve, tumor. Right thoracic curve with pain this mild fits the usual pattern.",
+   "P": "Standing full spine radiographs with Cobb angle and Risser. Referral to pediatric orthopedics because she is still growing and the curve may need bracing. Measure again every 4 to 6 months. Core and posture exercises. No high velocity thrust. Return sooner for night pain, numbness or fast change. Parent given written plan. Mother and patient verbalized understanding and a chaperone was present throughout."
+  },
+  "common_errors": [
+   "Skipping the Adams forward bend test",
+   "Ignoring the growth stage and menstrual status",
+   "Promising a chiropractic adjustment will fix the curve",
+   "Missing the need to refer a growing child",
+   "Examining a minor without a chaperone or parent consent"
+  ]
+ }
+]

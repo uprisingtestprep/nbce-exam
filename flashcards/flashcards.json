@@ -1,0 +1,3002 @@
+[
+ {
+  "id": 1,
+  "domain": "p1_general_anatomy",
+  "front": "What is the anatomical position?",
+  "back": "Standing upright, facing forward, arms at the sides with palms forward (supinated), feet pointing forward. Right and left always mean the patient's right and left."
+ },
+ {
+  "id": 2,
+  "domain": "p1_general_anatomy",
+  "front": "Which plane divides the body into superior and inferior parts, and what motion happens in it?",
+  "back": "The transverse (axial) plane. Rotation happens in this plane around a vertical axis."
+ },
+ {
+  "id": 3,
+  "domain": "p1_general_anatomy",
+  "front": "Flexion and extension happen in which plane and around which axis?",
+  "back": "The sagittal plane, around a transverse axis. Abduction and adduction are in the coronal plane around an anteroposterior axis."
+ },
+ {
+  "id": 4,
+  "domain": "p1_general_anatomy",
+  "front": "A fall to the side breaks the bone at the pterion. Which vessel is at risk and what results?",
+  "back": "The middle meningeal artery tears, causing an epidural hematoma. The pterion is the thinnest part of the lateral skull, where frontal, parietal, temporal and sphenoid meet."
+ },
+ {
+  "id": 5,
+  "domain": "p1_general_anatomy",
+  "front": "Which foramina carry V2, V3 and the middle meningeal artery?",
+  "back": "Foramen rotundum carries V2, foramen ovale carries V3, and foramen spinosum carries the middle meningeal artery. All three are in the middle cranial fossa."
+ },
+ {
+  "id": 6,
+  "domain": "p1_general_anatomy",
+  "front": "After a lymph node biopsy in the posterior neck triangle, a patient has a drooping shoulder. Which nerve was injured?",
+  "back": "The spinal accessory nerve (CN XI). It runs superficially in the posterior triangle and supplies the trapezius, so injury causes weakness and drooping."
+ },
+ {
+  "id": 7,
+  "domain": "p1_general_anatomy",
+  "front": "After thyroid surgery a patient is hoarse. Which nerve was most likely injured?",
+  "back": "The recurrent laryngeal nerve, which runs in the tracheoesophageal groove near the inferior thyroid artery. The external branch of the superior laryngeal nerve, if hurt, only weakens the high pitch."
+ },
+ {
+  "id": 8,
+  "domain": "p1_general_anatomy",
+  "front": "What three structures lie inside the carotid sheath?",
+  "back": "The common carotid artery, the internal jugular vein and the vagus nerve. The common carotid splits into internal and external branches near C4."
+ },
+ {
+  "id": 9,
+  "domain": "p1_general_anatomy",
+  "front": "Where does the sternal angle sit, and what lands at that level?",
+  "back": "At the second costal cartilage and the T4 to T5 disc. It marks the tracheal bifurcation (carina), the split between superior and inferior mediastinum, and the start and end of the aortic arch."
+ },
+ {
+  "id": 10,
+  "domain": "p1_general_anatomy",
+  "front": "What is the order of the neurovascular bundle in the costal groove from top to bottom, and where should a chest needle go?",
+  "back": "Order from top to bottom is vein, artery, nerve (VAN), under the lower border of the rib above. Enter just above the upper border of the rib below to miss the bundle."
+ },
+ {
+  "id": 11,
+  "domain": "p1_general_anatomy",
+  "front": "Which coronary artery usually supplies the SA node, AV node and posterior descending artery in a right dominant heart?",
+  "back": "The right coronary artery. The left anterior descending supplies the anterior septum and apex, and the circumflex supplies the left atrium and lateral wall."
+ },
+ {
+  "id": 12,
+  "domain": "p1_general_anatomy",
+  "front": "A child inhales a peanut while lying on the back. Where does it most likely lodge, and why?",
+  "back": "The right lung, often the posterior segment of the right upper lobe when supine. The right main bronchus is shorter, wider and more vertical."
+ },
+ {
+  "id": 13,
+  "domain": "p1_general_anatomy",
+  "front": "A hernia pushes through the deep inguinal ring lateral to the inferior epigastric vessels. What type is it?",
+  "back": "An indirect inguinal hernia. It follows the spermatic cord. A direct hernia goes through Hesselbach's triangle, medial to those vessels."
+ },
+ {
+  "id": 14,
+  "domain": "p1_general_anatomy",
+  "front": "Which hernia type passes below the inguinal ligament and is common in women with high strangulation risk?",
+  "back": "A femoral hernia. It goes through the femoral ring, medial to the femoral vein."
+ },
+ {
+  "id": 15,
+  "domain": "p1_general_anatomy",
+  "front": "Name the retroperitoneal organs using SAD PUCKER.",
+  "back": "Suprarenal glands, aorta and IVC, duodenum (parts 2 to 4), pancreas (except the tail), ureters, colon (ascending and descending), kidneys, esophagus and rectum."
+ },
+ {
+  "id": 16,
+  "domain": "p1_general_anatomy",
+  "front": "At what vertebral levels do the IVC, esophagus and aorta pass through the diaphragm?",
+  "back": "IVC at T8, esophagus at T10, aorta at T12. Memory aid: I ate ten eggs at twelve."
+ },
+ {
+  "id": 17,
+  "domain": "p1_general_anatomy",
+  "front": "Which level does each unpaired branch of the abdominal aorta arise: celiac, SMA, IMA?",
+  "back": "Celiac trunk at T12 (foregut), superior mesenteric artery at L1 (midgut), inferior mesenteric artery at L3 (hindgut). The aorta divides at L4."
+ },
+ {
+  "id": 18,
+  "domain": "p1_general_anatomy",
+  "front": "A mid shaft humeral fracture leaves the patient unable to extend the wrist. Which nerve and why?",
+  "back": "The radial nerve. It winds in the radial groove on the back of the humerus. Loss of wrist extensors causes wrist drop."
+ },
+ {
+  "id": 19,
+  "domain": "p1_general_anatomy",
+  "front": "An anterior shoulder dislocation leaves a flat deltoid and numb lateral shoulder. Which nerve?",
+  "back": "The axillary nerve (C5, C6). It wraps the surgical neck of the humerus and supplies the deltoid and teres minor."
+ },
+ {
+  "id": 20,
+  "domain": "p1_general_anatomy",
+  "front": "Which brachial plexus injury gives a waiter's tip posture, and which roots are involved?",
+  "back": "Erb palsy, upper trunk (C5, C6). The arm is adducted, medially rotated and extended at the elbow. Lower trunk injury (Klumpke, C8 and T1) gives a claw hand."
+ },
+ {
+  "id": 21,
+  "domain": "p1_general_anatomy",
+  "front": "A patient has a winged scapula after breast surgery. Which nerve and muscle?",
+  "back": "The long thoracic nerve (C5 to C7) and the serratus anterior muscle."
+ },
+ {
+  "id": 22,
+  "domain": "p1_general_anatomy",
+  "front": "During single leg stance the pelvis drops on the side opposite the weak hip. Name the sign and nerve.",
+  "back": "Trendelenburg sign from the superior gluteal nerve (L4 to S1), which supplies the gluteus medius, gluteus minimus and tensor fasciae latae."
+ },
+ {
+  "id": 23,
+  "domain": "p1_general_anatomy",
+  "front": "After a tight cast on the lateral lower leg, a patient has foot drop and a high stepping gait. Which nerve?",
+  "back": "The common fibular (peroneal) nerve, which wraps the fibular neck. Sensory loss is over the dorsum of the foot."
+ },
+ {
+  "id": 24,
+  "domain": "p1_general_anatomy",
+  "front": "Which epidermal layer is found only in thick skin, and what is the order from deep to superficial?",
+  "back": "Stratum lucidum, in the palms and soles. Order: basale, spinosum, granulosum, lucidum, corneum (Come, Let's Get Sun Burned, read from the top)."
+ },
+ {
+  "id": 25,
+  "domain": "p1_general_anatomy",
+  "front": "A pearly papule with rolled borders and tiny visible vessels on a sun exposed face. Diagnosis and origin?",
+  "back": "Basal cell carcinoma, from the basal layer. It is the most common skin cancer, grows locally and rarely spreads. Melanoma is the deadliest, and Breslow thickness predicts outcome."
+ },
+ {
+  "id": 26,
+  "domain": "p1_spinal_anatomy",
+  "front": "How many vertebrae and how many intervertebral discs does a normal adult spine have?",
+  "back": "33 vertebrae and 23 discs. There is no disc between the occiput and atlas, or between the atlas and axis."
+ },
+ {
+  "id": 27,
+  "domain": "p1_spinal_anatomy",
+  "front": "Which spinal curves are primary and which are secondary?",
+  "back": "Thoracic and sacral curves are primary (present at birth, kyphotic). Cervical and lumbar curves are secondary lordoses that develop with head lifting and walking."
+ },
+ {
+  "id": 28,
+  "domain": "p1_spinal_anatomy",
+  "front": "What defect is spondylolysis, and where does slipping most often occur when it progresses?",
+  "back": "A defect in the pars interarticularis. If the body slips forward it is spondylolisthesis, most often L5 on S1, graded by Meyerding I to V."
+ },
+ {
+  "id": 29,
+  "domain": "p1_spinal_anatomy",
+  "front": "Which cervical vertebrae have uncinate processes and form joints of Luschka?",
+  "back": "C3 to C7. Uncinate osteophytes can narrow the intervertebral foramen and press the nerve root."
+ },
+ {
+  "id": 30,
+  "domain": "p1_spinal_anatomy",
+  "front": "Which vertebra has a bifid, non palpable spinous process, and which has the long palpable one?",
+  "back": "Typical cervical vertebrae (C3 to C6) have bifid spinous processes. C7, the vertebra prominens, has a long non bifid spinous process that is palpable."
+ },
+ {
+  "id": 31,
+  "domain": "p1_spinal_anatomy",
+  "front": "Which cervical vertebra has no body and no spinous process?",
+  "back": "The atlas (C1). It has anterior and posterior arches and lateral masses that receive the occipital condyles."
+ },
+ {
+  "id": 32,
+  "domain": "p1_spinal_anatomy",
+  "front": "Does the vertebral artery pass through the C7 transverse foramen?",
+  "back": "Usually not. It enters at C6 and ascends through C6 to C1, then loops behind the lateral mass of the atlas into the foramen magnum."
+ },
+ {
+  "id": 33,
+  "domain": "p1_spinal_anatomy",
+  "front": "Which way do lumbar facets face, and what motion do they limit?",
+  "back": "Sagittally oriented. They allow flexion and extension and strongly limit rotation. Thoracic facets favor rotation and lateral flexion."
+ },
+ {
+  "id": 34,
+  "domain": "p1_spinal_anatomy",
+  "front": "Which ligament is most elastic in the body, and what does thickening cause?",
+  "back": "The ligamentum flavum (about 80 percent elastin). Its thickening contributes to lumbar spinal stenosis."
+ },
+ {
+  "id": 35,
+  "domain": "p1_spinal_anatomy",
+  "front": "Which ligament limits extension, and which limits flexion and disc herniation?",
+  "back": "The anterior longitudinal ligament limits extension. The posterior longitudinal ligament limits flexion and herniation, and is narrow over the lumbar discs."
+ },
+ {
+  "id": 36,
+  "domain": "p1_spinal_anatomy",
+  "front": "Why do lumbar disc herniations most often go posterolateral?",
+  "back": "The posterior annulus is thinner than the anterior, and the posterior longitudinal ligament is narrow in the lumbar region, leaving the posterolateral corner weakest."
+ },
+ {
+  "id": 37,
+  "domain": "p1_spinal_anatomy",
+  "front": "A posterolateral L4 to L5 herniation most likely compresses which nerve root?",
+  "back": "The traversing L5 root. A far lateral (foraminal) L4 to L5 herniation compresses the exiting L4 root instead."
+ },
+ {
+  "id": 38,
+  "domain": "p1_spinal_anatomy",
+  "front": "Where does the C6 nerve root exit, and why does the pattern change at C8?",
+  "back": "At the C5 to C6 foramen. There are 8 cervical roots but 7 vertebrae. C8 exits between C7 and T1, and below that each root takes the number of the vertebra above."
+ },
+ {
+  "id": 39,
+  "domain": "p1_spinal_anatomy",
+  "front": "Which part of the disc has nerve endings, and which nerve supplies them?",
+  "back": "Only the outer third of the annulus, from the sinuvertebral nerve and gray rami communicantes. The adult disc is avascular and feeds by diffusion through endplates."
+ },
+ {
+  "id": 40,
+  "domain": "p1_spinal_anatomy",
+  "front": "Define bulge, protrusion, extrusion and sequestration.",
+  "back": "Bulge: generalized extension beyond the endplates. Protrusion: base wider than the fragment. Extrusion: neck narrower than the fragment. Sequestration: free fragment detached from the disc."
+ },
+ {
+  "id": 41,
+  "domain": "p1_spinal_anatomy",
+  "front": "Which joint gives about half of cervical rotation, and how much per side?",
+  "back": "The atlantoaxial complex, about 40 to 45 degrees to each side (the no motion). The atlanto occipital joint gives the nodding yes motion, about 25 degrees."
+ },
+ {
+  "id": 42,
+  "domain": "p1_spinal_anatomy",
+  "front": "Which ligament holds the dens against the anterior arch of the atlas, and what is the normal atlantodental interval?",
+  "back": "The transverse ligament. Normal interval is up to 3 mm in adults and 5 mm in children."
+ },
+ {
+  "id": 43,
+  "domain": "p1_spinal_anatomy",
+  "front": "Which nerves supply the facet joints and the intrinsic back muscles?",
+  "back": "Medial branches of the dorsal rami supply the facet joints. Dorsal rami supply the intrinsic back muscles and back skin."
+ },
+ {
+  "id": 44,
+  "domain": "p1_spinal_anatomy",
+  "front": "According to Fryette, how do side bending and rotation couple in neutral versus flexion or extension?",
+  "back": "In neutral (type I, group curve) they go to opposite sides. In flexion or extension (type II, single segment) they go to the same side."
+ },
+ {
+  "id": 45,
+  "domain": "p1_spinal_anatomy",
+  "front": "Name the three erector spinae columns from lateral to medial.",
+  "back": "Iliocostalis, longissimus, spinalis (I Love Spaghetti). They extend the spine and, one side acting, laterally flex it."
+ },
+ {
+  "id": 46,
+  "domain": "p1_spinal_anatomy",
+  "front": "Which suboccipital muscle does not attach to the skull, and which nerve supplies the group?",
+  "back": "The obliquus capitis inferior, from the C2 spinous process to the C1 transverse process, rotating the atlas. The suboccipital nerve (dorsal ramus of C1) supplies all four."
+ },
+ {
+  "id": 47,
+  "domain": "p1_spinal_anatomy",
+  "front": "Where does the adult spinal cord end, and where is a lumbar puncture done?",
+  "back": "The conus medullaris ends at about L1 to L2. Lumbar puncture is below L2, usually L3 to L4 or L4 to L5."
+ },
+ {
+  "id": 48,
+  "domain": "p1_spinal_anatomy",
+  "front": "A man has loss of motor function and pain and temperature sensation below a lesion but keeps vibration and position sense. What artery is blocked?",
+  "back": "The anterior spinal artery, supplying the anterior two thirds of the cord. The largest feeder is the artery of Adamkiewicz, usually left sided at T9 to L2."
+ },
+ {
+  "id": 49,
+  "domain": "p1_spinal_anatomy",
+  "front": "Which vertebral level matches the inferior angle of the scapula, and the iliac crests?",
+  "back": "Inferior angle of the scapula is at T7. The iliac crests are near L4. The root of the scapular spine is at T3."
+ },
+ {
+  "id": 50,
+  "domain": "p1_spinal_anatomy",
+  "front": "A patient has pain on the dorsum of the foot and weak great toe extension. Which root, and what would S1 involvement look like instead?",
+  "back": "L5 root. S1 involvement gives weak plantar flexion, reduced Achilles reflex and lateral foot symptoms."
+ },
+ {
+  "id": 51,
+  "domain": "p1_physiology",
+  "front": "What sets the resting membrane potential of a neuron near negative 70 mV?",
+  "back": "The sodium potassium pump (3 sodium out, 2 potassium in) plus leak channels that make the membrane far more permeable to potassium than sodium."
+ },
+ {
+  "id": 52,
+  "domain": "p1_physiology",
+  "front": "What ion movement causes depolarization, and what causes repolarization of an action potential?",
+  "back": "Sodium rushing in through voltage gated channels depolarizes toward positive 30 mV. Potassium leaving after sodium channels inactivate repolarizes the cell."
+ },
+ {
+  "id": 53,
+  "domain": "p1_physiology",
+  "front": "Why can no second action potential fire during the absolute refractory period?",
+  "back": "Sodium channels are inactivated. During the relative refractory period a stronger than normal stimulus can fire one."
+ },
+ {
+  "id": 54,
+  "domain": "p1_physiology",
+  "front": "Which transmitter is the main excitatory one in the brain, and which are the main inhibitory ones in brain and spinal cord?",
+  "back": "Glutamate is the chief excitatory transmitter. GABA is chief inhibitory in the brain, and glycine plays that role in the spinal cord."
+ },
+ {
+  "id": 55,
+  "domain": "p1_physiology",
+  "front": "A person has spasticity, hyperreflexia and a Babinski sign. Upper or lower motor neuron lesion?",
+  "back": "Upper motor neuron. Lower motor neuron lesions cause flaccid paralysis, atrophy and loss of reflexes."
+ },
+ {
+  "id": 56,
+  "domain": "p1_physiology",
+  "front": "A cerebellar lesion causes which findings and on which side?",
+  "back": "Ipsilateral intention tremor, ataxia and dysmetria. The cerebellum coordinates timing and error correction."
+ },
+ {
+  "id": 57,
+  "domain": "p1_physiology",
+  "front": "What happens to the sarcomere bands during contraction?",
+  "back": "The I band and H zone shrink, the A band stays the same length, and the Z line to Z line distance shortens. Filaments slide and do not shorten."
+ },
+ {
+  "id": 58,
+  "domain": "p1_physiology",
+  "front": "Which protein does calcium bind in skeletal muscle contraction, and what does it do?",
+  "back": "Troponin C. This moves tropomyosin off the myosin binding sites on actin so cross bridges can form."
+ },
+ {
+  "id": 59,
+  "domain": "p1_physiology",
+  "front": "Why does rigor mortis occur?",
+  "back": "No ATP remains after death, so myosin heads cannot detach from actin. A new ATP must bind to break the cross bridge."
+ },
+ {
+  "id": 60,
+  "domain": "p1_physiology",
+  "front": "Why does cardiac muscle not go into tetanus?",
+  "back": "Its action potential has a long plateau from calcium entry through L type channels, so the refractory period lasts through most of the contraction."
+ },
+ {
+  "id": 61,
+  "domain": "p1_physiology",
+  "front": "Resting heart rate is 70 and stroke volume is 70 mL. What is cardiac output and how is blood pressure related?",
+  "back": "About 4.9 to 5 L per minute. Blood pressure equals cardiac output times total peripheral resistance."
+ },
+ {
+  "id": 62,
+  "domain": "p1_physiology",
+  "front": "What does the Frank Starling law say?",
+  "back": "Greater ventricular filling (preload) stretches the muscle and increases the force of the next beat, within limits."
+ },
+ {
+  "id": 63,
+  "domain": "p1_physiology",
+  "front": "What does each ECG feature represent: P wave, QRS, T wave?",
+  "back": "P wave is atrial depolarization. QRS is ventricular depolarization (atrial repolarization is hidden in it). T wave is ventricular repolarization."
+ },
+ {
+  "id": 64,
+  "domain": "p1_physiology",
+  "front": "A vessel radius falls by half. How does resistance change?",
+  "back": "Resistance rises sixteen times, since it is inversely proportional to the fourth power of radius (Poiseuille). Arterioles are the main site of resistance control."
+ },
+ {
+  "id": 65,
+  "domain": "p1_physiology",
+  "front": "A patient with liver failure has swollen legs. Which Starling force explains it?",
+  "back": "Low albumin lowers plasma oncotic pressure, so less fluid is pulled back into capillaries and edema forms."
+ },
+ {
+  "id": 66,
+  "domain": "p1_physiology",
+  "front": "A rightward shift of the oxygen hemoglobin curve means what, and what causes it?",
+  "back": "Lower affinity and easier unloading to tissue. Causes: higher temperature, higher CO2, lower pH, higher 2,3 BPG (the Bohr effect). Carbon monoxide shifts it left."
+ },
+ {
+  "id": 67,
+  "domain": "p1_physiology",
+  "front": "Which finding separates obstructive from restrictive lung disease on spirometry?",
+  "back": "Obstructive: FEV1 falls more than FVC, so the FEV1 over FVC ratio drops below about 70 percent. Restrictive: both fall and the ratio is normal or high."
+ },
+ {
+  "id": 68,
+  "domain": "p1_physiology",
+  "front": "Which cells make surfactant, and what does its lack cause?",
+  "back": "Type II alveolar cells. Surfactant lowers surface tension, and lack causes neonatal respiratory distress."
+ },
+ {
+  "id": 69,
+  "domain": "p1_physiology",
+  "front": "A person vomits severely for days. What acid base disorder follows and how does breathing respond?",
+  "back": "Metabolic alkalosis from loss of stomach acid, with slowed breathing to compensate."
+ },
+ {
+  "id": 70,
+  "domain": "p1_physiology",
+  "front": "A woman has high estradiol late in the follicular phase. What does it trigger and when does ovulation occur?",
+  "back": "A positive feedback LH surge, causing ovulation around day 14 of a 28 day cycle."
+ },
+ {
+  "id": 71,
+  "domain": "p1_physiology",
+  "front": "Which hormone does the placenta's trophoblast make to keep the corpus luteum alive, and until when?",
+  "back": "Human chorionic gonadotropin (hCG), until the placenta takes over hormone production at about 10 weeks."
+ },
+ {
+  "id": 72,
+  "domain": "p1_physiology",
+  "front": "What do gastrin (G cell), secretin and CCK each do?",
+  "back": "Gastrin raises acid output. Secretin (duodenum, response to acid) stimulates pancreatic bicarbonate. CCK (response to fat and protein) contracts the gallbladder and releases pancreatic enzymes."
+ },
+ {
+  "id": 73,
+  "domain": "p1_physiology",
+  "front": "A patient has lost parietal cells. Which vitamin deficiency and anemia follow?",
+  "back": "Vitamin B12 deficiency causing pernicious anemia, because intrinsic factor is needed to absorb B12 in the ileum."
+ },
+ {
+  "id": 74,
+  "domain": "p1_physiology",
+  "front": "How do insulin and glucagon differ in effect on blood glucose, and which cells make them?",
+  "back": "Beta cells make insulin, which lowers glucose. Alpha cells make glucagon, which raises it through glycogen breakdown and gluconeogenesis."
+ },
+ {
+  "id": 75,
+  "domain": "p1_physiology",
+  "front": "A patient has muscle soreness 48 hours after a new downhill run. What is the cause?",
+  "back": "Delayed onset muscle soreness from eccentric exercise. It peaks 24 to 72 hours later and is not caused by lactic acid."
+ },
+ {
+  "id": 76,
+  "domain": "p1_chemistry",
+  "front": "What is the net yield of glycolysis from one glucose?",
+  "back": "Two pyruvate, 2 ATP and 2 NADH. It happens in the cytoplasm and does not need oxygen."
+ },
+ {
+  "id": 77,
+  "domain": "p1_chemistry",
+  "front": "Which enzyme is the main control point of glycolysis, and what turns it on and off?",
+  "back": "Phosphofructokinase 1. AMP and fructose 2,6 bisphosphate turn it on. ATP and citrate turn it off, because a full energy tank means less breakdown is needed."
+ },
+ {
+  "id": 78,
+  "domain": "p1_chemistry",
+  "front": "A patient's muscle cells make ATP only from glycolysis after a sprint. Why does lactate build up?",
+  "back": "Without oxygen, pyruvate becomes lactate. That step regenerates NAD+, which glycolysis needs to keep running."
+ },
+ {
+  "id": 79,
+  "domain": "p1_chemistry",
+  "front": "Why can liver glycogen raise blood sugar but muscle glycogen cannot?",
+  "back": "Muscle lacks glucose 6 phosphatase. Its glycogen can only fuel the muscle itself. The liver has the enzyme and releases free glucose."
+ },
+ {
+  "id": 80,
+  "domain": "p1_chemistry",
+  "front": "A man develops hemolysis after eating fava beans. Which enzyme deficiency is likely, and why?",
+  "back": "Glucose 6 phosphate dehydrogenase. The pentose phosphate pathway makes NADPH, which keeps glutathione reduced. Without it, red cells break under oxidant stress."
+ },
+ {
+  "id": 81,
+  "domain": "p1_chemistry",
+  "front": "Which enzyme is the rate limiting step of cholesterol synthesis, and which drug blocks it?",
+  "back": "HMG CoA reductase. Statin drugs inhibit it."
+ },
+ {
+  "id": 82,
+  "domain": "p1_chemistry",
+  "front": "How do dietary fats reach the body after digestion, and which route do they take?",
+  "back": "Fats are packed into chylomicrons. These enter lymph vessels called lacteals, not the portal blood. Short and medium chain fatty acids go straight to portal blood."
+ },
+ {
+  "id": 83,
+  "domain": "p1_chemistry",
+  "front": "Which lipoprotein carries cholesterol to tissues and is the main atherogenic particle?",
+  "back": "LDL. HDL does the reverse and returns cholesterol to the liver."
+ },
+ {
+  "id": 84,
+  "domain": "p1_chemistry",
+  "front": "A fasting patient's liver is making acetoacetate and beta hydroxybutyrate. What are these called and where do they come from?",
+  "back": "Ketone bodies. The liver makes them from excess acetyl CoA when fat breakdown is high, as in prolonged fasting or uncontrolled diabetes."
+ },
+ {
+  "id": 85,
+  "domain": "p1_chemistry",
+  "front": "Which carrier moves long chain fatty acids into mitochondria for beta oxidation?",
+  "back": "Carnitine, controlled at the step done by carnitine acyltransferase I."
+ },
+ {
+  "id": 86,
+  "domain": "p1_chemistry",
+  "front": "Name the essential amino acids that humans must get from the diet.",
+  "back": "Valine, leucine, isoleucine, lysine, methionine, threonine, phenylalanine, tryptophan and histidine. Arginine is conditionally essential."
+ },
+ {
+  "id": 87,
+  "domain": "p1_chemistry",
+  "front": "Which amino acids are purely ketogenic?",
+  "back": "Leucine and lysine only. They form ketone bodies, not glucose."
+ },
+ {
+  "id": 88,
+  "domain": "p1_chemistry",
+  "front": "A baby has a musty odor and high phenylalanine. What enzyme is missing, and what becomes essential?",
+  "back": "Phenylalanine hydroxylase is missing, which is phenylketonuria. Tyrosine becomes essential because the body cannot make it from phenylalanine."
+ },
+ {
+  "id": 89,
+  "domain": "p1_chemistry",
+  "front": "Which vitamin is the coenzyme for transamination, and which two liver enzymes use it?",
+  "back": "Vitamin B6, as pyridoxal phosphate. ALT and AST are the transaminases used as liver markers."
+ },
+ {
+  "id": 90,
+  "domain": "p1_chemistry",
+  "front": "What does a competitive inhibitor do to Km and Vmax?",
+  "back": "It raises the apparent Km and leaves Vmax unchanged. Adding more substrate can overcome it."
+ },
+ {
+  "id": 91,
+  "domain": "p1_chemistry",
+  "front": "A drug binds an enzyme away from the active site. Km is unchanged, but Vmax falls. What type of inhibition is this?",
+  "back": "Noncompetitive inhibition. Extra substrate cannot fix it because the inhibitor does not compete for the active site."
+ },
+ {
+  "id": 92,
+  "domain": "p1_chemistry",
+  "front": "On a Lineweaver Burk plot, what do the y intercept and x intercept equal?",
+  "back": "The y intercept is 1 over Vmax. The x intercept is negative 1 over Km."
+ },
+ {
+  "id": 93,
+  "domain": "p1_chemistry",
+  "front": "Which hormone class binds intracellular receptors and travels on carrier proteins?",
+  "back": "Steroid hormones, plus thyroid hormones. They are lipid soluble and change gene transcription, so effects are slower but longer lasting."
+ },
+ {
+  "id": 94,
+  "domain": "p1_chemistry",
+  "front": "A patient with untreated type 1 diabetes has acetone on the breath and acidosis. Explain the cause.",
+  "back": "With no insulin, fat breakdown surges and the liver turns acetyl CoA into acidic ketone bodies. Oxaloacetate is diverted to making glucose, so acetyl CoA cannot enter the citric acid cycle."
+ },
+ {
+  "id": 95,
+  "domain": "p1_chemistry",
+  "front": "Which enzyme makes uric acid, and which gout drug blocks it?",
+  "back": "Xanthine oxidase converts xanthine to uric acid. Allopurinol inhibits it."
+ },
+ {
+  "id": 96,
+  "domain": "p1_chemistry",
+  "front": "A boy has self mutilation, hyperuricemia and an X linked pattern. Which enzyme is deficient?",
+  "back": "HGPRT, which is Lesch Nyhan syndrome."
+ },
+ {
+  "id": 97,
+  "domain": "p1_chemistry",
+  "front": "How much ATP comes from each NADH and each FADH2 in the electron transport chain?",
+  "back": "About 2.5 ATP per NADH and 1.5 per FADH2. Full oxidation of one glucose gives roughly 30 to 32 ATP."
+ },
+ {
+  "id": 98,
+  "domain": "p1_pathology",
+  "front": "What is metaplasia, and what is a classic example in a smoker?",
+  "back": "Replacement of one mature cell type by another. In a smoker, bronchial lining cells change to squamous type. Barrett esophagus is squamous to columnar."
+ },
+ {
+  "id": 99,
+  "domain": "p1_pathology",
+  "front": "A patient has disordered cell growth with abnormal size and shape, still reversible if the cause is removed. What is it?",
+  "back": "Dysplasia. It can be a precursor to cancer."
+ },
+ {
+  "id": 100,
+  "domain": "p1_pathology",
+  "front": "Which type of necrosis is typical in a heart or kidney infarct?",
+  "back": "Coagulative necrosis. Liquefactive necrosis is typical of brain and abscesses."
+ },
+ {
+  "id": 101,
+  "domain": "p1_pathology",
+  "front": "Which necrosis is cheese like and typical of tuberculosis?",
+  "back": "Caseous necrosis."
+ },
+ {
+  "id": 102,
+  "domain": "p1_pathology",
+  "front": "What separates apoptosis from necrosis?",
+  "back": "Apoptosis is programmed cell death driven by caspases and has no inflammation. Necrosis is death with inflammation."
+ },
+ {
+  "id": 103,
+  "domain": "p1_pathology",
+  "front": "What are the two main groups of genes that cause cancer when damaged?",
+  "back": "Proto oncogenes become growth promoting oncogenes when mutated, for example RAS and MYC. Tumor suppressor genes restrain growth, and both copies must be lost, for example TP53 and RB."
+ },
+ {
+  "id": 104,
+  "domain": "p1_pathology",
+  "front": "Which gene is called the guardian of the genome?",
+  "back": "TP53. It is the most commonly mutated gene in human cancer."
+ },
+ {
+  "id": 105,
+  "domain": "p1_pathology",
+  "front": "A 60 year old man has unrelenting night back pain, weight loss and a sclerotic spinal lesion. Which primary cancer is most likely?",
+  "back": "Prostate cancer. Its bone metastases are typically osteoblastic (sclerotic). Breast and lung lesions are often lytic or mixed."
+ },
+ {
+  "id": 106,
+  "domain": "p1_pathology",
+  "front": "Which primary cancer gives punched out lytic lesions in bone?",
+  "back": "Multiple myeloma, a plasma cell cancer."
+ },
+ {
+  "id": 107,
+  "domain": "p1_pathology",
+  "front": "Grade versus stage: which has more prognostic weight?",
+  "back": "Stage, using TNM (tumor, nodes, metastasis). Grade only describes how abnormal the cells look."
+ },
+ {
+  "id": 108,
+  "domain": "p1_pathology",
+  "front": "What three factors make up Virchow triad for thrombosis?",
+  "back": "Endothelial injury, abnormal flow (stasis or turbulence) and hypercoagulability."
+ },
+ {
+  "id": 109,
+  "domain": "p1_pathology",
+  "front": "Why does left heart failure cause heart failure cells in the lungs, and right heart failure a nutmeg liver?",
+  "back": "Left failure backs blood into the lungs, leaving hemosiderin filled macrophages. Right failure backs blood into the liver, giving a mottled nutmeg look."
+ },
+ {
+  "id": 110,
+  "domain": "p1_pathology",
+  "front": "A patient has a long bone fracture and then sudden breathlessness. What type of embolus is likely?",
+  "back": "A fat embolus. Air emboli follow chest trauma or diving, and amniotic fluid emboli occur in childbirth."
+ },
+ {
+  "id": 111,
+  "domain": "p1_pathology",
+  "front": "A patient with a high spinal cord injury has warm dry skin and a slow heart rate with low blood pressure. What type of shock?",
+  "back": "Neurogenic shock, from loss of sympathetic tone."
+ },
+ {
+  "id": 112,
+  "domain": "p1_pathology",
+  "front": "Which cell marks Hodgkin lymphoma, and what does it look like?",
+  "back": "The Reed-Sternberg cell, a large cell with two mirror image nuclei, often called owl eyes. Patients may have painless lymph node swelling, fever and night sweats."
+ },
+ {
+  "id": 113,
+  "domain": "p1_pathology",
+  "front": "Which hypersensitivity type is T cell mediated and delayed, and what is an example?",
+  "back": "Type IV. Examples are the tuberculin skin test and contact dermatitis. Type I is IgE, type II is antibody against cells, type III is immune complexes."
+ },
+ {
+  "id": 114,
+  "domain": "p1_pathology",
+  "front": "Which antibodies are linked to lupus and which to rheumatoid arthritis?",
+  "back": "Lupus: antinuclear and anti dsDNA antibodies. Rheumatoid arthritis: rheumatoid factor and anti CCP."
+ },
+ {
+  "id": 115,
+  "domain": "p1_pathology",
+  "front": "What is the difference between marasmus and kwashiorkor?",
+  "back": "Marasmus is total calorie deficiency with wasting and no edema. Kwashiorkor is protein deficiency with adequate calories, edema, fatty liver and a swollen belly."
+ },
+ {
+  "id": 116,
+  "domain": "p1_pathology",
+  "front": "Which vitamin deficiency causes subacute combined degeneration of the spinal cord?",
+  "back": "Vitamin B12, which also causes megaloblastic anemia."
+ },
+ {
+  "id": 117,
+  "domain": "p1_pathology",
+  "front": "What is the difference between osteoporosis and osteomalacia?",
+  "back": "Osteoporosis is reduced bone mass with normal mineralization. Osteomalacia is defective mineralization of osteoid, from vitamin D deficiency in adults."
+ },
+ {
+  "id": 118,
+  "domain": "p1_pathology",
+  "front": "An older patient has thickened bone, a cotton wool skull, an ivory vertebra and high alkaline phosphatase. What is the disease?",
+  "back": "Paget disease (osteitis deformans). It carries a risk of sarcoma and hearing loss."
+ },
+ {
+  "id": 119,
+  "domain": "p1_pathology",
+  "front": "A teen has a diaphyseal bone tumor with onion skin periosteal reaction and a t(11;22) translocation. What tumor?",
+  "back": "Ewing sarcoma. Osteosarcoma instead shows a sunburst pattern near the knee."
+ },
+ {
+  "id": 120,
+  "domain": "p1_pathology",
+  "front": "How do gout and pseudogout crystals differ?",
+  "back": "Gout: needle shaped, negatively birefringent urate crystals, often at the first metatarsophalangeal joint. Pseudogout: rhomboid, weakly positively birefringent calcium pyrophosphate crystals."
+ },
+ {
+  "id": 121,
+  "domain": "p1_pathology",
+  "front": "A young man has stiff low back, sacroiliac disease and bamboo spine on film. Which gene is linked?",
+  "back": "HLA B27, in ankylosing spondylitis."
+ },
+ {
+  "id": 122,
+  "domain": "p1_pathology",
+  "front": "What cerebrospinal fluid pattern separates bacterial from viral meningitis?",
+  "back": "Bacterial: high neutrophils and low glucose. Viral: lymphocytes and normal glucose."
+ },
+ {
+  "id": 123,
+  "domain": "p1_pathology",
+  "front": "A patient has sudden severe neck pain with dizziness, diplopia, dysarthria and drop attacks. What should you suspect?",
+  "back": "Vertebral artery dissection. These are the warning signs to know before cervical manipulation."
+ },
+ {
+  "id": 124,
+  "domain": "p1_pathology",
+  "front": "A patient has saddle anesthesia, bladder dysfunction and bilateral leg weakness. What is the diagnosis and urgency?",
+  "back": "Cauda equina syndrome, a surgical emergency."
+ },
+ {
+  "id": 125,
+  "domain": "p1_pathology",
+  "front": "What size of abdominal aortic aneurysm usually needs repair?",
+  "back": "About 5.5 cm or more in men (about 5.0 cm in women, or growth over 0.5 cm in 6 months). A pulsatile mass with back pain is a warning sign."
+ },
+ {
+  "id": 126,
+  "domain": "p1_microbiology",
+  "front": "Which antibody is the first made in a primary response and best activates complement?",
+  "back": "IgM, a pentamer. IgG dominates the later and secondary responses."
+ },
+ {
+  "id": 127,
+  "domain": "p1_microbiology",
+  "front": "What is the rule linking CD4 and CD8 cells to MHC classes?",
+  "back": "The rule of 8: CD4 (4) x MHC II (2) = 8, and CD8 (8) x MHC I (1) = 8. Helper T cells see MHC II, cytotoxic T cells see MHC I."
+ },
+ {
+  "id": 128,
+  "domain": "p1_microbiology",
+  "front": "Which organism causes strep throat, and what late complications can follow if untreated?",
+  "back": "Group A beta hemolytic Streptococcus (S. pyogenes). Late complications are rheumatic fever and post streptococcal glomerulonephritis."
+ },
+ {
+  "id": 129,
+  "domain": "p1_microbiology",
+  "front": "A baby gets recurrent bacterial infections after six months with absent B cells. What is the diagnosis?",
+  "back": "Bruton X linked agammaglobulinemia. Symptoms start when maternal IgG fades."
+ },
+ {
+  "id": 130,
+  "domain": "p1_microbiology",
+  "front": "Which bacterial part is endotoxin, and what does it cause?",
+  "back": "Lipid A of lipopolysaccharide in the gram negative outer membrane. It causes fever and septic shock. Exotoxins are secreted proteins from mostly gram positive bacteria."
+ },
+ {
+  "id": 131,
+  "domain": "p1_microbiology",
+  "front": "A patient with osteomyelitis has sickle cell disease. Which organism is classic, and which is most common overall?",
+  "back": "Salmonella is classic in sickle cell disease; Staphylococcus aureus is the most common cause overall. Pseudomonas follows foot puncture wounds and injection drug use."
+ },
+ {
+  "id": 132,
+  "domain": "p1_microbiology",
+  "front": "A teenager has sore throat, then migratory joint pain and a heart murmur. Which organism and which reaction?",
+  "back": "Group A Streptococcus pyogenes causing rheumatic fever, a type II reaction with carditis, polyarthritis and chorea."
+ },
+ {
+  "id": 133,
+  "domain": "p1_microbiology",
+  "front": "A hiker has a bullseye rash, later arthritis and facial palsy. What organism and vector?",
+  "back": "Borrelia burgdorferi, Lyme disease, carried by Ixodes ticks. The rash is erythema migrans."
+ },
+ {
+  "id": 134,
+  "domain": "p1_microbiology",
+  "front": "Where does herpes simplex 1 stay latent, and where does varicella zoster stay latent?",
+  "back": "HSV 1 in the trigeminal ganglion. Varicella zoster in dorsal root ganglia, causing a dermatomal rash when it reactivates as shingles."
+ },
+ {
+  "id": 135,
+  "domain": "p1_microbiology",
+  "front": "A teen has fever, atypical lymphocytes and a positive heterophile antibody test. Which virus?",
+  "back": "Epstein Barr virus, causing infectious mononucleosis. It is also linked to Burkitt lymphoma."
+ },
+ {
+  "id": 136,
+  "domain": "p1_microbiology",
+  "front": "Compare hepatitis A and E with B, C and D by spread and chronic risk.",
+  "back": "A and E spread by the fecal oral route and are usually self limited (E can turn chronic if immunocompromised). B, C and D spread by blood and body fluids. D needs B. B and C raise liver cancer risk."
+ },
+ {
+  "id": 137,
+  "domain": "p1_microbiology",
+  "front": "In hepatitis B serology, what do HBsAg and isolated anti HBs mean?",
+  "back": "HBsAg means current infection (acute or chronic). Anti HBs alone means immunity from vaccination. Anti HBc IgM marks acute infection and may be the only positive marker in the window period."
+ },
+ {
+  "id": 138,
+  "domain": "p1_microbiology",
+  "front": "What makes prions different from other infectious agents?",
+  "back": "They are misfolded proteins with no nucleic acid. They resist heat and formalin and cause spongiform encephalopathy such as Creutzfeldt Jakob disease, with no inflammation."
+ },
+ {
+  "id": 139,
+  "domain": "p1_microbiology",
+  "front": "A patient from the Ohio River valley has lung nodules after cave exposure. Which fungus?",
+  "back": "Histoplasma capsulatum, from bird and bat droppings. Coccidioides is the southwestern valley fever fungus."
+ },
+ {
+  "id": 140,
+  "domain": "p1_microbiology",
+  "front": "An AIDS patient has meningitis and an encapsulated yeast on India ink stain. Which organism?",
+  "back": "Cryptococcus neoformans, from pigeon droppings."
+ },
+ {
+  "id": 141,
+  "domain": "p1_microbiology",
+  "front": "A person has muscle pain and periorbital swelling after eating undercooked pork. Which parasite?",
+  "back": "Trichinella spiralis. Larvae encyst in skeletal muscle, so the pain can mimic a musculoskeletal problem."
+ },
+ {
+  "id": 142,
+  "domain": "p1_microbiology",
+  "front": "What does a lab finding of eosinophilia point to?",
+  "back": "Helminth (tissue invading worm) infection is the classic infectious cause, though allergy, asthma and drug reactions also raise eosinophils. Most protozoal infections do not."
+ },
+ {
+  "id": 143,
+  "domain": "p1_pathology",
+  "front": "Prevalence versus incidence: which is which, and how are they related?",
+  "back": "Incidence is new cases over a period. Prevalence is all existing cases at one time. Prevalence is roughly incidence times average duration."
+ },
+ {
+  "id": 144,
+  "domain": "p1_microbiology",
+  "front": "What are primary, secondary and tertiary prevention?",
+  "back": "Primary stops disease before it occurs, like vaccines. Secondary finds it early, like screening. Tertiary limits disability from established disease, like rehabilitation."
+ },
+ {
+  "id": 145,
+  "domain": "p1_microbiology",
+  "front": "What is the difference between disinfection and sterilization in a clinic?",
+  "back": "Disinfection reduces organisms on surfaces. Sterilization destroys all organisms including spores, usually by autoclave."
+ },
+ {
+  "id": 146,
+  "domain": "p2_general_diagnosis",
+  "front": "What does OPQRST stand for in a history of the present illness?",
+  "back": "Onset, provocation and palliation, quality, region and radiation, severity, timing. It is a checklist that makes sure you ask about every key feature of a complaint."
+ },
+ {
+  "id": 147,
+  "domain": "p2_general_diagnosis",
+  "front": "What is the correct order of a full case history?",
+  "back": "Chief complaint, history of present illness, past history, medications, family history, social history, then review of systems. The review of systems comes last as a head to toe screen."
+ },
+ {
+  "id": 148,
+  "domain": "p2_general_diagnosis",
+  "front": "How much unexplained weight loss counts as a red flag?",
+  "back": "More than 5 percent of body weight over 6 to 12 months without trying. This points toward cancer, infection or an endocrine problem."
+ },
+ {
+  "id": 149,
+  "domain": "p2_general_diagnosis",
+  "front": "A patient has polyuria, polydipsia and polyphagia. What disease do you suspect?",
+  "back": "Diabetes mellitus. The three P words come from high blood sugar pulling water into the urine and the body starving for fuel."
+ },
+ {
+  "id": 150,
+  "domain": "p2_general_diagnosis",
+  "front": "Pain that bores through to the mid back and eases when the patient leans forward suggests which organ?",
+  "back": "The pancreas. Leaning forward takes tension off the inflamed gland. Gallbladder pain more often refers to the right scapula."
+ },
+ {
+  "id": 151,
+  "domain": "p2_general_diagnosis",
+  "front": "A patient has a blood pressure of 134/76. Which 2017 ACC and AHA category is this?",
+  "back": "Stage 1 hypertension. Stage 1 is 130 to 139 systolic OR 80 to 89 diastolic, so one number in range is enough."
+ },
+ {
+  "id": 152,
+  "domain": "p2_general_diagnosis",
+  "front": "What blood pressure level is called a hypertensive crisis?",
+  "back": "Above 180 systolic and/or above 120 diastolic. This needs urgent medical attention, especially with symptoms such as chest pain or confusion."
+ },
+ {
+  "id": 153,
+  "domain": "p2_general_diagnosis",
+  "front": "Which two conditions widen the pulse pressure, and which two narrow it?",
+  "back": "Widened by aortic regurgitation and hyperthyroidism. Narrowed by aortic stenosis and cardiac tamponade. Pulse pressure is systolic minus diastolic, normally about 40."
+ },
+ {
+  "id": 154,
+  "domain": "p2_general_diagnosis",
+  "front": "What is pulsus paradoxus?",
+  "back": "A drop in systolic pressure of more than 10 mm Hg during inspiration. It is classic for cardiac tamponade and also seen in severe asthma."
+ },
+ {
+  "id": 155,
+  "domain": "p2_general_diagnosis",
+  "front": "What drop in pressure within 3 minutes of standing defines orthostatic hypotension?",
+  "back": "A fall of 20 mm Hg systolic or 10 mm Hg diastolic. Common causes are dehydration, blood loss, blood pressure drugs and autonomic neuropathy."
+ },
+ {
+  "id": 156,
+  "domain": "p2_general_diagnosis",
+  "front": "The blood pressure differs by more than 10 to 15 mm Hg between the two arms. What do you worry about?",
+  "back": "Subclavian stenosis or aortic dissection. A real difference between arms is a sign of a blocked or torn large artery."
+ },
+ {
+  "id": 157,
+  "domain": "p2_general_diagnosis",
+  "front": "A diabetic patient breathes deeply and heavily with a fruity breath odor. What is this breathing pattern called?",
+  "back": "Kussmaul respiration. The body blows off carbon dioxide to fight the acid load of diabetic ketoacidosis."
+ },
+ {
+  "id": 158,
+  "domain": "p2_general_diagnosis",
+  "front": "A pupil accommodates but does not react to light. What is it called and what disease goes with it?",
+  "back": "Argyll Robertson pupil, linked to neurosyphilis. It is often described as a pupil that accommodates but does not react."
+ },
+ {
+  "id": 159,
+  "domain": "p2_general_diagnosis",
+  "front": "A patient has a painful red eye, a fixed mid dilated pupil, a hazy cornea and halos around lights. What is the diagnosis?",
+  "back": "Acute angle closure glaucoma. It is an emergency because the high eye pressure can cause permanent blindness within hours."
+ },
+ {
+  "id": 160,
+  "domain": "p2_general_diagnosis",
+  "front": "In a patient with conductive hearing loss in the right ear, what do the Weber and Rinne tests show?",
+  "back": "Weber lateralizes to the right (affected) ear, and on Rinne bone conduction is better than air conduction on that side."
+ },
+ {
+  "id": 161,
+  "domain": "p2_general_diagnosis",
+  "front": "In sensorineural loss, where does the Weber sound go and what does Rinne show?",
+  "back": "Weber lateralizes to the normal ear. Rinne is still air better than bone, though both are reduced."
+ },
+ {
+  "id": 162,
+  "domain": "p2_general_diagnosis",
+  "front": "A white patch in the mouth cannot be scraped off. What is it and why does it matter?",
+  "back": "Leukoplakia. It may be premalignant, so it needs referral. White plaques that scrape off are more likely candidiasis."
+ },
+ {
+  "id": 163,
+  "domain": "p2_general_diagnosis",
+  "front": "What does a hard, fixed, painless neck lymph node suggest compared with a tender, mobile one?",
+  "back": "Hard, fixed and painless suggests cancer. Tender and mobile usually means infection."
+ },
+ {
+  "id": 164,
+  "domain": "p2_general_diagnosis",
+  "front": "Tactile fremitus is increased over which lung condition, and decreased over which ones?",
+  "back": "Increased over consolidation such as pneumonia. Decreased over pleural effusion, pneumothorax and emphysema."
+ },
+ {
+  "id": 165,
+  "domain": "p2_general_diagnosis",
+  "front": "Which lung sound is a harsh inspiratory noise from upper airway obstruction?",
+  "back": "Stridor. It is an emergency. Wheezes are high pitched musical sounds from narrowed small airways, as in asthma."
+ },
+ {
+  "id": 166,
+  "domain": "p2_general_diagnosis",
+  "front": "Where do you listen for the mitral valve?",
+  "back": "At the apex, the fifth intercostal space in the midclavicular line. Aortic is right 2nd space, pulmonic is left 2nd space, tricuspid is left lower sternal border."
+ },
+ {
+  "id": 167,
+  "domain": "p2_general_diagnosis",
+  "front": "A harsh crescendo decrescendo systolic murmur radiates to the carotids. What valve problem is this?",
+  "back": "Aortic stenosis. The murmur is loudest at the right second intercostal space."
+ },
+ {
+  "id": 168,
+  "domain": "p2_general_diagnosis",
+  "front": "A holosystolic blowing murmur at the apex radiates to the axilla. What is the diagnosis?",
+  "back": "Mitral regurgitation. Blood leaks back into the left atrium for the whole of systole."
+ },
+ {
+  "id": 169,
+  "domain": "p2_general_diagnosis",
+  "front": "Why do you auscultate before palpating the abdomen?",
+  "back": "Pressing on the belly can change bowel sounds. The exam order is inspection, auscultation, percussion, then palpation."
+ },
+ {
+  "id": 170,
+  "domain": "p2_general_diagnosis",
+  "front": "Bruising around the umbilicus is called what, and what does it suggest?",
+  "back": "Cullen sign. Bruising in the flanks is Grey Turner sign. Both suggest retroperitoneal bleeding such as hemorrhagic pancreatitis."
+ },
+ {
+  "id": 171,
+  "domain": "p2_general_diagnosis",
+  "front": "Pressing the left lower quadrant causes right lower quadrant pain. What is this sign and what disease?",
+  "back": "Rovsing sign, seen in appendicitis. McBurney point is one third of the way from the right ASIS to the umbilicus."
+ },
+ {
+  "id": 172,
+  "domain": "p2_general_diagnosis",
+  "front": "A painless palpable gallbladder with jaundice suggests what?",
+  "back": "Courvoisier sign, pointing to cancer of the head of the pancreas. In cholecystitis, Murphy sign is pain that stops inspiration."
+ },
+ {
+  "id": 173,
+  "domain": "p2_general_diagnosis",
+  "front": "A pulsatile expansile midline abdominal mass suggests what, and what diameter defines it?",
+  "back": "Abdominal aortic aneurysm, defined as an aortic diameter of 3 cm or more. Repair is usually at 5.5 cm or more, and rupture is an emergency."
+ },
+ {
+  "id": 174,
+  "domain": "p2_general_diagnosis",
+  "front": "A teenager has sudden severe scrotal pain, a high riding horizontal testis, no cremasteric reflex and no relief on lifting. What is it?",
+  "back": "Testicular torsion, a surgical emergency. In epididymitis lifting the testis eases pain (positive Prehn sign)."
+ },
+ {
+  "id": 175,
+  "domain": "p2_general_diagnosis",
+  "front": "What does a hard, nodular, asymmetric prostate on rectal exam suggest?",
+  "back": "Prostate cancer. Benign hyperplasia is smooth and symmetric. An acutely tender boggy prostate is prostatitis and is not massaged."
+ },
+ {
+  "id": 176,
+  "domain": "p2_general_diagnosis",
+  "front": "Which lab is more specific for pancreatitis, amylase or lipase?",
+  "back": "Lipase is more specific (and stays elevated longer). Amylase also rises in salivary gland disease and other conditions."
+ },
+ {
+  "id": 177,
+  "domain": "p2_general_diagnosis",
+  "front": "What fasting glucose and A1c values diagnose diabetes?",
+  "back": "Fasting glucose of 126 mg/dL or higher on two occasions, or hemoglobin A1c of 6.5 percent or higher."
+ },
+ {
+  "id": 178,
+  "domain": "p2_general_diagnosis",
+  "front": "A strep throat is suggested by which four Centor findings?",
+  "back": "Tonsillar exudate, tender anterior cervical nodes, fever, and absence of cough."
+ },
+ {
+  "id": 179,
+  "domain": "p2_general_diagnosis",
+  "front": "Duodenal ulcer pain versus gastric ulcer pain: which is relieved by eating?",
+  "back": "Duodenal ulcer pain is relieved by eating. Gastric ulcer pain is made worse by eating. Helicobacter pylori causes most ulcers."
+ },
+ {
+  "id": 180,
+  "domain": "p2_general_diagnosis",
+  "front": "What CD4 count defines AIDS in an HIV patient?",
+  "back": "Below 200 per microliter, or an opportunistic infection such as Pneumocystis pneumonia."
+ },
+ {
+  "id": 181,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "A 28 year old has six months of low back pain, stiff over an hour each morning, better after walking. What does it suggest?",
+  "back": "Inflammatory back pain, possibly ankylosing spondylitis. Mechanical pain eases with rest, but inflammatory pain improves with exercise and worsens with rest."
+ },
+ {
+  "id": 182,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Name the signs of cauda equina syndrome.",
+  "back": "Urinary retention with overflow incontinence, saddle anesthesia, loss of anal sphincter tone, and bilateral or progressive leg weakness. It is a surgical emergency."
+ },
+ {
+  "id": 183,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "What are yellow flags?",
+  "back": "Psychosocial risk factors for chronic disability, such as fear avoidance, depression and job dissatisfaction. Red flags suggest serious disease, yellow flags suggest slow recovery."
+ },
+ {
+  "id": 184,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "In the lateral posture view, which landmarks should the plumb line pass through?",
+  "back": "Earlobe, middle of the shoulder (acromion), greater trochanter, slightly in front of the knee center, and slightly in front of the lateral malleolus."
+ },
+ {
+  "id": 185,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Which muscles are tight and which are weak in upper crossed syndrome?",
+  "back": "Tight: upper trapezius, levator scapulae and pectorals. Weak: deep neck flexors and lower scapular stabilizers. The result is forward head and rounded shoulders."
+ },
+ {
+  "id": 186,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Lower crossed syndrome gives what posture and which muscles are tight?",
+  "back": "Increased lumbar lordosis and anterior pelvic tilt. Tight hip flexors and lumbar erectors, weak abdominals and gluteals."
+ },
+ {
+  "id": 187,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "How is scoliosis screened and how is it measured?",
+  "back": "Screened with the Adams forward bend test, looking for a rib hump. Measured on radiograph by the Cobb angle, and a curve over 10 degrees defines scoliosis."
+ },
+ {
+  "id": 188,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "What percent of the gait cycle is stance phase and what percent is swing?",
+  "back": "Stance is about 60 percent and swing about 40 percent."
+ },
+ {
+  "id": 189,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "During single leg stance on the right, the pelvis drops on the left. Which muscle is weak and which nerve supplies it?",
+  "back": "The right gluteus medius, supplied by the superior gluteal nerve. In Trendelenburg gait the pelvis drops on the side opposite the weak muscle."
+ },
+ {
+  "id": 190,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Which gait has high knee lifting from weak dorsiflexors?",
+  "back": "Steppage gait, or foot drop. It comes from common fibular nerve or L4 and L5 involvement."
+ },
+ {
+  "id": 191,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "A patient swings one leg outward in a circle with the arm held flexed. What gait is this and what is the cause?",
+  "back": "Spastic hemiparetic gait, typical after a stroke."
+ },
+ {
+  "id": 192,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "A patient has small shuffling steps, stooped posture and trouble starting and turning. What gait and disease?",
+  "back": "Parkinsonian gait, from Parkinson disease with loss of dopamine neurons in the substantia nigra."
+ },
+ {
+  "id": 193,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "A patient stands steadily with eyes open but sways or falls with eyes closed. What does this positive Romberg mean?",
+  "back": "Loss of proprioception, from dorsal column disease or peripheral neuropathy. Cerebellar ataxia is unsteady even with eyes open."
+ },
+ {
+  "id": 194,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Radiating arm pain on cervical compression suggests what?",
+  "back": "Nerve root compression from a narrowed foramen. Spurling test is compression with the neck extended and rotated (laterally flexed) toward the painful side."
+ },
+ {
+  "id": 195,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Arm pain gets better during cervical distraction. What does this suggest?",
+  "back": "Root compression or foraminal narrowing. If neck pain gets worse instead, think ligament or muscle strain."
+ },
+ {
+  "id": 196,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "What does a positive Valsalva maneuver suggest?",
+  "back": "A space occupying lesion such as a disc herniation or tumor, because bearing down raises pressure inside the spinal canal."
+ },
+ {
+  "id": 197,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Sharp local spinal pain on passive neck flexion in a supine patient is which test and what does it suggest?",
+  "back": "Soto Hall test. It suggests a vertebral fracture or ligament sprain."
+ },
+ {
+  "id": 198,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Which tests are used for thoracic outlet syndrome?",
+  "back": "Adson, Wright (hyperabduction), costoclavicular and Roos tests. A change in the radial pulse or reproduced symptoms is positive."
+ },
+ {
+  "id": 199,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "What chest expansion measurement is classic for ankylosing spondylitis?",
+  "back": "Less than 2.5 cm. The disease stiffens the costovertebral joints and limits chest movement."
+ },
+ {
+  "id": 200,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "A patient attempts a partial sit up and the umbilicus moves upward. What is this sign?",
+  "back": "Beevor sign, showing weakness of the lower abdominal muscles from a lesion at about T10 or below."
+ },
+ {
+  "id": 201,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Hand clumsiness, hyperreflexia, a positive Hoffmann sign and a Babinski sign suggest what?",
+  "back": "Cervical myelopathy, compression of the spinal cord. These are upper motor neuron signs."
+ },
+ {
+  "id": 202,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Between what angles is a straight leg raise most meaningful for a disc herniation?",
+  "back": "About 30 to 70 degrees. Pain before 30 may mean a large herniation or acute spasm. Pain after 70 more likely suggests hamstring tightness or joint problems."
+ },
+ {
+  "id": 203,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Raising the opposite leg reproduces pain in the affected leg. Which test is this and why is it important?",
+  "back": "The well leg raise, or crossed straight leg raise. It is highly specific for disc herniation."
+ },
+ {
+  "id": 204,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Which test stretches the upper lumbar roots L2 to L4?",
+  "back": "The femoral nerve stretch test, also called Nachlas or Ely. Straight leg raise stresses L5 and S1 mostly."
+ },
+ {
+  "id": 205,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Which test detects hip flexor contracture, and which detects iliotibial band tightness?",
+  "back": "Thomas test for hip flexor contracture. Ober test for iliotibial band tightness."
+ },
+ {
+  "id": 206,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "What is the difference between the Ortolani and Barlow tests in infants?",
+  "back": "Ortolani relocates a dislocated hip with abduction. Barlow tries to dislocate an unstable hip with adduction and posterior pressure."
+ },
+ {
+  "id": 207,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Which shoulder test points to a rotator cuff tear with the arm dropping from 90 degrees abduction?",
+  "back": "The drop arm test. The empty can or Jobe test checks the supraspinatus, and Neer and Hawkins check for impingement."
+ },
+ {
+  "id": 208,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Which wrist test checks for de Quervain tenosynovitis?",
+  "back": "Finkelstein test. Phalen and Tinel are for carpal tunnel, and Cozen and Mill are for lateral epicondylitis."
+ },
+ {
+  "id": 209,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "What is the unhappy triad of the knee, and which test is most sensitive for an acute ACL tear?",
+  "back": "ACL, medial collateral ligament and medial meniscus injury. The Lachman test is the most sensitive for an acute ACL tear."
+ },
+ {
+  "id": 210,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Which ankle test checks the calcaneofibular ligament, and which checks the Achilles tendon?",
+  "back": "Talar tilt for the calcaneofibular ligament. Thompson squeeze test for Achilles rupture. Anterior drawer is for the anterior talofibular ligament."
+ },
+ {
+  "id": 211,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "Which cranial nerves supply the superior oblique and lateral rectus?",
+  "back": "CN IV supplies the superior oblique and CN VI the lateral rectus (LR6 SO4). All other eye muscles are CN III."
+ },
+ {
+  "id": 212,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "A patient has a down and out eye, ptosis and a dilated pupil. Which nerve is damaged?",
+  "back": "CN III, the oculomotor nerve. It also controls pupil constriction and the eyelid levator."
+ },
+ {
+  "id": 213,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "A stroke patient has a drooping mouth but can wrinkle the forehead. Is this upper or lower motor neuron?",
+  "back": "Upper motor neuron. The forehead is spared because it has input from both sides of the cortex. Bell palsy, a lower motor neuron lesion, affects the whole side of the face."
+ },
+ {
+  "id": 214,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "A spinal cord hemisection gives what findings below the lesion?",
+  "back": "Brown Sequard syndrome: same side motor and position loss, opposite side pain and temperature loss. Pain fibers cross near their entry level, dorsal column fibers cross in the medulla."
+ },
+ {
+  "id": 215,
+  "domain": "p2_neuromusculoskeletal_diagnosis",
+  "front": "A patient has weak great toe extension, weak ankle dorsiflexion, numb dorsal foot and normal reflexes. Which root?",
+  "back": "L5. No common reflex is tied to L5. A weak Achilles reflex with weak plantar flexion would point to S1."
+ },
+ {
+  "id": 216,
+  "domain": "p2_diagnostic_imaging",
+  "front": "What two events inside the tube make an x ray beam, and which makes most of the beam?",
+  "back": "Bremsstrahlung (braking) radiation and characteristic radiation. Bremsstrahlung forms most of the beam, made when electrons slow near a tungsten nucleus."
+ },
+ {
+  "id": 217,
+  "domain": "p2_diagnostic_imaging",
+  "front": "About how much of the energy in the x ray tube becomes x rays and how much becomes heat?",
+  "back": "Less than 1 percent becomes x rays and about 99 percent becomes heat. That is why the anode is a rotating tungsten rhenium disc."
+ },
+ {
+  "id": 218,
+  "domain": "p2_diagnostic_imaging",
+  "front": "Which exposure factor mainly controls beam penetration and contrast?",
+  "back": "kVp. Higher kVp gives longer scale contrast (more grays) and less patient dose per unit of density. mAs controls the quantity of x rays and overall density."
+ },
+ {
+  "id": 219,
+  "domain": "p2_diagnostic_imaging",
+  "front": "You double the mAs. What happens to exposure and patient dose?",
+  "back": "Both double. mAs is the quantity of x rays, so it controls overall density, and dose rises in direct proportion."
+ },
+ {
+  "id": 220,
+  "domain": "p2_diagnostic_imaging",
+  "front": "The source to image distance doubles. What happens to beam intensity, and how do you keep the same exposure?",
+  "back": "Intensity falls to one fourth (inverse square law). Multiply mAs by the square of the distance ratio, here four times."
+ },
+ {
+  "id": 221,
+  "domain": "p2_diagnostic_imaging",
+  "front": "What does the 15 percent rule say?",
+  "back": "Raising kVp by 15 percent gives about the same density as doubling mAs. It lowers patient dose, with a small loss of contrast."
+ },
+ {
+  "id": 222,
+  "domain": "p2_diagnostic_imaging",
+  "front": "Which interaction makes image contrast and most patient dose, and which makes scatter fog and operator exposure?",
+  "back": "Photoelectric effect gives contrast and most patient dose, and depends on atomic number. Compton scatter gives scatter fog and operator exposure, and dominates at higher kVp."
+ },
+ {
+  "id": 223,
+  "domain": "p2_diagnostic_imaging",
+  "front": "A radiograph looks sharp. Which factors improve spatial resolution (detail)?",
+  "back": "Small focal spot, long SID, short object to image distance, and no motion. Long OID or short SID increases magnification and penumbra."
+ },
+ {
+  "id": 224,
+  "domain": "p2_diagnostic_imaging",
+  "front": "When is a grid used, and what is the trade off?",
+  "back": "For parts thicker than about 10 to 12 centimeters. A grid absorbs scatter and improves contrast but raises patient dose."
+ },
+ {
+  "id": 225,
+  "domain": "p2_diagnostic_imaging",
+  "front": "A clinic's digital system never shows a burned out film even when techs overexpose. What is the risk called?",
+  "back": "Dose creep. Digital systems (CR and DR) have wide latitude, so overexposure goes unnoticed while the patient dose rises."
+ },
+ {
+  "id": 226,
+  "domain": "p2_diagnostic_imaging",
+  "front": "How close must the light field match the x ray field on a quality assurance test?",
+  "back": "Within 2 percent of the source to image distance. Other tests cover beam alignment, kVp and timer accuracy, darkroom fog, and screen film contact."
+ },
+ {
+  "id": 227,
+  "domain": "p2_diagnostic_imaging",
+  "front": "Skin erythema, cataract and sterility are what kind of radiation effect, and why?",
+  "back": "Deterministic (nonstochastic). They have a threshold dose and their severity rises with dose. Cancer and genetic effects are stochastic, with no threshold."
+ },
+ {
+  "id": 228,
+  "domain": "p2_diagnostic_imaging",
+  "front": "According to the law of Bergonie and Tribondeau, which cells are most radiosensitive?",
+  "back": "Cells that divide often and are poorly differentiated. Lymphocytes, bone marrow and gonads are sensitive. Muscle and nerve are resistant."
+ },
+ {
+  "id": 229,
+  "domain": "p2_diagnostic_imaging",
+  "front": "When is the fetus most sensitive to radiation?",
+  "back": "In the first trimester, especially weeks 2 to 8. Use extra caution and image only when the result will change management."
+ },
+ {
+  "id": 230,
+  "domain": "p2_diagnostic_imaging",
+  "front": "What are the SI units of absorbed dose and effective dose, and how do they convert?",
+  "back": "Gray for absorbed dose (1 Gy equals 100 rad) and sievert for effective dose (1 Sv equals 100 rem). Air exposure is measured in roentgens."
+ },
+ {
+  "id": 231,
+  "domain": "p2_diagnostic_imaging",
+  "front": "What does ALARA stand for, and what three tools does the operator use?",
+  "back": "As low as reasonably achievable. The operator uses time, distance and shielding."
+ },
+ {
+  "id": 232,
+  "domain": "p2_diagnostic_imaging",
+  "front": "What is the annual effective dose limit for radiation workers and for the public?",
+  "back": "50 millisieverts per year for radiation workers and 1 millisievert per year for the public. The pregnant worker's limit is 0.5 millisievert per month to the fetus."
+ },
+ {
+  "id": 233,
+  "domain": "p2_diagnostic_imaging",
+  "front": "How far from the tube should the operator stand, and where?",
+  "back": "At least 6 feet away, out of the primary beam, or behind a barrier. Lead aprons hold 0.25 to 0.5 millimeter lead equivalent."
+ },
+ {
+  "id": 234,
+  "domain": "p2_diagnostic_imaging",
+  "front": "What minimum filtration does a beam need at 70 kVp or above?",
+  "back": "At least 2.5 millimeters of aluminum equivalent. Filtering removes weak photons that only add skin dose."
+ },
+ {
+  "id": 235,
+  "domain": "p2_diagnostic_imaging",
+  "front": "What is the routine cervical series, and what does the open mouth view show?",
+  "back": "AP open mouth, AP lower cervical, and lateral. The open mouth view shows the atlas, dens, lateral masses and atlantoaxial joints."
+ },
+ {
+  "id": 236,
+  "domain": "p2_diagnostic_imaging",
+  "front": "On the Scottie dog of the lumbar oblique, what is the neck, and what does a break there mean?",
+  "back": "The neck is the pars interarticularis. A break in it is spondylolysis. The nose is the transverse process and the ear is the superior articular process."
+ },
+ {
+  "id": 237,
+  "domain": "p2_diagnostic_imaging",
+  "front": "What are the normal prevertebral soft tissue measurements on the lateral cervical film?",
+  "back": "About 7 millimeters at C2 and about 22 millimeters at C6. Swelling above these suggests hemorrhage, infection or injury."
+ },
+ {
+  "id": 238,
+  "domain": "p2_diagnostic_imaging",
+  "front": "A child's elbow film shows a raised anterior fat pad and a visible posterior fat pad. What does this suggest?",
+  "back": "The sail sign: an elbow joint effusion, which suggests an occult fracture. Any posterior fat pad is abnormal."
+ },
+ {
+  "id": 239,
+  "domain": "p2_diagnostic_imaging",
+  "front": "What are the standard chest film distance and technique?",
+  "back": "PA, upright, 72 inches SID, full inspiration (about 10 posterior ribs above the diaphragm). The long distance limits heart magnification."
+ },
+ {
+  "id": 240,
+  "domain": "p2_diagnostic_imaging",
+  "front": "How is the cardiothoracic ratio found, and what value suggests cardiomegaly?",
+  "back": "Heart width divided by inner chest width. Above 50 percent on a PA film suggests cardiomegaly."
+ },
+ {
+  "id": 241,
+  "domain": "p2_diagnostic_imaging",
+  "front": "Which view best shows free air in the abdomen when the patient cannot stand?",
+  "back": "Left lateral decubitus. An upright film also shows free air under the diaphragm, which signals perforation."
+ },
+ {
+  "id": 242,
+  "domain": "p2_diagnostic_imaging",
+  "front": "What are the normal lumbar lordosis, Ferguson sacral base angle and lumbosacral disc angle?",
+  "back": "Lordosis about 40 to 60 degrees from L1 to S1, Ferguson angle about 40 degrees, and lumbosacral disc angle about 15 degrees."
+ },
+ {
+  "id": 243,
+  "domain": "p2_diagnostic_imaging",
+  "front": "On MRI, how do fat and fluid look on T1 and on T2 images?",
+  "back": "T1: fat bright, fluid dark. T2: fluid bright (CSF, edema, most pathology). Cortical bone, air and calcium are dark on both."
+ },
+ {
+  "id": 244,
+  "domain": "p2_diagnostic_imaging",
+  "front": "What T score separates normal, osteopenia and osteoporosis on DXA?",
+  "back": "Minus 1.0 or higher is normal, between minus 1.0 and minus 2.5 is osteopenia, and minus 2.5 or lower is osteoporosis. The Z score compares with people of the same age and sex."
+ },
+ {
+  "id": 245,
+  "domain": "p2_diagnostic_imaging",
+  "front": "A patient has suspected cancer or infection of the spine. Which advanced study is the better first choice, and why?",
+  "back": "MRI. It shows marrow, disc, cord and soft tissue early, with no radiation. Plain film needs 30 to 50 percent bone loss before a lytic lesion shows."
+ },
+ {
+  "id": 246,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What is the weight of the DXI section and its six categories?",
+  "back": "About 20 percent of the exam. Arthritic 30, Tumors 20, Congenital and variants 15, Miscellaneous osteoarticular 15, Trauma 10, Soft tissue 10."
+ },
+ {
+  "id": 247,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What routine should you follow on any radiograph question before naming a disease?",
+  "back": "Describe first: which bone and site, one or many, lytic or blastic, margin, matrix, periosteal reaction, cortex and soft tissue. Then name the disease."
+ },
+ {
+  "id": 248,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Lesion margin is ill defined and fades into normal bone with a wide zone of transition. What does it mean?",
+  "back": "Aggressive behavior, such as malignancy or infection. A narrow zone with a thin sclerotic rim suggests a slow growing, benign lesion."
+ },
+ {
+  "id": 249,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What matrix do rings and arcs suggest, and what does a cloudlike or ivory matrix suggest?",
+  "back": "Rings and arcs suggest cartilage (enchondroma, chondrosarcoma). Cloudlike or ivory density suggests bone, as in osteosarcoma."
+ },
+ {
+  "id": 250,
+  "domain": "p3_imaging_and_dxi",
+  "front": "A patient is over 40 with a new bone lesion. What is it until proven otherwise?",
+  "back": "Metastasis or multiple myeloma. Age is the strongest clue in tumor questions."
+ },
+ {
+  "id": 251,
+  "domain": "p3_imaging_and_dxi",
+  "front": "A bone scan can be falsely normal in which tumor?",
+  "back": "Multiple myeloma. Metastasis is usually hot. Pregnancy is a contraindication to nuclear studies."
+ },
+ {
+  "id": 252,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What is the Cobb method, and what angle defines scoliosis?",
+  "back": "Draw lines along the endplates of the most tilted vertebrae at the top and bottom of the curve and measure the angle between perpendiculars. Scoliosis is more than 10 degrees."
+ },
+ {
+  "id": 253,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What does the Risser sign measure and what is its scale?",
+  "back": "Ossification of the iliac apophysis, graded 0 to 5, to estimate skeletal maturity. Grade 0 means the most growth remaining, grade 5 means fused."
+ },
+ {
+  "id": 254,
+  "domain": "p3_imaging_and_dxi",
+  "front": "A teen girl has a left thoracic curve with rapid progression. What should be done?",
+  "back": "Order MRI to look for a cord lesion such as a syrinx. The typical idiopathic curve is right thoracic."
+ },
+ {
+  "id": 255,
+  "domain": "p3_imaging_and_dxi",
+  "front": "A young person has painful scoliosis with the lesion on the concave side. What tumor is likely?",
+  "back": "Osteoid osteoma in the posterior elements. It has a small lucent nidus under 1.5 cm with night pain relieved by aspirin."
+ },
+ {
+  "id": 256,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What are the Meyerding grades of spondylolisthesis?",
+  "back": "Slippage across the sacral base in quarters: grade I up to 25 percent, II 25 to 50, III 50 to 75, IV 75 to 100, and V complete displacement (spondyloptosis)."
+ },
+ {
+  "id": 257,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What is the George line on the lateral cervical film, and what step suggests instability?",
+  "back": "A smooth line along the posterior vertebral body margins. A step of more than 2 millimeters between adjacent vertebrae suggests ligamentous instability or listhesis."
+ },
+ {
+  "id": 258,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What is the Hadley S curve and what does a break in it mean?",
+  "back": "A smooth line made by the inferior articular process and the inferior pedicle notch. It is normally continuous, so a break suggests facet subluxation or dislocation."
+ },
+ {
+  "id": 259,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What is the normal atlantodens interval in adults and in children?",
+  "back": "Up to 3 millimeters in adults and up to 5 in children. A larger gap suggests atlantoaxial instability, as in rheumatoid arthritis."
+ },
+ {
+  "id": 260,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Which lines assess a hip dysplasia film, and which line breaks in dislocation?",
+  "back": "Hilgenreiner, Perkin and Shenton lines. Shenton line is broken in dislocation, and the acetabular angle is increased with a shallow socket."
+ },
+ {
+  "id": 261,
+  "domain": "p3_imaging_and_dxi",
+  "front": "A film shows symmetric hand arthritis with periarticular osteopenia and marginal erosions at the MCP joints. What is the disease, and which joints are spared?",
+  "back": "Rheumatoid arthritis. The distal interphalangeal joints are usually spared. Joint space loss is uniform."
+ },
+ {
+  "id": 262,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Flowing ossification along four or more vertebrae, with preserved discs and normal sacroiliac joints. What is it?",
+  "back": "DISH, favoring the thoracic spine of older men. Preserved disc height separates it from spondylosis and normal SI joints separate it from ankylosing spondylitis."
+ },
+ {
+  "id": 263,
+  "domain": "p3_imaging_and_dxi",
+  "front": "How do syndesmophytes of ankylosing spondylitis differ from those of psoriatic or reactive arthritis?",
+  "back": "Ankylosing spondylitis gives thin marginal syndesmophytes with symmetric bilateral sacroiliitis. Psoriatic and reactive arthritis give coarse nonmarginal ones with asymmetric sacroiliitis."
+ },
+ {
+  "id": 264,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What spine changes lead to a bamboo spine?",
+  "back": "Ankylosing spondylitis: squaring of vertebral bodies, shiny corners (Romanus lesions) and marginal syndesmophytes that fuse. It starts bilaterally in the sacroiliac joints."
+ },
+ {
+  "id": 265,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Which arthritis shows pencil in cup deformity and sausage digit?",
+  "back": "Psoriatic arthritis, with distal interphalangeal disease and fluffy periostitis but no osteopenia."
+ },
+ {
+  "id": 266,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Punched out erosions with overhanging edges and preserved joint space. Which disease and classic joint?",
+  "back": "Gout, classically the first metatarsophalangeal joint (podagra). Bone density stays normal, and tophi may calcify."
+ },
+ {
+  "id": 267,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Chondrocalcinosis of the knee menisci, wrist triangular fibrocartilage and pubic symphysis. Which disease?",
+  "back": "CPPD deposition disease. Its arthropathy favors the radiocarpal, patellofemoral and second and third MCP joints."
+ },
+ {
+  "id": 268,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What are the most common benign bone tumor and its key sign?",
+  "back": "Osteochondroma, a bony projection with cortex and medulla continuous with the parent bone, growing away from the joint. Multiple ones are hereditary multiple exostoses, with chondrosarcoma risk."
+ },
+ {
+  "id": 269,
+  "domain": "p3_imaging_and_dxi",
+  "front": "An eccentric lytic subarticular lesion with no matrix in a 30 year old after the physis closed. Diagnosis?",
+  "back": "Giant cell tumor, often at the distal femur, proximal tibia or distal radius, with a soap bubble look."
+ },
+ {
+  "id": 270,
+  "domain": "p3_imaging_and_dxi",
+  "front": "A central lucent lesion in the proximal humerus of a child with a fallen fragment sign. Diagnosis?",
+  "back": "Simple (unicameral) bone cyst. It does not expand beyond the width of the physis. An aneurysmal bone cyst is eccentric and expansile with fluid levels."
+ },
+ {
+  "id": 271,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What differs between osteoid osteoma and osteoblastoma?",
+  "back": "Osteoid osteoma has a nidus under 1.5 cm and night pain relieved by aspirin. Osteoblastoma is larger than 1.5 cm and responds less to aspirin."
+ },
+ {
+  "id": 272,
+  "domain": "p3_imaging_and_dxi",
+  "front": "A hand lesion with ring and arc calcification and a pathologic fracture. What is it, and what are Ollier and Maffucci?",
+  "back": "Enchondroma. Multiple enchondromas are Ollier disease, and with soft tissue hemangiomas are Maffucci syndrome, both with chondrosarcoma risk."
+ },
+ {
+  "id": 273,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Ground glass matrix and shepherd's crook femur. Diagnosis, and which syndrome with polyostotic disease?",
+  "back": "Fibrous dysplasia. Polyostotic disease with skin spots and endocrine problems is McCune Albright syndrome."
+ },
+ {
+  "id": 274,
+  "domain": "p3_imaging_and_dxi",
+  "front": "A 15 year old has pain at the knee with a sunburst reaction and a Codman triangle. Diagnosis?",
+  "back": "Osteosarcoma, in the metaphysis around the knee, with cloudlike bone matrix. It is the most common primary malignancy other than myeloma."
+ },
+ {
+  "id": 275,
+  "domain": "p3_imaging_and_dxi",
+  "front": "A 10 year old has a diaphyseal lesion with permeative pattern, onion skin periosteum and a soft tissue mass. Diagnosis?",
+  "back": "Ewing sarcoma, ages 5 to 15, in long bone diaphysis or flat bones."
+ },
+ {
+  "id": 276,
+  "domain": "p3_imaging_and_dxi",
+  "front": "A 55 year old has a pelvic lesion with ring and arc calcification and endosteal scalloping. Diagnosis?",
+  "back": "Chondrosarcoma, in adults over 40, at the pelvis, proximal femur or shoulder."
+ },
+ {
+  "id": 277,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Which cancers cause lytic spread and which cause blastic spread to bone?",
+  "back": "Lytic: kidney, thyroid, lung, breast. Blastic: prostate in men and sometimes breast. In the spine the pedicle is lost first (winking owl) and the disc is spared."
+ },
+ {
+  "id": 278,
+  "domain": "p3_imaging_and_dxi",
+  "front": "How does the disc help separate infection from tumor in the spine?",
+  "back": "Infection crosses the disc, narrowing it and destroying both endplates. Tumor spares the disc. Tuberculosis spares it until late."
+ },
+ {
+  "id": 279,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Which spinal anomaly shows a wasp waist at the disc level?",
+  "back": "Block vertebra, a failure of segmentation. A hemivertebra is a wedge shaped half vertebra that causes congenital scoliosis."
+ },
+ {
+  "id": 280,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What is the usual level of spina bifida occulta, and what is Bertolotti syndrome?",
+  "back": "L5 or S1, usually incidental. Bertolotti syndrome is back pain with a transitional lumbosacral segment (sacralization), classified by Castellvi."
+ },
+ {
+  "id": 281,
+  "domain": "p3_imaging_and_dxi",
+  "front": "An 8 year old has a small, dense, flattened femoral epiphysis. A 14 year old has a Klein line that misses the epiphysis. Name both.",
+  "back": "Legg Calve Perthes disease (ages 4 to 8, avascular necrosis) and slipped capital femoral epiphysis, the head slipping posteriorly and inferiorly."
+ },
+ {
+  "id": 282,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What are os odontoideum and its risk?",
+  "back": "A separate smooth, corticated ossicle in place of the dens. It risks atlantoaxial instability, unlike an acute fracture."
+ },
+ {
+  "id": 283,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Rigid flatfoot with the anteater sign on lateral foot film. What is it?",
+  "back": "Calcaneonavicular tarsal coalition. Talocalcaneal coalition is the other common type."
+ },
+ {
+  "id": 284,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Which type of Salter Harris fracture is the most common, and which has the worst prognosis?",
+  "back": "Type II (above, through the metaphysis) is most common. Type V (rammed, a crush of the physis) has the worst prognosis and is hardest to see."
+ },
+ {
+  "id": 285,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What are the three odontoid fracture types?",
+  "back": "Type I at the tip, type II through the base (most common, nonunion risk), type III through the body of C2."
+ },
+ {
+  "id": 286,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What does the Jefferson fracture show, and in which view?",
+  "back": "A burst fracture of the C1 ring with lateral displacement of the lateral masses, seen on the open mouth view. A hangman fracture is a bilateral C2 pars fracture."
+ },
+ {
+  "id": 287,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Describe the osteoporosis and osteomalacia film signs.",
+  "back": "Osteoporosis: thin cortex, prominent vertical trabeculae, compression fractures. Osteomalacia: softened bone and Looser lines, symmetric and perpendicular to the cortex."
+ },
+ {
+  "id": 288,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Subperiosteal resorption on the radial side of the middle phalanges plus a salt and pepper skull. Diagnosis?",
+  "back": "Hyperparathyroidism, with brown tumors and loss of lamina dura. Renal osteodystrophy adds the rugger jersey spine."
+ },
+ {
+  "id": 289,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Which blood disease causes H shaped vertebrae, and which causes a hair on end skull?",
+  "back": "Sickle cell anemia gives H shaped (step off) vertebrae, bone infarcts and femoral head necrosis. Thalassemia gives a hair on end skull and rodent facies."
+ },
+ {
+  "id": 290,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Name the avascular necrosis eponyms for lunate, navicular, metatarsal head and capitellum.",
+  "back": "Kienbock (lunate), Kohler (navicular), Freiberg (metatarsal head), Panner (capitellum). MRI is the most sensitive test."
+ },
+ {
+  "id": 291,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What are the three signs of chronic osteomyelitis, and how long does plain film lag?",
+  "back": "Sequestrum (dead bone), involucrum (new bone) and cloaca (drainage tract). Film lags 10 to 14 days, so MRI or bone scan is used earlier."
+ },
+ {
+  "id": 292,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Paget disease: which lab pattern and which film signs?",
+  "back": "High alkaline phosphatase with normal calcium. Signs: cortical thickening, coarse trabeculae, picture frame and ivory vertebra, cotton wool skull. The pelvis is most common."
+ },
+ {
+  "id": 293,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What chest film findings mark pleural effusion, pneumothorax and a Pancoast tumor?",
+  "back": "Effusion blunts the costophrenic angle (about 200 mL). Pneumothorax: pleural line with no markings beyond. Pancoast: apical mass with rib destruction and C8 to T1 root involvement."
+ },
+ {
+  "id": 294,
+  "domain": "p3_imaging_and_dxi",
+  "front": "Which size defines an abdominal aortic aneurysm, and where is it seen on plain film?",
+  "back": "A diameter of 3 cm or more. Curvilinear calcification of the wall is seen on the lateral lumbar film."
+ },
+ {
+  "id": 295,
+  "domain": "p3_imaging_and_dxi",
+  "front": "What percent of kidney stones and gallstones are radiopaque?",
+  "back": "About 90 percent of kidney stones but only 10 to 15 percent of gallstones. Porcelain gallbladder has a calcified wall and cancer risk."
+ },
+ {
+  "id": 296,
+  "domain": "p2_principles_of_chiropractic",
+  "front": "Who founded chiropractic, where, and in what year?",
+  "back": "D.D. Palmer founded it in Davenport, Iowa, in 1895. His son B.J. Palmer built the Palmer School and promoted the profession."
+ },
+ {
+  "id": 297,
+  "domain": "p2_principles_of_chiropractic",
+  "front": "What is the difference between a chiropractic straight and a mixer?",
+  "back": "Straights limit care to adjusting vertebral subluxation. Mixers add therapy modalities, nutrition and other conservative care, and accept medical diagnosis."
+ },
+ {
+  "id": 298,
+  "domain": "p2_principles_of_chiropractic",
+  "front": "A test detects 90 of 100 diseased patients and clears 80 of 100 healthy ones. What are its sensitivity and specificity?",
+  "back": "Sensitivity is 90 percent (true positives among the diseased). Specificity is 80 percent (true negatives among the healthy)."
+ },
+ {
+  "id": 299,
+  "domain": "p2_principles_of_chiropractic",
+  "front": "A very sensitive test comes back negative. What does that help you do, and what is the memory aid?",
+  "back": "It helps rule the condition out. The memory aid is SnNout. For a very specific test that is positive, use SpPin to rule in."
+ },
+ {
+  "id": 300,
+  "domain": "p2_principles_of_chiropractic",
+  "front": "A study reports a relative risk of 1.4 with a 95 percent confidence interval of 0.9 to 2.2. Is it statistically significant?",
+  "back": "No. The interval includes 1.0, which means no association, so the result is not statistically significant."
+ },
+ {
+  "id": 301,
+  "domain": "p2_principles_of_chiropractic",
+  "front": "Which model matches the phrase 'reduced mechanoreceptor input from a dysfunctional joint alters central processing'?",
+  "back": "The dysafferentation (proprioceptive insult) model. It is a change in sensory input, not a pinched nerve."
+ },
+ {
+  "id": 302,
+  "domain": "p2_principles_of_chiropractic",
+  "front": "An inflamed gallbladder causes right scapular pain and muscle tension. Which reflex is this?",
+  "back": "A viscerosomatic reflex, where visceral disease produces somatic findings. The reverse direction, somatovisceral, is a theoretical model with limited evidence."
+ },
+ {
+  "id": 303,
+  "domain": "p2_principles_of_chiropractic",
+  "front": "Which kind of reflex model is best supported by evidence: somatosomatic or somatovisceral?",
+  "back": "Somatosomatic, such as joint irritation causing paraspinal muscle spasm. The somatovisceral model has limited evidence, so the exam treats it as a model, not fact."
+ },
+ {
+  "id": 304,
+  "domain": "p2_principles_of_chiropractic",
+  "front": "A patient has hypermobility at one level and fixation at the next level. Which segment is adjusted?",
+  "back": "The fixated segment. Adjusting the hypermobile level next to it may add instability."
+ },
+ {
+  "id": 305,
+  "domain": "p2_principles_of_chiropractic",
+  "front": "Which law says a nerve supplying a joint also supplies the muscles that move it and the skin over it?",
+  "back": "Hilton's law. Wolff's law is about bone remodeling to load, and Davis's law is about soft tissue remodeling along stress lines."
+ },
+ {
+  "id": 306,
+  "domain": "p2_principles_of_chiropractic",
+  "front": "In which Fryette type do side bending and rotation go to opposite sides in the neutral spine?",
+  "back": "Type I, in the neutral thoracic and lumbar spine. In type II, full flexion or extension, they go to the same side."
+ },
+ {
+  "id": 307,
+  "domain": "p2_principles_of_chiropractic",
+  "front": "What is the usual refractory period after a joint cavitates, and is a pop needed for a good result?",
+  "back": "About 15 to 30 minutes before the same joint can cavitate again. A pop is not required for a good clinical outcome."
+ },
+ {
+  "id": 308,
+  "domain": "p2_chiropractic_practice",
+  "front": "What does OPQRST stand for in a history?",
+  "back": "Onset, provocation and palliation, quality, region and radiation, severity, and timing. It organizes questions about the chief complaint."
+ },
+ {
+  "id": 309,
+  "domain": "p2_chiropractic_practice",
+  "front": "A 52 year old man has night mid back pain, 15 pounds of weight loss and past prostate cancer. What is the next step?",
+  "back": "Imaging and medical coordination. These are red flags for metastatic disease, so manipulation is not the first step."
+ },
+ {
+  "id": 310,
+  "domain": "p2_chiropractic_practice",
+  "front": "Name three abnormal end feels.",
+  "back": "Muscle spasm, springy block and empty end feel. Normal ones are soft tissue approximation, tissue stretch and bony contact."
+ },
+ {
+  "id": 311,
+  "domain": "p2_chiropractic_practice",
+  "front": "What is the paraphysiologic space, and where does an HVLA thrust go?",
+  "back": "It is the small extra movement beyond the elastic barrier that an operator produces. The thrust goes into it. Past it lies the anatomic limit, where the joint is injured."
+ },
+ {
+  "id": 312,
+  "domain": "p2_chiropractic_practice",
+  "front": "Which technique uses a drop table and leg length checks?",
+  "back": "Thompson technique. Gonstead uses a nervoscope, palpation and radiographs, Activator uses a handheld instrument, and Cox is flexion distraction."
+ },
+ {
+  "id": 313,
+  "domain": "p2_chiropractic_practice",
+  "front": "What is the value of traditional pre manipulative cervical tests like the George screen and DeKleyn test?",
+  "back": "They have poor sensitivity, so the history and neurologic exam carry more weight. Sudden severe neck pain or headache needs emergency evaluation."
+ },
+ {
+  "id": 314,
+  "domain": "p2_chiropractic_practice",
+  "front": "Why does the lumbar spine mostly flex and extend, with little rotation?",
+  "back": "The lumbar facets face in a sagittal and slightly oblique plane. Too much rotation in side posture can stress the disc and facets."
+ },
+ {
+  "id": 315,
+  "domain": "p2_chiropractic_practice",
+  "front": "What are nutation and counternutation at the sacroiliac joint?",
+  "back": "Nutation is the sacral base moving forward and down relative to the ilia. Counternutation is the opposite. The SI joint has only a few degrees of motion."
+ },
+ {
+  "id": 316,
+  "domain": "p2_chiropractic_practice",
+  "front": "Name the two rib motion patterns and where each is found.",
+  "back": "Pump handle in the upper ribs and bucket handle in the lower ribs. Rib problems cause sharp pain on deep breathing, twisting or coughing."
+ },
+ {
+  "id": 317,
+  "domain": "p2_chiropractic_practice",
+  "front": "An acutely sprained ankle has a positive anterior drawer. Should you thrust the joint?",
+  "back": "No. For a hypermobile or unstable joint, avoid forceful thrust and use stabilization instead."
+ },
+ {
+  "id": 318,
+  "domain": "p2_chiropractic_practice",
+  "front": "What does each letter of SOAP cover?",
+  "back": "Subjective is what the patient reports, objective is what the doctor measures, assessment is the diagnosis and progress, and plan is treatment, referral and follow up."
+ },
+ {
+  "id": 319,
+  "domain": "p2_chiropractic_practice",
+  "front": "A patient with a mechanical problem shows no meaningful improvement after 2 to 4 weeks. What should you do?",
+  "back": "Reassess and consider referral. Failure to improve is a signal to change the plan, not to keep doing the same care."
+ },
+ {
+  "id": 320,
+  "domain": "p2_chiropractic_practice",
+  "front": "Which structure is at risk in atlantoaxial instability, and how is it checked?",
+  "back": "The transverse ligament holding the dens against the atlas. Use flexion and extension radiographs. About 10 to 20 percent of people with Down syndrome have it."
+ },
+ {
+  "id": 321,
+  "domain": "p2_chiropractic_practice",
+  "front": "Why avoid forceful thrusts in a patient with ankylosing spondylitis?",
+  "back": "The fused spine acts like a long bone and breaks easily, so a forceful thrust can fracture it."
+ },
+ {
+  "id": 322,
+  "domain": "p2_chiropractic_practice",
+  "front": "A patient is on warfarin. Is manipulation absolutely contraindicated?",
+  "back": "No, it is a relative contraindication. Bleeding risk is higher, so use lower force and modify the technique."
+ },
+ {
+  "id": 323,
+  "domain": "p2_chiropractic_practice",
+  "front": "How long and how should ice be applied for an acute injury?",
+  "back": "About 15 to 20 minutes with a barrier over the skin. Heat is for chronic stiffness. Staying active beats prolonged bed rest for low back pain."
+ },
+ {
+  "id": 324,
+  "domain": "p2_chiropractic_practice",
+  "front": "What are the five A's of tobacco counseling?",
+  "back": "Ask, advise, assess, assist and arrange. Tobacco is the leading preventable cause of death in the United States."
+ },
+ {
+  "id": 325,
+  "domain": "p2_chiropractic_practice",
+  "front": "How are overweight and obesity defined by BMI?",
+  "back": "Overweight is 25 to 29.9 and obesity is 30 or more. Normal is 18.5 to 24.9."
+ },
+ {
+  "id": 326,
+  "domain": "p2_chiropractic_practice",
+  "front": "A workplace noise injury first shows hearing loss near which frequency?",
+  "back": "Near 4,000 Hz. This is noise induced hearing loss, a classic physical hazard in occupational health."
+ },
+ {
+  "id": 327,
+  "domain": "p2_chiropractic_practice",
+  "front": "List the hierarchy of controls from most to least effective.",
+  "back": "Elimination, substitution, engineering controls, administrative controls, then personal protective equipment."
+ },
+ {
+  "id": 328,
+  "domain": "p2_chiropractic_practice",
+  "front": "What is the NIOSH lifting equation's maximum load constant under ideal conditions?",
+  "back": "51 pounds, or 23 kg. The equation gives a recommended weight limit for a given task."
+ },
+ {
+  "id": 329,
+  "domain": "p2_chiropractic_practice",
+  "front": "Which environmental hazard is the second leading cause of lung cancer after smoking?",
+  "back": "Radon. Carbon monoxide, often from a faulty heater, causes headache, nausea and confusion."
+ },
+ {
+  "id": 330,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "What is the difference between delirium and dementia?",
+  "back": "Delirium is acute, fluctuating confusion with inattention and is usually reversible. Dementia is chronic and progressive."
+ },
+ {
+  "id": 331,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "Which dementia features visual hallucinations and fluctuating cognition?",
+  "back": "Lewy body dementia. Alzheimer disease starts with memory loss, and vascular dementia shows a stepwise decline."
+ },
+ {
+  "id": 332,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "What drop in blood pressure on standing defines orthostatic hypotension?",
+  "back": "A drop of 20 mmHg systolic or 10 mmHg diastolic. It is common in older adults because the baroreceptor reflex weakens."
+ },
+ {
+  "id": 333,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "A scaly plaque rash has silvery scale, nail pitting and pinpoint bleeding when scale is removed. What is it?",
+  "back": "Psoriasis. The pinpoint bleeding is the Auspitz sign, and it is linked to psoriatic arthritis."
+ },
+ {
+  "id": 334,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "Which blistering disease has a positive Nikolsky sign and fragile intraepidermal blisters?",
+  "back": "Pemphigus vulgaris. Bullous pemphigoid has tense subepidermal blisters, mostly in the elderly."
+ },
+ {
+  "id": 335,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "What does the ABCDE rule for melanoma stand for?",
+  "back": "Asymmetry, border irregularity, color variation, diameter over 6 mm, and evolving. Any changing pigmented lesion is referred urgently."
+ },
+ {
+  "id": 336,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "A pearly papule with rolled borders is the most common skin cancer. Which one, and does it spread?",
+  "back": "Basal cell carcinoma. It rarely spreads. Squamous cell carcinoma is scaly and crusted and can metastasize."
+ },
+ {
+  "id": 337,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "A painless genital ulcer appears, then weeks later a rash on the palms and soles. What is the diagnosis?",
+  "back": "Syphilis, from Treponema pallidum. The painless chancre is primary and the palm and sole rash is secondary."
+ },
+ {
+  "id": 338,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "Which STD is the most commonly reported bacterial one, and is it usually symptomatic?",
+  "back": "Chlamydia trachomatis. It is often silent and can cause pelvic inflammatory disease and reactive arthritis."
+ },
+ {
+  "id": 339,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "At what CD4 count is AIDS diagnosed?",
+  "back": "Below 200 cells per microliter, or when an opportunistic infection such as Pneumocystis pneumonia appears."
+ },
+ {
+  "id": 340,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "What are the antidotes for acetaminophen, opioid and warfarin overdose?",
+  "back": "N acetylcysteine for acetaminophen, naloxone for opioids, and vitamin K for warfarin. Heparin is reversed by protamine."
+ },
+ {
+  "id": 341,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "A farmer has salivation, tearing, urination, defecation and small pupils. What poison and treatment?",
+  "back": "Organophosphate insecticide poisoning. Treat with atropine and pralidoxime."
+ },
+ {
+  "id": 342,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "What is the adult CPR compression depth, rate and ratio for one rescuer?",
+  "back": "At least 2 inches deep, 100 to 120 per minute, with a ratio of 30 compressions to 2 breaths."
+ },
+ {
+  "id": 343,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "How is choking in an infant treated?",
+  "back": "Give 5 back blows and 5 chest thrusts. Never use abdominal thrusts or blind finger sweeps in an infant."
+ },
+ {
+  "id": 344,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "Which type of shock has low blood pressure with a slow pulse?",
+  "back": "Neurogenic shock, from spinal cord injury. Other shock types usually have a rapid pulse."
+ },
+ {
+  "id": 345,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "What is the Cushing triad?",
+  "back": "Hypertension, bradycardia and irregular breathing. It signals rising intracranial pressure."
+ },
+ {
+  "id": 346,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "A pregnant patient has painless bright red bleeding. Which condition is likely?",
+  "back": "Placenta previa. Placental abruption instead causes painful bleeding with a rigid uterus."
+ },
+ {
+  "id": 347,
+  "domain": "p2_associated_clinical_sciences",
+  "front": "A 3 year old has fever, drooling, a muffled voice and leans forward. What is it and what must you avoid?",
+  "back": "Epiglottitis. Do not examine the throat or lay the child flat. Call emergency services at once."
+ },
+ {
+  "id": 348,
+  "domain": "p3_case_management",
+  "front": "What are the four possible dispositions for a patient?",
+  "back": "Treat in the office, comanage, refer, or emergency referral. Pick the bucket first, then the specific answer."
+ },
+ {
+  "id": 349,
+  "domain": "p3_case_management",
+  "front": "What makes a treatment goal measurable?",
+  "back": "It states a number and a time, such as neck pain from 7 out of 10 to 3 out of 10 in six weeks. Vague goals like 'reduce pain' cannot be checked."
+ },
+ {
+  "id": 350,
+  "domain": "p3_case_management",
+  "front": "What is the difference between diagnosis and prognosis?",
+  "back": "Diagnosis names the present condition. Prognosis predicts its course and outcome, such as good, fair or guarded."
+ },
+ {
+  "id": 351,
+  "domain": "p3_case_management",
+  "front": "Name factors that worsen prognosis.",
+  "back": "Older age, many prior episodes, long duration, severe initial findings, degenerative change, obesity, smoking, diabetes or psychosocial barriers. Any of these lowers the expected recovery."
+ },
+ {
+  "id": 352,
+  "domain": "p3_case_management",
+  "front": "A 28 year old has 3 days of mechanical low back pain after lifting and no red flags. Prognosis?",
+  "back": "Good. Young age, recent onset and a clear mechanical cause all improve prognosis."
+ },
+ {
+  "id": 353,
+  "domain": "p3_case_management",
+  "front": "A patient has low back pain, new leg weakness, urinary retention and saddle numbness. What is the disposition?",
+  "back": "Emergency referral for suspected cauda equina syndrome. Send to the emergency department now and do not treat first."
+ },
+ {
+  "id": 354,
+  "domain": "p3_case_management",
+  "front": "What is the difference between urgent and emergency referral?",
+  "back": "Urgent means prompt evaluation within days for a serious but stable problem. Emergency means the emergency department now."
+ },
+ {
+  "id": 355,
+  "domain": "p3_case_management",
+  "front": "A 62 year old on warfarin has mechanical mid back pain. What is the disposition?",
+  "back": "Comanage. Use modified gentle care, avoid high velocity thrust in the region, and talk with the prescriber, who alone changes the drug."
+ },
+ {
+  "id": 356,
+  "domain": "p3_case_management",
+  "front": "What is the difference between comanagement and referral?",
+  "back": "In comanagement you keep treating while another provider treats a related or separate problem. In referral you stop treating a condition outside your scope."
+ },
+ {
+  "id": 357,
+  "domain": "p3_case_management",
+  "front": "Does a red flag establish a diagnosis?",
+  "back": "No. It raises suspicion and calls for further evaluation, such as imaging, labs or referral, with urgency set by how dangerous the suspected condition is."
+ },
+ {
+  "id": 358,
+  "domain": "p3_case_management",
+  "front": "A 58 year old has constant night back pain, weight loss and past cancer. What do you do?",
+  "back": "Hold manipulation, order imaging and labs or refer to a physician, and decide on treatment after results. Several red flags point to malignancy."
+ },
+ {
+  "id": 359,
+  "domain": "p3_case_management",
+  "front": "A patient plateaus below the goal. What should the next step be?",
+  "back": "Change the approach, reexamine for missed findings, consider imaging or testing, or involve another provider."
+ },
+ {
+  "id": 360,
+  "domain": "p3_case_management",
+  "front": "List the required elements of informed consent.",
+  "back": "Capacity, disclosure of diagnosis, treatment, benefits, material risks and alternatives including no treatment, chance to ask questions, and voluntary agreement."
+ },
+ {
+  "id": 361,
+  "domain": "p3_case_management",
+  "front": "Which disclosure standard asks what a typical patient would want to know?",
+  "back": "The reasonable patient standard. The reasonable practitioner standard asks what a typical practitioner would disclose. The patient standard is more protective."
+ },
+ {
+  "id": 362,
+  "domain": "p3_case_management",
+  "front": "Does a signed consent form alone equal informed consent?",
+  "back": "No. The form documents a conversation that must actually occur. Refresh consent when the plan changes meaningfully."
+ },
+ {
+  "id": 363,
+  "domain": "p3_case_management",
+  "front": "For a minor, what are consent and assent?",
+  "back": "A parent or guardian gives consent. The child's assent, agreement to the degree they understand, is sought as well but never replaces consent."
+ },
+ {
+  "id": 364,
+  "domain": "p3_case_management",
+  "front": "How do you correct an error in a patient record?",
+  "back": "Add a dated addendum. Never erase or alter the original entry, because altering records is a serious violation."
+ },
+ {
+  "id": 365,
+  "domain": "p3_case_management",
+  "front": "Where do measured range of motion and a pertinent negative belong in a SOAP note?",
+  "back": "Measured range of motion goes in Objective. A pertinent negative the patient reports, like denies bowel or bladder changes, goes in Subjective. A negative you test for, like normal saddle sensation, goes in Objective. Diagnosis goes in Assessment."
+ },
+ {
+  "id": 366,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "What is the correct order of a basic clinical encounter?",
+  "back": "Greet, take history, examine, order imaging or labs if needed, form a clinical impression, then explain findings and plan. History comes first because it decides which exam procedures to choose."
+ },
+ {
+  "id": 367,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "A patient says 'I have a herniated disc.' What is the chief complaint?",
+  "back": "The symptom that brought the patient in, such as back pain for two weeks. The herniated disc claim is recorded separately as a diagnosis the patient reports, not as the chief complaint."
+ },
+ {
+  "id": 368,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "Why is 'It hurts more when you bend, right?' poor history technique?",
+  "back": "It is a leading question. It suggests the answer and biases the reply. Start with open questions like 'Tell me about your pain,' then use focused closed questions to fill gaps."
+ },
+ {
+  "id": 369,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "Morning stiffness lasts over an hour in a young man with back pain. What does this suggest?",
+  "back": "Inflammatory disease such as ankylosing spondylitis or rheumatoid arthritis. Stiffness under 30 minutes fits osteoarthritis instead."
+ },
+ {
+  "id": 370,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "A patient with back pain feels better leaning forward on a shopping cart. What condition fits?",
+  "back": "Lumbar spinal stenosis. Bending forward opens the canal. Pain that gets worse with cough or Valsalva points more toward disc herniation."
+ },
+ {
+  "id": 371,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "Name the red flag: back pain at night that does not ease with any position.",
+  "back": "Night pain unrelieved by position is a red flag for tumor or infection. Mechanical pain usually eases with rest or a change of posture."
+ },
+ {
+  "id": 372,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "A 70 year old man with prostate cancer history has new night back pain and lost 15 pounds in four months. Next step?",
+  "back": "Imaging and lab work, and coordinate with his oncologist. Cancer history, weight loss and night pain together raise strong concern for bone metastasis, so do not just treat."
+ },
+ {
+  "id": 373,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "Which primary cancers most often spread to bone?",
+  "back": "Breast, lung, prostate, kidney and thyroid. A history of any of these with new back pain is a red flag for metastasis."
+ },
+ {
+  "id": 374,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "Back pain plus saddle numbness, urinary retention and weak legs on both sides. What is it and what do you do?",
+  "back": "Cauda equina syndrome, a surgical emergency. Refer immediately. Do not manipulate. Look for reduced anal sphincter tone and lost perianal sensation."
+ },
+ {
+  "id": 375,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "What do the CAGE questions screen for?",
+  "back": "Alcohol problems. Cut down, Annoyed, Guilty, Eye opener. Two or more positive answers suggest a problem."
+ },
+ {
+  "id": 376,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "How much unexplained weight loss counts as a standard red flag?",
+  "back": "More than about 10 pounds over six months. It points toward cancer, infection or a systemic disease."
+ },
+ {
+  "id": 377,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "Why can a blood pressure cuff that is too small mislead you?",
+  "back": "It gives a falsely high reading. The cuff should cover about 80 percent of the arm circumference, with the patient seated, rested, and the arm at heart level."
+ },
+ {
+  "id": 378,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "What blood pressure difference between the two arms is abnormal, and what might cause it?",
+  "back": "More than 10 to 15 mmHg. Think subclavian stenosis, aortic dissection or thoracic outlet compression. Take pressure in both arms at the first visit."
+ },
+ {
+  "id": 379,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "What counts as orthostatic hypotension?",
+  "back": "A drop of 20 mmHg systolic or 10 mmHg diastolic within three minutes of standing. Common causes are dehydration, certain drugs and autonomic problems."
+ },
+ {
+  "id": 380,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "Which stage of hypertension is 130 to 139 over 80 to 89?",
+  "back": "Stage 1 hypertension. Normal is under 120/80, elevated is 120 to 129 with diastolic under 80, and stage 2 is 140/90 or higher."
+ },
+ {
+  "id": 381,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "A hard, fixed, nontender lymph node sits above the left collarbone. What is it called and what does it suggest?",
+  "back": "Virchow node. It suggests abdominal cancer. Soft, tender, mobile nodes suggest infection instead."
+ },
+ {
+  "id": 382,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "A 62 year old woman has gradual mid back pain unaffected by movement, nausea after fatty meals, and arrested breathing on pressure under the right rib margin. What next?",
+  "back": "Murphy sign points to gallbladder disease. Refer her. Spinal manipulation is not the answer for referred visceral pain."
+ },
+ {
+  "id": 383,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "In what order is the abdomen examined and why?",
+  "back": "Inspect, auscultate, percuss, then palpate. Listening comes before touch because palpation can change bowel sounds. Examine painful areas last."
+ },
+ {
+  "id": 384,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "Cullen sign and Grey Turner sign suggest what?",
+  "back": "Hemorrhagic pancreatitis or retroperitoneal bleeding. Cullen is bluish color around the navel. Grey Turner is discoloration of the flank."
+ },
+ {
+  "id": 385,
+  "domain": "p3_case_history_and_physical_exam",
+  "front": "Compare lung findings: pleural effusion versus pneumothorax.",
+  "back": "Effusion gives dull percussion with decreased fremitus and breath sounds. Pneumothorax gives hyperresonant percussion with decreased fremitus and breath sounds."
+ },
+ {
+  "id": 386,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "What does high sensitivity let you do when a test is negative?",
+  "back": "Rule the condition out. High specificity lets you rule the condition in when the test is positive. A cluster of findings is more reliable than one sign."
+ },
+ {
+  "id": 387,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "Describe the plumb line in a lateral posture view.",
+  "back": "It passes through the ear canal, middle of the shoulder, greater trochanter, slightly in front of the knee center, and slightly in front of the lateral malleolus."
+ },
+ {
+  "id": 388,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "In upper crossed syndrome, which muscles are tight and which are weak, as taught for the exam?",
+  "back": "Tight: upper trapezius, levator scapulae and pectorals. Weak: deep neck flexors and lower trapezius. It shows as forward head and rounded shoulders."
+ },
+ {
+  "id": 389,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "Lower crossed syndrome causes which pelvic and spinal posture?",
+  "back": "Anterior pelvic tilt with increased lumbar lordosis. Hip flexors and erector spinae are tight, while abdominals and gluteals are weak."
+ },
+ {
+  "id": 390,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "How do you tell a structural scoliosis from a functional curve on the Adams test?",
+  "back": "A structural curve shows a rib hump on the convex side when bending forward. A functional curve straightens. Cobb angle above about 10 degrees defines scoliosis."
+ },
+ {
+  "id": 391,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "How do you measure true leg length versus apparent leg length?",
+  "back": "True: ASIS to medial malleolus. Apparent: umbilicus to medial malleolus, which suggests pelvic obliquity or contracture. A difference under 1 cm is common."
+ },
+ {
+  "id": 392,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "A patient's pelvis drops on the swing side. Which gait and which weak muscle?",
+  "back": "Trendelenburg gait from weak gluteus medius on the stance side, often from superior gluteal nerve injury (L4 to S1). The trunk may lurch toward the weak side."
+ },
+ {
+  "id": 393,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "A patient lifts the knee high to clear the foot. Name the gait and nerve.",
+  "back": "Steppage gait from foot drop. Think deep peroneal nerve or L4 and L5 involvement."
+ },
+ {
+  "id": 394,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "Which gait is wide based and worsens with eyes closed?",
+  "back": "Sensory ataxic gait, which is the basis of the Romberg test. Cerebellar ataxia is also wide based, but swaying is not much worse with eyes closed."
+ },
+ {
+  "id": 395,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "Spurling's test reproduces arm pain. What does it indicate?",
+  "back": "Cervical radiculopathy. The neck is extended and side bent toward the symptomatic side with downward pressure. Cervical distraction should relieve it if a root is compressed."
+ },
+ {
+  "id": 396,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "Which test is done by watching the radial pulse while the neck is extended and rotated and the patient inhales deeply?",
+  "back": "Adson's test. A reduced pulse suggests scalene compression in thoracic outlet syndrome. Roos test uses three minutes of hand opening and closing in surrender position."
+ },
+ {
+  "id": 397,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "Straight leg raise causes leg pain below the knee at 45 degrees. Is it positive and what does it suggest?",
+  "back": "Yes. Pain below the knee between about 30 and 70 degrees suggests disc herniation with L5 or S1 root irritation. Back or hamstring pain alone is not a positive test."
+ },
+ {
+  "id": 398,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "Which test is highly specific for disc herniation: pain on the symptomatic side when the opposite leg is raised?",
+  "back": "The well leg raise (Fajersztajn or crossed straight leg raise). It usually indicates a medial herniation."
+ },
+ {
+  "id": 399,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "Which nerve roots does the femoral nerve stretch test assess?",
+  "back": "L2 to L4. Anterior thigh pain during the prone knee bend is positive."
+ },
+ {
+  "id": 400,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "What is the Laslett cluster?",
+  "back": "At least three positive sacroiliac provocation tests out of five: distraction, thigh thrust, Gaenslen, compression and sacral thrust. It raises the likelihood of sacroiliac joint pain."
+ },
+ {
+  "id": 401,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "Which test checks for a torn Achilles tendon?",
+  "back": "Thompson's test. Squeezing the calf fails to produce plantar flexion when the tendon is ruptured."
+ },
+ {
+  "id": 402,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "Compare Apley's compression and distraction tests.",
+  "back": "Compression hurting suggests a meniscus lesion. Distraction hurting suggests a ligament lesion."
+ },
+ {
+  "id": 403,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "A patient has a down and out eye, ptosis and a dilated pupil. Which cranial nerve?",
+  "back": "Oculomotor, CN III. CN IV supplies the superior oblique and CN VI the lateral rectus. Horner syndrome (ptosis, miosis, anhidrosis) is sympathetic instead."
+ },
+ {
+  "id": 404,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "Half of a patient's face is paralyzed including the forehead. Peripheral or central lesion?",
+  "back": "Peripheral, such as Bell's palsy. A central upper motor neuron lesion spares the forehead because of bilateral cortical input."
+ },
+ {
+  "id": 405,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "Weber lateralizes to the affected ear and bone conduction beats air on Rinne. What type of hearing loss?",
+  "back": "Conductive loss. In sensorineural loss, air still beats bone but both are reduced, and Weber lateralizes to the normal ear."
+ },
+ {
+  "id": 406,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "List the key myotomes from C5 to S1.",
+  "back": "C5 shoulder abduction, C6 elbow flexion and wrist extension, C7 elbow extension and wrist flexion, C8 finger flexion, T1 finger abduction, L2 hip flexion, L3 knee extension, L4 dorsiflexion, L5 great toe extension, S1 plantar flexion."
+ },
+ {
+  "id": 407,
+  "domain": "p3_neuromusculoskeletal_exam",
+  "front": "Which test uses an ankle systolic over brachial systolic pressure and what value means arterial disease?",
+  "back": "The ankle brachial index. Below 0.9 indicates peripheral arterial disease. Above 1.4 suggests calcified, noncompressible vessels."
+ },
+ {
+  "id": 408,
+  "domain": "p3_laboratory_and_special_studies",
+  "front": "What does a laboratory reference range actually represent?",
+  "back": "The values found in about 95 percent of healthy people. So about 1 in 20 healthy people falls outside it on any one test. Always read the range printed on the report."
+ },
+ {
+  "id": 409,
+  "domain": "p3_laboratory_and_special_studies",
+  "front": "A urine dipstick is positive for blood but the sediment shows no red cells. What might it be?",
+  "back": "Hemoglobin or myoglobin, as in rhabdomyolysis. Red cells in the sediment would confirm true hematuria."
+ },
+ {
+  "id": 410,
+  "domain": "p3_laboratory_and_special_studies",
+  "front": "Why does a negative nitrite not rule out a urinary infection?",
+  "back": "Some organisms, such as Enterococcus, do not convert nitrate to nitrite. Positive nitrite suggests gram negative bacteria like E. coli."
+ },
+ {
+  "id": 411,
+  "domain": "p3_laboratory_and_special_studies",
+  "front": "Which urinary cast points to glomerulonephritis, and which to pyelonephritis?",
+  "back": "Red cell casts mean glomerulonephritis. White cell casts mean pyelonephritis. Casts form in the tubules, so they place the problem in the kidney."
+ },
+ {
+  "id": 412,
+  "domain": "p3_laboratory_and_special_studies",
+  "front": "Alkaline urine is linked to which bacteria and stones?",
+  "back": "Urea splitting bacteria such as Proteus, and struvite stones. Acidic urine goes with uric acid stones and ketoacidosis."
+ },
+ {
+  "id": 413,
+  "domain": "p3_laboratory_and_special_studies",
+  "front": "Numb feet, a smooth red tongue and high MCV. Which diagnosis?",
+  "back": "Vitamin B12 deficiency, a macrocytic anemia. It can cause subacute combined degeneration of the spinal cord. Iron deficiency is microcytic."
+ },
+ {
+  "id": 414,
+  "domain": "p3_laboratory_and_special_studies",
+  "front": "A shift to the left on a white cell count means what?",
+  "back": "More immature neutrophils called bands, a sign of acute bacterial infection. Neutrophils normally make up about 55 to 70 percent of white cells."
+ },
+ {
+  "id": 415,
+  "domain": "p3_laboratory_and_special_studies",
+  "front": "What INR target applies to a patient on warfarin?",
+  "back": "Usually 2.0 to 3.0. Higher values raise bleeding risk, which matters before manipulation. Platelets under about 50,000 are also a caution."
+ },
+ {
+  "id": 416,
+  "domain": "p3_laboratory_and_special_studies",
+  "front": "Which marker is a sensitive screen for lupus and which tests are more specific?",
+  "back": "ANA is sensitive, over 95 percent positive, but not specific. Anti double stranded DNA and anti Smith are far more specific for lupus."
+ },
+ {
+  "id": 417,
+  "domain": "p3_laboratory_and_special_studies",
+  "front": "Which antibody is more specific than rheumatoid factor for rheumatoid arthritis?",
+  "back": "Anti CCP. It may appear before erosions develop. Rheumatoid factor also shows up in lupus, Sjogren syndrome and some healthy older adults."
+ },
+ {
+  "id": 418,
+  "domain": "p3_laboratory_and_special_studies",
+  "front": "A patient has deep bone pain, ESR of 90, anemia, high calcium and punched out lytic spine lesions. Diagnosis and ALP?",
+  "back": "Multiple myeloma. Alkaline phosphatase is often normal because the lesions are purely lytic. Confirm with protein electrophoresis. Manipulation is contraindicated."
+ },
+ {
+  "id": 419,
+  "domain": "p3_laboratory_and_special_studies",
+  "front": "Compare crystals in gout and pseudogout under polarized light.",
+  "back": "Gout: needle shaped monosodium urate, negatively birefringent. Pseudogout: rhomboid calcium pyrophosphate, weakly positively birefringent, often in the knee with chondrocalcinosis."
+ },
+ {
+  "id": 420,
+  "domain": "p3_laboratory_and_special_studies",
+  "front": "A joint fluid white count is above 50,000 with low glucose and positive Gram stain. Which category?",
+  "back": "Septic arthritis. It can destroy a joint within days, so urgent referral is needed. Inflammatory fluid is about 2,000 to 50,000."
+ },
+ {
+  "id": 421,
+  "domain": "p3_laboratory_and_special_studies",
+  "front": "An ECG shows 3 mm ST elevation in leads II, III and aVF. What is the diagnosis and the action?",
+  "back": "Inferior myocardial infarction (ST elevation in II, III and aVF). Call for emergency transport and do not adjust."
+ },
+ {
+  "id": 422,
+  "domain": "p3_diagnosis_or_clinical_impression",
+  "front": "What do the five parts of acute angle closure glaucoma look like?",
+  "back": "Painful red eye, blurred vision with halos, mid dilated nonreactive pupil, hard globe, and nausea or vomiting. It is an emergency."
+ },
+ {
+  "id": 423,
+  "domain": "p3_diagnosis_or_clinical_impression",
+  "front": "A cherry red spot at the macula with a pale retina suggests what?",
+  "back": "Central retinal artery occlusion, a stroke of the eye. Painless sudden vision loss in one eye is a vascular emergency."
+ },
+ {
+  "id": 424,
+  "domain": "p3_diagnosis_or_clinical_impression",
+  "front": "A patient over 50 has new headache, scalp tenderness, jaw claudication and very high ESR. Diagnosis and risk?",
+  "back": "Giant cell arteritis. Untreated, it can cause blindness, so urgent medical referral is needed."
+ },
+ {
+  "id": 425,
+  "domain": "p3_diagnosis_or_clinical_impression",
+  "front": "A smoker has shoulder and arm pain, Horner syndrome and hand weakness. What tumor?",
+  "back": "Pancoast tumor at the lung apex. It is easily mistaken for a cervical or shoulder problem."
+ },
+ {
+  "id": 426,
+  "domain": "p3_diagnosis_or_clinical_impression",
+  "front": "How do you tell tension pneumothorax from simple pneumothorax?",
+  "back": "Tension adds tracheal deviation away from the affected side, falling blood pressure and distended neck veins. It needs immediate treatment."
+ },
+ {
+  "id": 427,
+  "domain": "p3_diagnosis_or_clinical_impression",
+  "front": "Chest pain is sharp, worse lying flat, better leaning forward, with a friction rub. Diagnosis?",
+  "back": "Pericarditis. Aortic dissection instead gives sudden tearing pain to the back with unequal arm blood pressures."
+ },
+ {
+  "id": 428,
+  "domain": "p3_diagnosis_or_clinical_impression",
+  "front": "Aortic stenosis murmur: describe its timing, site and radiation.",
+  "back": "Systolic crescendo decrescendo at the right upper sternal border radiating to the carotids, with syncope, angina and dyspnea."
+ },
+ {
+  "id": 429,
+  "domain": "p3_diagnosis_or_clinical_impression",
+  "front": "At what abdominal aortic aneurysm diameter is repair usually considered?",
+  "back": "5.5 cm or more. A pulsatile mass with sudden back or abdominal pain is a rupture until proven otherwise."
+ },
+ {
+  "id": 430,
+  "domain": "p3_diagnosis_or_clinical_impression",
+  "front": "Severe epigastric pain radiating to the back, relieved by leaning forward, with high amylase and lipase. Diagnosis?",
+  "back": "Pancreatitis. Common causes are alcohol and gallstones. Pain worse with eating suggests gastric ulcer, while food relieves a duodenal ulcer."
+ },
+ {
+  "id": 431,
+  "domain": "p3_diagnosis_or_clinical_impression",
+  "front": "Sudden severe scrotal pain, high riding testis, absent cremasteric reflex. Diagnosis and urgency?",
+  "back": "Testicular torsion, a surgical emergency within hours. Epididymitis builds gradually and may improve when the testis is lifted."
+ },
+ {
+  "id": 432,
+  "domain": "p3_diagnosis_or_clinical_impression",
+  "front": "A young woman has a missed period, pelvic pain and one sided tenderness. What must be considered early?",
+  "back": "Ectopic pregnancy, a surgical emergency. Consider pregnancy early in any woman of childbearing age with pelvic pain."
+ },
+ {
+  "id": 433,
+  "domain": "p3_diagnosis_or_clinical_impression",
+  "front": "What does Courvoisier sign suggest?",
+  "back": "Jaundice with a painless, palpable gallbladder suggests cancer of the pancreatic head."
+ },
+ {
+  "id": 434,
+  "domain": "p3_diagnosis_or_clinical_impression",
+  "front": "A diabetic patient has a stocking pattern of sensory loss. What is the cause?",
+  "back": "Diabetic neuropathy. Fasting glucose of 126 or higher, or A1c of 6.5 or higher, is diagnostic of diabetes."
+ },
+ {
+  "id": 435,
+  "domain": "p3_diagnosis_or_clinical_impression",
+  "front": "A 45 year old has low back pain to the lateral calf and top of the foot, weak great toe extension, normal reflexes. Which root and likely disc?",
+  "back": "L5 radiculopathy, probably from an L4 to L5 herniation. Lost ankle reflex with weak plantar flexion would instead point to S1."
+ },
+ {
+  "id": 436,
+  "domain": "p3_chiropractic_techniques",
+  "front": "Name the six setup elements graded at the Part IV Technique Station.",
+  "back": "Patient position, doctor position, segmental contact point, doctor's contact point, stabilization hand, and line of drive. You must show and say each one aloud so the grader can give credit."
+ },
+ {
+  "id": 437,
+  "domain": "p3_chiropractic_techniques",
+  "front": "What is a high velocity, low amplitude (HVLA) thrust?",
+  "back": "A fast, shallow, short lever thrust given at the end of the joint's passive range, often after a pre load takes out the slack."
+ },
+ {
+  "id": 438,
+  "domain": "p3_chiropractic_techniques",
+  "front": "What is the segmental contact point, and how is it different from the doctor's contact point?",
+  "back": "The segmental contact is the bony part of the patient you touch, like a mammillary process. The doctor's contact is the part of your own hand that touches, like the pisiform."
+ },
+ {
+  "id": 439,
+  "domain": "p3_chiropractic_techniques",
+  "front": "A patient has a sudden severe headache and neck pain after a minor bump. Adjust or refer?",
+  "back": "Refer. This could be cervical artery dissection. The history carries the most weight, and rotation tests alone are unreliable as a screen."
+ },
+ {
+  "id": 440,
+  "domain": "p3_chiropractic_techniques",
+  "front": "Which condition is a surgical emergency and an absolute contraindication to adjusting the region: cauda equina syndrome or osteoporosis?",
+  "back": "Cauda equina syndrome (saddle anesthesia, bladder or bowel loss, both legs weak). Osteoporosis is only relative, so you use low force or non thrust methods."
+ },
+ {
+  "id": 441,
+  "domain": "p3_chiropractic_techniques",
+  "front": "Give four absolute contraindications to HVLA at the involved region.",
+  "back": "Fracture, malignancy of the spine, spinal infection, unstable ligament injury or instability, cauda equina syndrome, progressive neurologic deficit, or suspected vascular injury. Any four of these are right."
+ },
+ {
+  "id": 442,
+  "domain": "p3_chiropractic_techniques",
+  "front": "Is anticoagulation therapy an absolute or relative contraindication to adjusting?",
+  "back": "Relative. You may change the technique or force, or defer, while the condition is managed. Others in this group are osteoporosis, hypermobility and active inflammatory arthritis."
+ },
+ {
+  "id": 443,
+  "domain": "p3_chiropractic_techniques",
+  "front": "In the cervical spine below C2, lateral flexion and rotation go to which sides relative to each other?",
+  "back": "The same side (ipsilateral coupling), because of the way the facets are angled."
+ },
+ {
+  "id": 444,
+  "domain": "p3_chiropractic_techniques",
+  "front": "In the lumbar spine in neutral, how do rotation and lateral flexion couple (Fryette type I)?",
+  "back": "Rotation goes to the opposite side of the lateral flexion. In flexion or extension (type II), they go to the same side."
+ },
+ {
+  "id": 445,
+  "domain": "p3_chiropractic_techniques",
+  "front": "Which cervical joint gives about half of neck rotation?",
+  "back": "The atlantoaxial joint (C1 to C2), turning through the odontoid. The atlanto occipital joint mostly does nodding, flexion and extension."
+ },
+ {
+  "id": 446,
+  "domain": "p3_chiropractic_techniques",
+  "front": "What is the order of barriers when a joint is moved past active range?",
+  "back": "Physiological barrier, then the elastic barrier, then the paraphysiological space, then the anatomical limit. An adjustment goes into the paraphysiological space but never past the anatomical limit."
+ },
+ {
+  "id": 447,
+  "domain": "p3_chiropractic_techniques",
+  "front": "Is an audible pop needed for a successful adjustment?",
+  "back": "No. The pop (cavitation) is gas bubble formation in synovial fluid. Success depends on restoring joint motion, not on the sound."
+ },
+ {
+  "id": 448,
+  "domain": "p3_chiropractic_techniques",
+  "front": "What segmental contact is used to adjust the atlas (C1)?",
+  "back": "The transverse process, found just below the mastoid and behind the ramus of the mandible. The atlas has no body or spinous process."
+ },
+ {
+  "id": 449,
+  "domain": "p3_chiropractic_techniques",
+  "front": "What is the segmental contact for the axis (C2)?",
+  "back": "The large bifid spinous process or the lamina."
+ },
+ {
+  "id": 450,
+  "domain": "p3_chiropractic_techniques",
+  "front": "In a supine cervical rotational adjustment of C3 to C7, what is the segmental contact?",
+  "back": "The articular pillar of the restricted segment. The doctor stands at the head of the table and uses a small, quick thrust along the facet plane."
+ },
+ {
+  "id": 451,
+  "domain": "p3_chiropractic_techniques",
+  "front": "At what point in breathing is a prone thoracic thrust usually given?",
+  "back": "At the end of exhalation. The patient breathes out and you thrust at the end, with a posterior to anterior line of drive."
+ },
+ {
+  "id": 452,
+  "domain": "p3_chiropractic_techniques",
+  "front": "Which ribs are typical, and which are atypical?",
+  "back": "Typical ribs are 3 to 9. Atypical ribs are 1, 2, 10, 11 and 12. Ribs 1 to 7 are true, 8 to 10 false, and 11 and 12 floating."
+ },
+ {
+  "id": 453,
+  "domain": "p3_chiropractic_techniques",
+  "front": "A rib is restricted in inhalation. Is it described as elevated or depressed?",
+  "back": "Depressed. An elevated rib is restricted in exhalation."
+ },
+ {
+  "id": 454,
+  "domain": "p3_chiropractic_techniques",
+  "front": "Describe the side posture lumbar roll: segmental contact and line of drive.",
+  "back": "Contact the mammillary process (or spinous process) with the pisiform or index web. The line of drive is posterior to anterior and slightly inferior to superior, with rotation through the segment."
+ },
+ {
+  "id": 455,
+  "domain": "p3_chiropractic_techniques",
+  "front": "Is flexion distraction a thrust technique? When is it a good choice?",
+  "back": "No, it is a gentle non thrust option. It is useful for disc involvement and spinal stenosis, or when thrust is relatively contraindicated."
+ },
+ {
+  "id": 456,
+  "domain": "p3_chiropractic_techniques",
+  "front": "For a posterior ilium (PI) in side posture, what is the segmental contact and line of drive?",
+  "back": "Contact the ischial tuberosity, and drive anterior and superior along the SI joint line. The drive moves the ilium opposite to its listed misplacement."
+ },
+ {
+  "id": 457,
+  "domain": "p3_chiropractic_techniques",
+  "front": "A patient fell on an outstretched hand and has wrist pain. Which carpal bone is most often fractured, and what comes before manipulation?",
+  "back": "The scaphoid. Rule out fracture first, before any wrist manipulation. The lunate is the classic carpal dislocation."
+ },
+ {
+  "id": 458,
+  "domain": "p3_supportive_interventions",
+  "front": "What are the three phases of tissue healing and their rough timing?",
+  "back": "Inflammatory (first 72 hours), proliferative or repair (about day 3 to week 6), and remodeling (about week 3 to a year or more)."
+ },
+ {
+  "id": 459,
+  "domain": "p3_supportive_interventions",
+  "front": "A freshly sprained ankle needs which kind of modality, heat or cold?",
+  "back": "Cold with compression. Heat in acute injury increases bleeding and swelling. Heat is for subacute and chronic stiffness."
+ },
+ {
+  "id": 460,
+  "domain": "p3_supportive_interventions",
+  "front": "What does PRICE stand for?",
+  "back": "Protection, rest, ice, compression and elevation. It is the classic protocol for acute injury, with cold used in the first 48 to 72 hours."
+ },
+ {
+  "id": 461,
+  "domain": "p3_supportive_interventions",
+  "front": "What are the usual application times for a hot pack and for an ice pack?",
+  "back": "Hot pack about 15 to 20 minutes with toweling between pack and skin. Ice pack about 10 to 20 minutes, and ice massage 5 to 10 minutes."
+ },
+ {
+  "id": 462,
+  "domain": "p3_supportive_interventions",
+  "front": "Name three conditions where cold therapy is contraindicated.",
+  "back": "Raynaud's disease, cold urticaria, cryoglobulinemia, paroxysmal cold hemoglobinuria, impaired circulation or sensation. Any three are right."
+ },
+ {
+  "id": 463,
+  "domain": "p3_supportive_interventions",
+  "front": "Which ultrasound frequency goes deeper, 1 MHz or 3 MHz, and how deep?",
+  "back": "1 MHz goes deeper, about 3 to 5 cm. 3 MHz stays superficial, about 1 to 2 cm. Lower frequency goes deeper."
+ },
+ {
+  "id": 464,
+  "domain": "p3_supportive_interventions",
+  "front": "Why use pulsed ultrasound instead of continuous?",
+  "back": "Pulsed ultrasound (like 20 percent duty cycle) gives nonthermal effects such as cavitation and streaming. It is chosen when heating is unwise, as in acute injury."
+ },
+ {
+  "id": 465,
+  "domain": "p3_supportive_interventions",
+  "front": "What is the difference between phonophoresis and iontophoresis?",
+  "back": "Phonophoresis uses ultrasound to drive a topical drug through the skin. Iontophoresis uses direct current to drive charged ions in."
+ },
+ {
+  "id": 466,
+  "domain": "p3_supportive_interventions",
+  "front": "Under which pole is negatively charged dexamethasone placed for iontophoresis?",
+  "back": "The negative pole, since like charges repel and push the drug into the tissue."
+ },
+ {
+  "id": 467,
+  "domain": "p3_supportive_interventions",
+  "front": "What beat frequency do interferential currents of 4,000 Hz and 4,100 Hz produce?",
+  "back": "100 Hz, the difference between the two. Two medium frequency currents cross in the tissue to make a low frequency effect."
+ },
+ {
+  "id": 468,
+  "domain": "p3_supportive_interventions",
+  "front": "Which TENS setting works by the pain gate, and which is thought to release endorphins?",
+  "back": "High frequency, low intensity TENS (about 80 to 120 Hz) uses the pain gate. Low frequency, high intensity TENS (about 2 to 5 Hz) is thought to release endorphins."
+ },
+ {
+  "id": 469,
+  "domain": "p3_supportive_interventions",
+  "front": "A patient has a demand type pacemaker. Is electrical stimulation safe?",
+  "back": "No. Implanted electronic devices are a contraindication, along with use over the carotid sinus, anterior neck, chest, pregnant abdomen and impaired skin."
+ },
+ {
+  "id": 470,
+  "domain": "p3_supportive_interventions",
+  "front": "Vitamin D deficiency causes what in children, and what in adults?",
+  "back": "Rickets in children and osteomalacia in adults. Vitamin D helps calcium absorption and bone mineralization."
+ },
+ {
+  "id": 471,
+  "domain": "p3_supportive_interventions",
+  "front": "A patient takes warfarin. Which vitamin must stay steady, and why?",
+  "back": "Vitamin K, because it is needed for clotting factors II, VII, IX and X. Swings in intake change how well warfarin works."
+ },
+ {
+  "id": 472,
+  "domain": "p3_supportive_interventions",
+  "front": "A strict vegan has numbness and macrocytic anemia. Which vitamin is low, and what is the condition?",
+  "back": "Vitamin B12 deficiency anemia with neuropathy, from dietary lack. True pernicious anemia is the same picture caused by missing intrinsic factor."
+ },
+ {
+  "id": 473,
+  "domain": "p3_supportive_interventions",
+  "front": "Which exercise program do the McGill big three form?",
+  "back": "A core endurance program for the low back: the curl up, the side bridge and the bird dog. They build endurance while limiting spinal load."
+ },
+ {
+  "id": 474,
+  "domain": "p3_supportive_interventions",
+  "front": "Upper crossed syndrome: which muscles are tight, and which are weak?",
+  "back": "Tight: upper trapezius, levator scapulae, pectorals. Weak: deep neck flexors, lower trapezius, rhomboids, serratus anterior. The result is forward head and rounded shoulders."
+ },
+ {
+  "id": 475,
+  "domain": "p3_supportive_interventions",
+  "front": "What should you do if exercise makes leg pain move farther from the spine (peripheralization)?",
+  "back": "Stop and reassess. Increasing radicular symptoms or progressing neurologic signs during exercise are signs to stop."
+ },
+ {
+  "id": 476,
+  "domain": "p4_practical_encounters",
+  "front": "How many stations are in the new Part IV, and what are they?",
+  "back": "Eight: seven Patient Encounter stations and one Technique station. They replace the older 25 short stations."
+ },
+ {
+  "id": 477,
+  "domain": "p4_practical_encounters",
+  "front": "What is the timing of one Patient Encounter station?",
+  "back": "2 minutes to read the chart at the door, 14 minutes with the simulated patient (a maximum), and 6 minutes to type the SOAP note."
+ },
+ {
+  "id": 478,
+  "domain": "p4_practical_encounters",
+  "front": "What three things do you do with the simulated patient?",
+  "back": "Take a focused case history, perform a focused exam, and give a brief report of findings in plain words."
+ },
+ {
+  "id": 479,
+  "domain": "p4_practical_encounters",
+  "front": "Name the five grading domains of each Patient Encounter.",
+  "back": "Patient Evaluation, Patient Examination, Clinical Decision Making and Case Management, Interpersonal and Communication Skills, and Documentation."
+ },
+ {
+  "id": 480,
+  "domain": "p4_practical_encounters",
+  "front": "Which grading domain judges your case history?",
+  "back": "Patient Evaluation, which is obtaining relevant clinical information. Relevant is the key: five sharp questions beat ten random ones."
+ },
+ {
+  "id": 481,
+  "domain": "p4_practical_encounters",
+  "front": "Which domain is where you decide to treat, co manage or refer urgently?",
+  "back": "Clinical Decision Making and Case Management. Red flags matter most here."
+ },
+ {
+  "id": 482,
+  "domain": "p4_practical_encounters",
+  "front": "What are the three kinds of cases mixed into every Part IV session?",
+  "back": "Treatable in a chiropractic office, needs more testing or co management, and needs urgent referral or is outside scope."
+ },
+ {
+  "id": 483,
+  "domain": "p4_practical_encounters",
+  "front": "Which seven body systems do Part IV cases come from?",
+  "back": "Musculoskeletal, neurological, cardiovascular and pulmonary, gastrointestinal, endocrine, renal and urological, and malignant."
+ },
+ {
+  "id": 484,
+  "domain": "p4_practical_encounters",
+  "front": "What does OLDCARTS stand for?",
+  "back": "Onset, Location, Duration, Character, Aggravating factors, Relieving factors, Timing, Severity. It guides a focused history of a pain complaint."
+ },
+ {
+  "id": 485,
+  "domain": "p4_practical_encounters",
+  "front": "Why should you narrate your exam out loud, including the side?",
+  "back": "The encounter is video recorded, and the grader needs to hear what you did and found. Naming left or right avoids costly side errors."
+ },
+ {
+  "id": 486,
+  "domain": "p4_practical_encounters",
+  "front": "What are the cauda equina warning signs in a back pain encounter?",
+  "back": "Loss of bladder or bowel control, saddle numbness, and weakness in both legs. This patient needs emergency referral to the emergency department now."
+ },
+ {
+  "id": 487,
+  "domain": "p4_practical_encounters",
+  "front": "A 58 year old has night mid back pain, weight loss of 8 kg and past prostate cancer. What is your plan?",
+  "back": "No spinal adjustment. Urgent referral to a medical doctor for imaging and workup, since spinal metastasis is possible, and explain why in plain words."
+ },
+ {
+  "id": 488,
+  "domain": "p4_practical_encounters",
+  "front": "Chest pain with sweating, nausea and spread to the jaw or arm in a diabetic smoker. What do you do?",
+  "back": "Send the patient to an emergency department. Possible heart attack is a cardiovascular red flag, so this is an emergency referral."
+ },
+ {
+  "id": 489,
+  "domain": "p4_practical_encounters",
+  "front": "A patient with back pain also has burning urination, fever and flank pain. What might it be?",
+  "back": "A kidney infection, not a spine problem. Ask about urine in every back pain case, and refer for medical care."
+ },
+ {
+  "id": 490,
+  "domain": "p4_practical_encounters",
+  "front": "A patient has great thirst, frequent urination, tiredness and blurry vision. Which type of case is this likely?",
+  "back": "Possible new diabetes. It is usually a co manage or test further case, needing tests and a medical provider."
+ },
+ {
+  "id": 491,
+  "domain": "p4_practical_encounters",
+  "front": "What does SOAP stand for?",
+  "back": "Subjective, Objective, Assessment, Plan. It is the standard way clinicians write down a visit."
+ },
+ {
+  "id": 492,
+  "domain": "p4_practical_encounters",
+  "front": "What belongs in the Objective part of a SOAP note?",
+  "back": "Vital signs, inspection, palpation, range of motion, and each test with its result and side. Write the finding, such as SLR positive on the right at 40 degrees, not just the test name."
+ },
+ {
+  "id": 493,
+  "domain": "p4_practical_encounters",
+  "front": "Why is Right lumbar sprain and strain, no nerve root signs, a better assessment than back pain?",
+  "back": "It is specific. It names the likely condition, the side, and what you ruled out. Vague assessments lose points."
+ },
+ {
+  "id": 494,
+  "domain": "p4_practical_encounters",
+  "front": "What is the rule for the Plan section of a SOAP note?",
+  "back": "It must match the assessment. List treatment, home advice, follow up time, tests or imaging, and any referral with how urgent it is."
+ },
+ {
+  "id": 495,
+  "domain": "p4_practical_encounters",
+  "front": "List three common SOAP note mistakes.",
+  "back": "Left and right errors, missing red flags, a plan that does not match the assessment, vague assessment, a test name with no result, facts never found, or a note so long you never reach the plan."
+ },
+ {
+  "id": 496,
+  "domain": "p4_practical_encounters",
+  "front": "How long is the Technique station, and how many adjustments do you set up?",
+  "back": "14 minutes to set up ten chiropractic adjustments. You show and say the setup but do not thrust hard on a person."
+ },
+ {
+  "id": 497,
+  "domain": "p4_practical_encounters",
+  "front": "Give a good order for saying any technique setup aloud.",
+  "back": "Name the target level and side, then patient position, doctor position, segmental contact, doctor's contact, stabilization, line of drive. Using the same order each time builds a habit."
+ },
+ {
+  "id": 498,
+  "domain": "p4_practical_encounters",
+  "front": "Name common errors at the Technique station.",
+  "back": "Wrong contact point, a line of drive that does not fit the contact, forgetting the stabilization hand, silent setups, poor doctor position, and rushing or lingering."
+ },
+ {
+  "id": 499,
+  "domain": "p4_practical_encounters",
+  "front": "What is teach back, and why use it in a Part IV encounter?",
+  "back": "After explaining your plan, ask the patient to say it back in their own words. It checks understanding and shows good communication."
+ },
+ {
+  "id": 500,
+  "domain": "p4_practical_encounters",
+  "front": "What should you do before touching the simulated patient or moving a drape?",
+  "back": "Ask consent. Introduce yourself, explain what you will do, and ask permission again before any uncomfortable step or undressing."
+ }
+]

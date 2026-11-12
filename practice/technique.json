@@ -1,0 +1,1082 @@
+[
+ {
+  "id": "T01",
+  "region": "cervical",
+  "task": "Set up a supine rotational adjustment for a right C5 restriction.",
+  "patient_position": "Supine on the table with the head resting in the doctor's hands, shoulders level.",
+  "doctor_position_and_stance": "Seated or standing at the head of the table, facing the patient, feet apart and balanced.",
+  "segment_or_listing": "C5 restricted on the right, listed as right rotation.",
+  "contact_point": "Segmental contact on the right C5 articular pillar. Doctor contact on the lateral surface of the proximal phalanx of the left index finger.",
+  "line_of_drive": "Short quick thrust with a small rotary component and slight lateral flexion along the plane of the facet, with little extension.",
+  "setup_steps": [
+   "Tell the patient what you will do, answer questions and get consent.",
+   "Place the patient supine and cradle the head with both hands.",
+   "Palpate the right C5 articular pillar and place the index finger contact there.",
+   "Rotate the head gently away from the contact side and side bend slightly toward it.",
+   "Take out the slack without reaching the end of the range.",
+   "State the line of drive and confirm the patient is relaxed."
+  ],
+  "safety_checks": [
+   "Screen for the 5 Ds and 3 Ns, sudden severe headache and neck pain before any rotational thrust.",
+   "Do not take the neck to end range rotation.",
+   "Stop if the patient reports dizziness, double vision or new neurological symptoms."
+  ],
+  "common_errors": [
+   "Contacting the spinous process or soft tissue instead of the articular pillar.",
+   "Rotating the head too far before the thrust.",
+   "Not naming the stabilizing hand."
+  ],
+  "grading_points": [
+   "Patient position stated and correct.",
+   "Doctor position and stance stated.",
+   "Contact on the right C5 articular pillar with the correct finger surface.",
+   "Stabilization by the other hand and the table named.",
+   "Line of drive follows the facet plane with low amplitude.",
+   "Patient informed and consent confirmed."
+  ]
+ },
+ {
+  "id": "T02",
+  "region": "cervical",
+  "task": "Set up a side posture cervical adjustment for a left C4 restriction.",
+  "patient_position": "Side lying with the left side up, head supported on a thin pillow in line with the spine.",
+  "doctor_position_and_stance": "Standing at the head of the table facing the patient, weight even, thighs against the table edge.",
+  "segment_or_listing": "C4 restricted on the left, listed as left rotation.",
+  "contact_point": "Segmental contact on the left C4 articular pillar. Doctor contact on the lateral index finger over the proximal phalanx.",
+  "line_of_drive": "Lateral to medial with a slight superior component, lined up with the facet plane of C4.",
+  "setup_steps": [
+   "Explain the procedure and ask permission.",
+   "Position the patient on the right side with the head supported level.",
+   "Locate the left C4 articular pillar by palpation.",
+   "Place the index contact and cup the head with the other hand for stabilization.",
+   "Rotate and side bend slightly to take out the slack.",
+   "Say the line of drive aloud before the thrust."
+  ],
+  "safety_checks": [
+   "Ask about neck pain with dizziness, vision change, numbness or recent trauma first.",
+   "Use light force and a short lever.",
+   "Defer if the patient cannot relax or the pain increases."
+  ],
+  "common_errors": [
+   "Head tilted up or down so the neck is not level.",
+   "Contact placed on the transverse process instead of the pillar.",
+   "Line of drive across the facet plane rather than along it."
+  ],
+  "grading_points": [
+   "Side lying position correct.",
+   "Doctor stands at the head facing the patient.",
+   "Articular pillar named as the segmental contact.",
+   "Doctor contact surface named.",
+   "Stabilization at the head.",
+   "Line of drive stated with the facet plane."
+  ]
+ },
+ {
+  "id": "T03",
+  "region": "cervical",
+  "task": "Demonstrate the setup for an atlas adjustment with a specific contact.",
+  "patient_position": "Side lying with the right (listed) side up, head supported level on a thin pillow, or supine for a hand held contact.",
+  "doctor_position_and_stance": "At the head of the table, leaning slightly toward the patient with a stable stance.",
+  "segment_or_listing": "Atlas (C1) restricted on the right.",
+  "contact_point": "Segmental contact on the right transverse process of the atlas, found below the mastoid and behind the ramus of the mandible. Doctor contact on the pad of the index finger.",
+  "line_of_drive": "Very low force impulse directed along the plane of the atlas joint, typically medial and slightly superior.",
+  "setup_steps": [
+   "Tell the patient the force is gentle and obtain consent.",
+   "Position the head neutral with no rotation.",
+   "Palpate the atlas transverse process behind the ramus.",
+   "Place the index finger contact lightly and settle the hand.",
+   "Stabilize the head with the other hand and the table.",
+   "State the line of drive and deliver a small impulse in the demonstration."
+  ],
+  "safety_checks": [
+   "Screen for cervical arterial signs and trauma before any upper neck work.",
+   "Never use end range rotation on the atlas.",
+   "Stop and refer for sudden severe headache, double vision or loss of balance."
+  ],
+  "common_errors": [
+   "Contacting the mastoid or mandible instead of the transverse process.",
+   "Using too much force.",
+   "Wrong head position that adds rotation."
+  ],
+  "grading_points": [
+   "Neutral head position.",
+   "Atlas transverse process named correctly.",
+   "Doctor contact surface named.",
+   "Stabilization named.",
+   "Line of drive and light force stated.",
+   "Safety screen mentioned."
+  ]
+ },
+ {
+  "id": "T04",
+  "region": "cervical",
+  "task": "Set up an axis (C2) adjustment using the spinous process.",
+  "patient_position": "Prone with the face in a headpiece, neck in neutral, or seated if the table allows.",
+  "doctor_position_and_stance": "Standing at the side of the table near the head, facing the patient's neck.",
+  "segment_or_listing": "C2 with a spinous process rotated to the left.",
+  "contact_point": "Segmental contact on the side of the C2 bifid spinous process or lamina. Doctor contact on the thumb or the lateral index finger.",
+  "line_of_drive": "Lateral to medial against the side of the spinous process, in the direction that reverses the rotation, with a very small amplitude.",
+  "setup_steps": [
+   "Explain and gain consent.",
+   "Place the patient prone with the neck neutral.",
+   "Locate the large C2 spinous process, the first one felt below the skull.",
+   "Place the contact on the side of the spinous process.",
+   "Stabilize with the other hand on the opposite side of the neck or the head.",
+   "State the line of drive and the listing."
+  ],
+  "safety_checks": [
+   "Screen for cervical arterial dysfunction and instability signs.",
+   "Keep force low.",
+   "Stop if numbness, dizziness or radiating pain starts."
+  ],
+  "common_errors": [
+   "Contacting C3 or the occiput by mistake.",
+   "Pushing into the soft tissue instead of bone.",
+   "Thrust that adds flexion or extension."
+  ],
+  "grading_points": [
+   "Correct patient position.",
+   "Doctor position stated.",
+   "C2 spinous process identified correctly.",
+   "Doctor contact named.",
+   "Stabilization hand named.",
+   "Line of drive fits the listing."
+  ]
+ },
+ {
+  "id": "T05",
+  "region": "cervical",
+  "task": "Set up a seated or supine lower cervical adjustment with a lateral flexion restriction at C6.",
+  "patient_position": "Supine with the head in the doctor's hands and shoulders relaxed.",
+  "doctor_position_and_stance": "At the head of the table, facing the patient, elbows close to the body.",
+  "segment_or_listing": "C6 restricted in left lateral flexion.",
+  "contact_point": "Segmental contact on the left C6 articular pillar. Doctor contact on the lateral proximal phalanx of the index finger.",
+  "line_of_drive": "Short thrust in the direction of lateral flexion along the plane of the facet, with a small rotary part and no extension.",
+  "setup_steps": [
+   "Tell the patient the plan and get consent.",
+   "Set the head neutral on the table.",
+   "Palpate the left C6 articular pillar.",
+   "Place the contact and side bend the head toward the contact to take the slack out.",
+   "Add a small amount of rotation away from the contact.",
+   "State the line of drive aloud."
+  ],
+  "safety_checks": [
+   "Screen for arterial dysfunction signs first.",
+   "Avoid end range positions.",
+   "Do not thrust if the patient is guarding or in severe pain."
+  ],
+  "common_errors": [
+   "Too much rotation before the thrust.",
+   "Contact on the transverse process in front of the pillar.",
+   "Quick movement of the whole head instead of a focused thrust."
+  ],
+  "grading_points": [
+   "Position correct.",
+   "Segment and listing stated.",
+   "Contact named.",
+   "Stabilization named.",
+   "Line of drive follows the facet.",
+   "Patient informed."
+  ]
+ },
+ {
+  "id": "T06",
+  "region": "thoracic",
+  "task": "Set up a prone thoracic thrust with a cross bilateral transverse process contact at T6.",
+  "patient_position": "Prone with the chest flat and arms relaxed at the sides, face in the headpiece.",
+  "doctor_position_and_stance": "Standing at the side of the table facing the patient, feet apart with the shoulders over the contact.",
+  "segment_or_listing": "T6 with a restriction in right rotation.",
+  "contact_point": "Segmental contact on the right transverse process of T6 and the left transverse process of T7, crossing the hands. Doctor contact on the pisiform of each hand.",
+  "line_of_drive": "Posterior to anterior with a slight cephalad component for the upper thoracic area, delivered at the end of exhalation.",
+  "setup_steps": [
+   "Explain and get consent.",
+   "Position the patient prone and ask them to relax the shoulders.",
+   "Palpate and find the T6 and T7 transverse processes.",
+   "Place the crossed pisiform contacts on the transverse processes.",
+   "Take out the slack by leaning your weight over the contact.",
+   "Ask the patient to breathe out and state the line of drive."
+  ],
+  "safety_checks": [
+   "Do not thrust in patients with osteoporosis, rib fracture or severe pain.",
+   "Use the lowest force that works.",
+   "Check for chest pain or breathing difficulty after the thrust."
+  ],
+  "common_errors": [
+   "Contacts on the ribs instead of the transverse processes.",
+   "Thrust at the top of inhalation.",
+   "Arms bent so the force is lost."
+  ],
+  "grading_points": [
+   "Position and stance correct.",
+   "Both transverse process contacts named.",
+   "Pisiform contacts stated.",
+   "Stabilization by the table and the opposite hand stated.",
+   "Line of drive and breathing phase stated.",
+   "Patient informed."
+  ]
+ },
+ {
+  "id": "T07",
+  "region": "thoracic",
+  "task": "Set up a prone thoracic thrust using a single spinous process contact at T9.",
+  "patient_position": "Prone with the chest flat and the head in the headpiece.",
+  "doctor_position_and_stance": "Standing at the side of the table, facing the patient, with the shoulder directly above the contact hand.",
+  "segment_or_listing": "T9 posterior, listed as a posterior spinous process.",
+  "contact_point": "Segmental contact on the T9 spinous process. Doctor contact on the pisiform of one hand, reinforced by the other hand.",
+  "line_of_drive": "Posterior to anterior with a neutral to slightly cephalad angle following the slope of the T9 spinous process, delivered at the end of exhalation.",
+  "setup_steps": [
+   "Tell the patient what you will do and ask permission.",
+   "Position the patient prone and relaxed.",
+   "Palpate the T9 spinous process.",
+   "Place the pisiform on the spinous process and set the reinforcing hand over it.",
+   "Straighten the elbows and lean over the contact to take out the slack.",
+   "Ask for exhalation and state the line of drive."
+  ],
+  "safety_checks": [
+   "Check bone health and any history of fracture.",
+   "Avoid thrusting over a spinal injury or a painful mass.",
+   "Stop if the pain increases."
+  ],
+  "common_errors": [
+   "Contact over the transverse process or the rib.",
+   "Elbows bent.",
+   "A caudal angle that drives the segment into extension, or a thrust that ignores the slope of the spinous process."
+  ],
+  "grading_points": [
+   "Prone position correct.",
+   "Spinous process contact named.",
+   "Pisiform contact stated.",
+   "Stabilization stated.",
+   "Line of drive stated with breathing.",
+   "Doctor stance correct."
+  ]
+ },
+ {
+  "id": "T08",
+  "region": "thoracic",
+  "task": "Set up a supine cross arm thoracic adjustment at T5.",
+  "patient_position": "Supine with the arms crossed over the chest, each hand on the opposite shoulder.",
+  "doctor_position_and_stance": "Standing at the side of the table, facing the patient, with the chest or abdomen over the patient's crossed arms.",
+  "segment_or_listing": "T5 restricted in extension.",
+  "contact_point": "Segmental contact on the T5 spinous process and transverse processes from beneath. Doctor contact with a closed fist or pocket contact placed under the patient's back.",
+  "line_of_drive": "Anterior to posterior through the segment with a slight inferior to superior component.",
+  "setup_steps": [
+   "Explain the procedure and ask about bone health.",
+   "Have the patient cross the arms and roll toward you.",
+   "Place the fist contact under T5 and roll the patient back onto it.",
+   "Lean over the crossed arms and take out the slack.",
+   "Ask the patient to breathe out.",
+   "State the line of drive and give a controlled thrust in the demonstration."
+  ],
+  "safety_checks": [
+   "Avoid this setup in osteoporosis, rib fracture or severe pain.",
+   "Check there is no breast or chest tenderness that makes the position unsafe.",
+   "Stop if the patient has chest pain or trouble breathing."
+  ],
+  "common_errors": [
+   "Fist placed too high or too low on the spine.",
+   "Pressure on the patient's arms instead of the spine.",
+   "Not asking about bone density."
+  ],
+  "grading_points": [
+   "Arm position correct.",
+   "Doctor contact named.",
+   "Segment identified.",
+   "Stabilization through the table and body stated.",
+   "Line of drive stated.",
+   "Bone health screened and patient informed."
+  ]
+ },
+ {
+  "id": "T09",
+  "region": "thoracic",
+  "task": "Set up a posterior rib adjustment for a depressed left rib 6.",
+  "patient_position": "Prone with the chest flat and the arms at the sides.",
+  "doctor_position_and_stance": "Standing at the side of the table on the side of the rib, facing the patient.",
+  "segment_or_listing": "Left rib 6 depressed, restricted in inhalation.",
+  "contact_point": "Segmental contact at the rib angle of the left sixth rib near the costotransverse joint. Doctor contact on the pisiform or thenar.",
+  "line_of_drive": "Along the curve of the rib, anterior and superior for a depressed rib, delivered at the phase of breathing that matches the restriction.",
+  "setup_steps": [
+   "Explain the plan and ask for consent.",
+   "Position the patient prone and relaxed.",
+   "Find the rib angle of rib 6 and feel it move with breathing.",
+   "Place the pisiform on the rib angle and stabilize with the table and the other hand.",
+   "Take out the slack along the rib curve.",
+   "State the line of drive and the breathing phase."
+  ],
+  "safety_checks": [
+   "Rule out rib fracture, pleurisy and osteoporosis first.",
+   "Use a broad soft contact.",
+   "Stop if the patient has sharp chest pain or shortness of breath."
+  ],
+  "common_errors": [
+   "Contact on the transverse process rather than the rib angle.",
+   "Wrong line of drive for a depressed rib.",
+   "Thrusting during the wrong phase of breathing."
+  ],
+  "grading_points": [
+   "Rib listing stated.",
+   "Rib angle contact named.",
+   "Doctor contact surface named.",
+   "Stabilization stated.",
+   "Line of drive follows the rib curve.",
+   "Safety screen mentioned."
+  ]
+ },
+ {
+  "id": "T10",
+  "region": "thoracic",
+  "task": "Set up a seated first rib adjustment on the right.",
+  "patient_position": "Seated on a stool or the table with the back straight and arms relaxed.",
+  "doctor_position_and_stance": "Standing behind the patient with a stable stance, one foot slightly forward.",
+  "segment_or_listing": "Right first rib elevated.",
+  "contact_point": "Segmental contact on the superior surface of the first rib, between the neck and the shoulder. Doctor contact on the web between the thumb and index finger.",
+  "line_of_drive": "Caudal and anterior toward the opposite hip.",
+  "setup_steps": [
+   "Tell the patient what you will do and ask permission.",
+   "Seat the patient upright and relaxed.",
+   "Palpate the superior surface of the first rib beside the trapezius.",
+   "Place the web contact and cup the patient's head and shoulder with the other hand.",
+   "Take out the slack with a small side bend of the head toward the contact.",
+   "State the line of drive and deliver a light thrust in the demonstration."
+  ],
+  "safety_checks": [
+   "Screen for thoracic outlet signs, nerve symptoms and trauma first.",
+   "Use light force over this sensitive area.",
+   "Stop if the patient has arm numbness or tingling."
+  ],
+  "common_errors": [
+   "Contact on the clavicle or trapezius muscle only.",
+   "Line of drive directed upward.",
+   "Too much force."
+  ],
+  "grading_points": [
+   "Seated position correct.",
+   "Doctor stands behind.",
+   "First rib superior surface contact named.",
+   "Doctor contact surface named.",
+   "Stabilization stated.",
+   "Line of drive caudal and anterior toward the opposite hip."
+  ]
+ },
+ {
+  "id": "T11",
+  "region": "lumbar",
+  "task": "Set up a side posture lumbar roll for a right L4 restriction.",
+  "patient_position": "Side lying with the right side up. Lower leg straight, upper leg flexed at the hip and knee with the foot hooked behind the lower knee. Lower arm forward, upper arm drawn back to rotate the trunk.",
+  "doctor_position_and_stance": "Standing in front of the patient facing the table at about 45 degrees, with the thigh or knee against the patient's flexed upper knee.",
+  "segment_or_listing": "L4 restricted on the right.",
+  "contact_point": "Segmental contact on the right mammillary process of L4. Doctor contact on the pisiform or the web of the hand.",
+  "line_of_drive": "Posterior to anterior and slightly inferior to superior along the facet plane with the rotation.",
+  "setup_steps": [
+   "Explain the procedure and get consent.",
+   "Position the patient in side posture as described.",
+   "Palpate the right L4 mammillary process.",
+   "Place the contact and the stabilizing hand and forearm at the shoulder or upper arm.",
+   "Rotate the trunk to take out the slack at L4 only.",
+   "State the line of drive and deliver a gentle demonstration thrust."
+  ],
+  "safety_checks": [
+   "Screen for cauda equina signs, fracture, severe radiculopathy and instability first.",
+   "Do not use if rotation produces leg pain or numbness.",
+   "Stop if the patient feels a sharp pain."
+  ],
+  "common_errors": [
+   "Rotating the trunk too far so the force goes to the wrong level.",
+   "Contact on the spinous process when the listing calls for the mammillary process.",
+   "Doctor stance too wide or square to the table."
+  ],
+  "grading_points": [
+   "Patient leg and arm position correct.",
+   "Doctor stance stated.",
+   "Mammillary process named.",
+   "Doctor contact surface named.",
+   "Stabilization points named.",
+   "Line of drive stated."
+  ]
+ },
+ {
+  "id": "T12",
+  "region": "lumbar",
+  "task": "Set up a lumbar spinous push in side posture for a rotated L3 spinous process.",
+  "patient_position": "Side lying, lower leg straight, upper leg flexed with the foot hooked behind the lower knee.",
+  "doctor_position_and_stance": "Standing facing the patient at the table, feet apart, body over the contact.",
+  "segment_or_listing": "L3 with the spinous process rotated to the left.",
+  "contact_point": "Segmental contact on the side of the L3 spinous process. Doctor contact on the pisiform or the thumb.",
+  "line_of_drive": "Against the side of the spinous process in the direction opposite to the rotation, to derotate the segment.",
+  "setup_steps": [
+   "Tell the patient what you will do and get consent.",
+   "Position the patient on the correct side for the listing.",
+   "Locate the L3 spinous process and its rotation.",
+   "Place the contact on the side of the spinous process.",
+   "Stabilize with the other hand at the shoulder or knee.",
+   "State the line of drive that reverses the rotation."
+  ],
+  "safety_checks": [
+   "Screen for red flags and nerve signs before the thrust.",
+   "Use low force.",
+   "Stop for new pain, numbness or weakness."
+  ],
+  "common_errors": [
+   "Pushing in the direction of the rotation instead of against it.",
+   "Contact on the interspinous space.",
+   "Not stating the listing first."
+  ],
+  "grading_points": [
+   "Position correct.",
+   "Listing stated.",
+   "Spinous process contact named.",
+   "Doctor contact named.",
+   "Stabilization named.",
+   "Line of drive reverses the rotation."
+  ]
+ },
+ {
+  "id": "T13",
+  "region": "lumbar",
+  "task": "Set up prone flexion distraction for the lower lumbar spine in a patient with disc involvement.",
+  "patient_position": "Prone on a flexion distraction table with the pelvis at the break of the table, ankles secured or held lightly.",
+  "doctor_position_and_stance": "Standing at the side of the table near the patient's hips, facing the table.",
+  "segment_or_listing": "L4 L5 disc involvement without cauda equina signs.",
+  "contact_point": "Segmental contact on the L4 spinous process area. Doctor contact on the thenar or pisiform of one hand, cephalad direction.",
+  "line_of_drive": "Cephalad and anterior on the contacted segment while the table moves into flexion with cyclic distraction.",
+  "setup_steps": [
+   "Explain the procedure and tell the patient it is a gentle, non thrust method.",
+   "Position the patient prone with the pelvis at the break.",
+   "Locate L4 and place the contact on the spinous process.",
+   "Hold the caudal section of the table with the other hand.",
+   "Lower the caudal piece into flexion in a slow, cyclic motion.",
+   "State the line of drive and check the patient's comfort."
+  ],
+  "safety_checks": [
+   "Do not use with cauda equina signs, fracture, tumor or infection.",
+   "Stop if leg pain increases or spreads.",
+   "Keep the motion within the patient's comfort."
+  ],
+  "common_errors": [
+   "Contact too high or too low.",
+   "Fast jerky table motion.",
+   "Forgetting to describe the table movement."
+  ],
+  "grading_points": [
+   "Pelvis at the break stated.",
+   "Contact named.",
+   "Doctor contact surface named.",
+   "Table hand and motion named.",
+   "Line of drive cephalad and anterior stated.",
+   "Safety and comfort checks stated."
+  ]
+ },
+ {
+  "id": "T14",
+  "region": "lumbar",
+  "task": "Set up a drop table adjustment for the lumbar spine at L5.",
+  "patient_position": "Prone on a drop table with the pelvic piece set to the patient's size and the drop mechanism tensioned correctly.",
+  "doctor_position_and_stance": "Standing at the side of the table with the shoulders over the contact and the table drop piece ready.",
+  "segment_or_listing": "L5 posterior.",
+  "contact_point": "Segmental contact on the L5 spinous process or the mammillary process. Doctor contact on the pisiform with the other hand reinforcing.",
+  "line_of_drive": "Posterior to anterior, with a quick light thrust at the moment the table piece drops.",
+  "setup_steps": [
+   "Explain the table drop and the light thrust and get consent.",
+   "Check and set the tension of the drop piece for the patient's weight.",
+   "Position the patient prone with the pelvis on the piece.",
+   "Palpate L5 and place the pisiform contact.",
+   "Lean over the contact and take out the slack.",
+   "State the line of drive and the timing of the drop."
+  ],
+  "safety_checks": [
+   "Do not use in patients with fracture, severe osteoporosis, cauda equina signs or recent surgery.",
+   "Set tension to the patient's size, not too heavy.",
+   "Stop if the patient has leg pain or numbness."
+  ],
+  "common_errors": [
+   "Drop tension wrong for the patient.",
+   "Thrust too hard in addition to the drop.",
+   "Contact off the segment."
+  ],
+  "grading_points": [
+   "Table set up and tension stated.",
+   "Patient position correct.",
+   "Contact named.",
+   "Doctor contact named.",
+   "Stabilization by the table named.",
+   "Line of drive and timing stated."
+  ]
+ },
+ {
+  "id": "T15",
+  "region": "lumbar",
+  "task": "Set up a lumbar mammillary process contact in a side posture for a left L5 restriction using a different arm position.",
+  "patient_position": "Side lying with the left side up, lower leg straight, upper leg flexed with the foot behind the knee, lower arm across the chest, upper arm forward.",
+  "doctor_position_and_stance": "Standing in front facing the table at about 45 degrees, the thigh against the patient's upper knee.",
+  "segment_or_listing": "L5 restricted on the left.",
+  "contact_point": "Segmental contact on the left L5 mammillary process. Doctor contact on the index finger web or pisiform.",
+  "line_of_drive": "Posterior to anterior and slightly inferior to superior along the L5 S1 facet plane, which sits more toward the coronal plane.",
+  "setup_steps": [
+   "Tell the patient and gain consent.",
+   "Position the legs and arms as listed.",
+   "Locate the left L5 mammillary process.",
+   "Place the contact and the other forearm at the patient's shoulder.",
+   "Rotate gently until the slack is out at L5.",
+   "State the line of drive."
+  ],
+  "safety_checks": [
+   "Check for leg pain with rotation, which means stop.",
+   "Do not use after recent surgery or with suspected fracture.",
+   "Use only a short, light thrust."
+  ],
+  "common_errors": [
+   "Using the L4 line of drive for the L5 S1 level.",
+   "Excessive rotation of the upper body.",
+   "Contacting the sacral base."
+  ],
+  "grading_points": [
+   "Positions correct.",
+   "Level identified.",
+   "Contact named.",
+   "Stabilization stated.",
+   "Line of drive fits the L5 facet plane.",
+   "Patient informed."
+  ]
+ },
+ {
+  "id": "T16",
+  "region": "pelvic",
+  "task": "Set up a side posture adjustment for a right posterior ilium.",
+  "patient_position": "Side lying with the right side up, lower leg straight, upper leg flexed with the knee in front of the lower leg.",
+  "doctor_position_and_stance": "Standing in front of the patient facing the table, stable with feet apart.",
+  "segment_or_listing": "Right posterior ilium (PI).",
+  "contact_point": "Segmental contact on the ischial tuberosity of the right ilium. Doctor contact on the pisiform or thenar.",
+  "line_of_drive": "Anterior and superior through the ischial tuberosity along the plane of the sacroiliac joint line.",
+  "setup_steps": [
+   "Explain the procedure and get consent.",
+   "Position the patient in side posture with the PI side up.",
+   "Locate the right ischial tuberosity.",
+   "Place the pisiform contact.",
+   "Stabilize at the shoulder or upper arm with the other hand.",
+   "State the listing and the line of drive."
+  ],
+  "safety_checks": [
+   "Screen for fracture, infection, severe pain and pregnancy complications.",
+   "Use a low amplitude thrust.",
+   "Stop if the patient has leg pain."
+  ],
+  "common_errors": [
+   "Drive that pushes the ilium further posterior.",
+   "Contact on the PSIS when the plan says ischium.",
+   "Not stabilizing the upper body."
+  ],
+  "grading_points": [
+   "Position correct.",
+   "Listing stated.",
+   "Ischial tuberosity contact named.",
+   "Doctor contact named.",
+   "Stabilization named.",
+   "Line of drive anterior and superior."
+  ]
+ },
+ {
+  "id": "T17",
+  "region": "pelvic",
+  "task": "Set up an adjustment for a left anterior superior (AS) ilium.",
+  "patient_position": "Side lying with the left side up, lower leg straight, upper leg flexed in front.",
+  "doctor_position_and_stance": "Standing in front of the patient facing the table, with the knee and thigh near the patient's flexed knee.",
+  "segment_or_listing": "Left anterior superior (AS) ilium.",
+  "contact_point": "Segmental contact on the left anterior ilium near the ASIS or anterior rim, adapted to the listing. Doctor contact on the pisiform.",
+  "line_of_drive": "Posterior and inferior, opposite to the listed misplacement.",
+  "setup_steps": [
+   "Tell the patient the plan and obtain consent.",
+   "Position the patient in side posture with the AS side up.",
+   "Locate the contact on the anterior ilium.",
+   "Place the pisiform contact and stabilize the upper body with the other hand.",
+   "Take out the slack with gentle trunk rotation.",
+   "State the listing and the line of drive."
+  ],
+  "safety_checks": [
+   "Screen for pelvic fracture, infection and pregnancy concerns.",
+   "Use low force near the pubic area.",
+   "Stop if pubic or groin pain increases."
+  ],
+  "common_errors": [
+   "Using the PI line of drive.",
+   "Contact on the thigh.",
+   "Rotating the lumbar spine too much."
+  ],
+  "grading_points": [
+   "Position correct.",
+   "Listing and logic stated.",
+   "Anterior ilium contact named.",
+   "Doctor contact named.",
+   "Stabilization named.",
+   "Line of drive posterior and inferior."
+  ]
+ },
+ {
+  "id": "T18",
+  "region": "pelvic",
+  "task": "Set up a prone sacral base adjustment.",
+  "patient_position": "Prone with the pelvis level and the face in the headpiece.",
+  "doctor_position_and_stance": "Standing at the side of the table, facing the patient, with the shoulder over the contact.",
+  "segment_or_listing": "Sacral base posterior on the right.",
+  "contact_point": "Segmental contact on the right sacral base. Doctor contact on the pisiform, with the other hand reinforcing.",
+  "line_of_drive": "Posterior to anterior angled caudad at the base, set by the listing.",
+  "setup_steps": [
+   "Explain the procedure and ask permission.",
+   "Position the patient prone and relaxed.",
+   "Locate the sacral base and the PSIS landmarks.",
+   "Place the pisiform on the base and reinforce with the other hand.",
+   "Take out the slack by leaning over the contact.",
+   "State the listing and the line of drive."
+  ],
+  "safety_checks": [
+   "Screen for fracture, pelvic infection and red flags first.",
+   "Keep the thrust light.",
+   "Stop if sharp pain or leg symptoms appear."
+  ],
+  "common_errors": [
+   "Contact on the iliac crest or the lumbar spine.",
+   "Angle toward the head when it should be caudad at the base.",
+   "Not naming the reinforcing hand."
+  ],
+  "grading_points": [
+   "Position correct.",
+   "Listing stated.",
+   "Sacral base contact named.",
+   "Doctor contact named.",
+   "Stabilization named.",
+   "Line of drive and angle stated."
+  ]
+ },
+ {
+  "id": "T19",
+  "region": "pelvic",
+  "task": "Set up a prone sacral apex adjustment.",
+  "patient_position": "Prone with the pelvis level and the arms at the sides.",
+  "doctor_position_and_stance": "Standing at the side of the table, facing the patient, in a balanced stance.",
+  "segment_or_listing": "Sacral apex posterior.",
+  "contact_point": "Segmental contact on the sacral apex, just above the coccyx. Doctor contact on the thenar or pisiform.",
+  "line_of_drive": "Posterior to anterior and angled cephalad at the apex.",
+  "setup_steps": [
+   "Tell the patient what you will do and get consent.",
+   "Position the patient prone.",
+   "Locate the sacral apex above the coccyx.",
+   "Place the thenar contact on the apex.",
+   "Stabilize with the table and the other hand over the contact.",
+   "State the line of drive."
+  ],
+  "safety_checks": [
+   "Do not contact the coccyx.",
+   "Check for skin problems or pain in the area first.",
+   "Use gentle force and respect the patient's privacy."
+  ],
+  "common_errors": [
+   "Contact placed on the coccyx.",
+   "Drive angled caudad instead of cephalad.",
+   "Standing too far from the table."
+  ],
+  "grading_points": [
+   "Position correct.",
+   "Apex contact named.",
+   "Doctor contact named.",
+   "Stabilization named.",
+   "Line of drive cephalad stated.",
+   "Privacy and consent addressed."
+  ]
+ },
+ {
+  "id": "T20",
+  "region": "extremity",
+  "task": "Set up a glenohumeral inferior glide.",
+  "patient_position": "Seated or supine with the arm abducted to about 90 degrees.",
+  "doctor_position_and_stance": "Standing at the side of the patient, facing the shoulder, with feet apart.",
+  "segment_or_listing": "Glenohumeral joint with restricted inferior glide.",
+  "contact_point": "Segmental contact on the upper arm just below the humeral head. Doctor contact on the web of the hand or the fingers.",
+  "line_of_drive": "Inferior along the plane of the joint with a low amplitude.",
+  "setup_steps": [
+   "Explain the procedure and ask permission.",
+   "Position the patient with the arm abducted to 90 degrees.",
+   "Stabilize the scapula with the other hand.",
+   "Place the contact just below the humeral head.",
+   "Take up the slack by applying gentle inferior pressure.",
+   "State the line of drive."
+  ],
+  "safety_checks": [
+   "Rule out dislocation, fracture and rotator cuff tear first.",
+   "Avoid pushing into pain.",
+   "Stop if the patient has sharp pain or apprehension."
+  ],
+  "common_errors": [
+   "Not stabilizing the scapula.",
+   "Contact on the humeral shaft too far down.",
+   "Pushing in the wrong direction."
+  ],
+  "grading_points": [
+   "Position correct.",
+   "Doctor position stated.",
+   "Contact named.",
+   "Stabilization of the scapula named.",
+   "Line of drive inferior stated.",
+   "Safety screen mentioned."
+  ]
+ },
+ {
+  "id": "T21",
+  "region": "extremity",
+  "task": "Set up an acromioclavicular joint mobilization.",
+  "patient_position": "Seated with the arm relaxed at the side.",
+  "doctor_position_and_stance": "Standing behind or beside the patient at the affected shoulder.",
+  "segment_or_listing": "Right acromioclavicular joint with restricted glide.",
+  "contact_point": "Segmental contact over the distal clavicle. Doctor contact on the thumb or index finger pad.",
+  "line_of_drive": "Gentle posterior to anterior or inferior force along the joint plane.",
+  "setup_steps": [
+   "Tell the patient what you will do and get consent.",
+   "Seat the patient and relax the arm.",
+   "Palpate the distal clavicle and the acromion.",
+   "Place the thumb contact over the joint.",
+   "Stabilize the shoulder with the other hand.",
+   "State the line of drive and use light pressure."
+  ],
+  "safety_checks": [
+   "Rule out fracture or a high grade separation first.",
+   "Use light pressure.",
+   "Stop for swelling, a step deformity or sharp pain."
+  ],
+  "common_errors": [
+   "Contact on the acromion only.",
+   "Too much force.",
+   "Standing too far from the joint."
+  ],
+  "grading_points": [
+   "Position correct.",
+   "Contact named.",
+   "Doctor contact named.",
+   "Stabilization stated.",
+   "Line of drive stated.",
+   "Safety screen stated."
+  ]
+ },
+ {
+  "id": "T22",
+  "region": "extremity",
+  "task": "Set up a carpal adjustment for a restricted lunate with traction.",
+  "patient_position": "Seated or supine with the forearm supinated (palm up) and resting on the table.",
+  "doctor_position_and_stance": "Seated or standing at the side facing the wrist.",
+  "segment_or_listing": "Lunate restricted, with limited dorsal glide.",
+  "contact_point": "Segmental contact on the palmar surface of the lunate, just distal to the radius at the wrist crease. Doctor contact on the thumb pad.",
+  "line_of_drive": "Light traction through the hand with a gentle palmar to dorsal glide of the lunate to restore dorsal glide, low amplitude.",
+  "setup_steps": [
+   "Explain the plan and gain consent.",
+   "Position the forearm supinated on the table.",
+   "Hold the hand and apply gentle traction.",
+   "Place the thumb contact on the lunate.",
+   "Stabilize the forearm with the other hand.",
+   "State the line of drive."
+  ],
+  "safety_checks": [
+   "After a fall on an outstretched hand, rule out scaphoid fracture and lunate injury first.",
+   "Use very light force.",
+   "Stop for swelling, severe pain or numbness in the hand."
+  ],
+  "common_errors": [
+   "Contacting the wrong carpal bone or pushing in the wrong direction for the restriction.",
+   "Heavy traction.",
+   "Not stabilizing the forearm."
+  ],
+  "grading_points": [
+   "Position correct.",
+   "Carpal bone identified.",
+   "Palmar lunate contact named and consistent with the listing.",
+   "Stabilization named.",
+   "Line of drive and traction stated.",
+   "Fracture screen mentioned."
+  ]
+ },
+ {
+  "id": "T23",
+  "region": "extremity",
+  "task": "Set up a fibular head adjustment for the proximal tibiofibular joint.",
+  "patient_position": "Supine with the knee flexed to about 90 degrees and the foot flat on the table, or prone with the knee flexed.",
+  "doctor_position_and_stance": "At the side of the table near the knee, facing the patient.",
+  "segment_or_listing": "Proximal tibiofibular joint with a fibular head that does not glide posterior.",
+  "contact_point": "Segmental contact on the fibular head. Doctor contact on the thumb or index finger.",
+  "line_of_drive": "Anterior to posterior or posterior to anterior along the joint plane, matching the restriction, with low amplitude.",
+  "setup_steps": [
+   "Tell the patient the plan and get consent.",
+   "Position the knee flexed and the foot relaxed.",
+   "Palpate the fibular head and find the common peroneal nerve behind it.",
+   "Place the contact on the fibular head, off the nerve.",
+   "Stabilize the tibia with the other hand.",
+   "State the line of drive."
+  ],
+  "safety_checks": [
+   "Avoid pressure on the common peroneal nerve.",
+   "Rule out fracture, ligament injury and knee instability first.",
+   "Stop for foot drop, numbness or tingling."
+  ],
+  "common_errors": [
+   "Pressure on the nerve behind the head.",
+   "Contact on the tibia instead.",
+   "Using force that is too heavy."
+  ],
+  "grading_points": [
+   "Position correct.",
+   "Fibular head named.",
+   "Doctor contact named.",
+   "Stabilization of the tibia stated.",
+   "Line of drive stated.",
+   "Nerve caution stated."
+  ]
+ },
+ {
+  "id": "T24",
+  "region": "extremity",
+  "task": "Set up a cuboid whip adjustment for a foot restriction.",
+  "patient_position": "Prone with the knee flexed and the foot held up.",
+  "doctor_position_and_stance": "Standing at the end of the table near the patient's foot, facing the patient.",
+  "segment_or_listing": "Cuboid restricted.",
+  "contact_point": "Segmental contact on the plantar surface of the cuboid. Doctor contact with both thumbs, one over the other.",
+  "line_of_drive": "Dorsal and slightly lateral, with a quick small thrust.",
+  "setup_steps": [
+   "Explain what you will do and ask permission.",
+   "Position the patient prone with the knee flexed.",
+   "Locate the cuboid on the lateral side of the foot.",
+   "Place the thumb contacts on the plantar cuboid and hold the foot with the fingers.",
+   "Take out the slack by gentle dorsiflexion of the foot.",
+   "State the line of drive."
+  ],
+  "safety_checks": [
+   "Rule out fracture or stress injury of the foot first.",
+   "Use a light thrust.",
+   "Stop if pain increases or the foot swells."
+  ],
+  "common_errors": [
+   "Thumbs on the fifth metatarsal base instead of the cuboid.",
+   "Thrust that is too slow.",
+   "Foot held too loosely."
+  ],
+  "grading_points": [
+   "Position correct.",
+   "Cuboid identified.",
+   "Thumb contact named.",
+   "Stabilization by the hands named.",
+   "Line of drive dorsal and lateral stated.",
+   "Safety screen stated."
+  ]
+ },
+ {
+  "id": "T25",
+  "region": "soft tissue",
+  "task": "Set up a prone flexion distraction soft tissue and mobilization approach for low back muscle spasm.",
+  "patient_position": "Prone on a flexion distraction table with the pelvis at the break.",
+  "doctor_position_and_stance": "Standing at the side of the table at the patient's hip level, facing the table.",
+  "segment_or_listing": "Lumbar paraspinal spasm without nerve root signs.",
+  "contact_point": "Contact over the lumbar paraspinal muscles with the thenar of the hand, with the other hand on the table piece.",
+  "line_of_drive": "Cephalad pressure into the muscles while the table moves slowly into gentle flexion.",
+  "setup_steps": [
+   "Tell the patient the plan and ask permission.",
+   "Position the patient prone with the pelvis at the break.",
+   "Locate the muscle spasm by palpation.",
+   "Place the thenar contact beside the spinous processes.",
+   "Hold the table piece and start a slow flexion motion.",
+   "State the direction and keep checking comfort."
+  ],
+  "safety_checks": [
+   "Rule out fracture, cauda equina signs and severe radiculopathy first.",
+   "Stop if leg pain increases.",
+   "Keep motion gentle."
+  ],
+  "common_errors": [
+   "Pressing on the spinous processes instead of the muscle.",
+   "Fast table movement.",
+   "No comfort check."
+  ],
+  "grading_points": [
+   "Table position correct.",
+   "Contact named.",
+   "Doctor contact named.",
+   "Table hand stated.",
+   "Direction of pressure and motion stated.",
+   "Patient comfort and consent addressed."
+  ]
+ },
+ {
+  "id": "T26",
+  "region": "soft tissue",
+  "task": "Demonstrate a seated upper trapezius soft tissue release.",
+  "patient_position": "Seated upright on a stool with the arms resting in the lap.",
+  "doctor_position_and_stance": "Standing behind the patient with a stable stance.",
+  "segment_or_listing": "Right upper trapezius tension with a tender trigger point.",
+  "contact_point": "Contact on the tender band of the upper trapezius. Doctor contact on the thumb pad or the flat of the fingers.",
+  "line_of_drive": "Steady sustained pressure into the muscle along the fiber direction, without twisting the neck.",
+  "setup_steps": [
+   "Explain the technique and ask permission.",
+   "Seat the patient and relax the shoulders.",
+   "Locate the tender band by palpation.",
+   "Place the thumb pad on the trigger point.",
+   "Stabilize the head with the other hand.",
+   "Apply steady pressure, state the direction and ask about pain."
+  ],
+  "safety_checks": [
+   "Rule out fracture, infection, blood clotting problems and skin conditions.",
+   "Use pressure the patient can tolerate.",
+   "Stop if the patient reports numbness, tingling or sharp pain."
+  ],
+  "common_errors": [
+   "Too much pressure at first.",
+   "Pressing on the neck structures.",
+   "Not stabilizing the head."
+  ],
+  "grading_points": [
+   "Seated position correct.",
+   "Doctor position stated.",
+   "Muscle and contact named.",
+   "Stabilization stated.",
+   "Direction of pressure stated.",
+   "Consent and pain feedback stated."
+  ]
+ },
+ {
+  "id": "T27",
+  "region": "soft tissue",
+  "task": "Set up a supine piriformis stretch with muscle contraction (post isometric relaxation).",
+  "patient_position": "Supine with the hip and knee flexed on the affected side.",
+  "doctor_position_and_stance": "Standing at the side of the table, facing the patient, near the affected hip.",
+  "segment_or_listing": "Right piriformis tightness with deep buttock pain.",
+  "contact_point": "Contact at the patient's knee and ankle, with the other hand stabilizing the opposite hip. Doctor contact on the knee and ankle.",
+  "line_of_drive": "Hip is taken into flexion and adduction toward the opposite shoulder, after a gentle contraction of the muscle that is then released.",
+  "setup_steps": [
+   "Explain the stretch and the gentle push the patient will do.",
+   "Position the patient supine and flex the hip and knee.",
+   "Stabilize the opposite hip with one hand.",
+   "Take the leg to the first point of stretch.",
+   "Ask the patient to push gently against your hand for about 5 to 10 seconds, then relax.",
+   "Move further into stretch, state the direction and recheck comfort."
+  ],
+  "safety_checks": [
+   "Rule out hip pathology, fracture and recent surgery.",
+   "Do not stretch into sharp pain.",
+   "Stop for radiating leg pain or numbness."
+  ],
+  "common_errors": [
+   "Forcing the stretch.",
+   "Not stabilizing the opposite hip.",
+   "Not telling the patient to relax."
+  ],
+  "grading_points": [
+   "Position correct.",
+   "Muscle named.",
+   "Doctor contact named.",
+   "Stabilization stated.",
+   "Direction of stretch stated.",
+   "Patient informed and monitored."
+  ]
+ },
+ {
+  "id": "T28",
+  "region": "soft tissue",
+  "task": "Set up a prone lumbar drop table soft tissue and light thrust for a hypertonic erector spinae region.",
+  "patient_position": "Prone on a drop table with the pelvic piece correctly set.",
+  "doctor_position_and_stance": "Standing at the side of the table with the shoulders over the contact.",
+  "segment_or_listing": "Right lumbar erector spinae hypertonicity with segmental restriction at L3.",
+  "contact_point": "Contact on the right L3 mammillary process area. Doctor contact on the pisiform with the other hand reinforcing.",
+  "line_of_drive": "Posterior to anterior with a light, quick thrust timed with the drop of the table piece.",
+  "setup_steps": [
+   "Explain the table drop and ask for consent.",
+   "Set the drop tension to the patient's weight.",
+   "Position the patient prone on the piece.",
+   "Palpate the muscle and the L3 level.",
+   "Place the contact and take out the slack.",
+   "State the direction and the timing of the drop."
+  ],
+  "safety_checks": [
+   "Do not use with fracture, severe osteoporosis or cauda equina signs.",
+   "Use the lowest tension that works.",
+   "Stop if leg symptoms appear."
+  ],
+  "common_errors": [
+   "Too much drop tension.",
+   "Contact on the spinous process only.",
+   "Not telling the patient about the drop."
+  ],
+  "grading_points": [
+   "Table set up stated.",
+   "Position correct.",
+   "Contact named.",
+   "Doctor contact named.",
+   "Stabilization stated.",
+   "Line of drive and timing stated."
+  ]
+ },
+ {
+  "id": "T29",
+  "region": "soft tissue",
+  "task": "Demonstrate a supine cervical traction and mobilization setup for neck stiffness without radiculopathy.",
+  "patient_position": "Supine with the head supported on the table and the shoulders relaxed.",
+  "doctor_position_and_stance": "Seated at the head of the table, facing the patient, with the forearms supported.",
+  "segment_or_listing": "General restriction of the lower cervical spine.",
+  "contact_point": "Contact on the occiput and the upper neck. Doctor contact with the finger pads under the occiput.",
+  "line_of_drive": "Gentle long axis traction along the line of the spine with slow small oscillations, no thrust.",
+  "setup_steps": [
+   "Explain the technique and gain consent.",
+   "Position the patient supine and relaxed.",
+   "Place the finger pads under the occiput and rest the thumbs lightly on the face or the table.",
+   "Take up the slack by a gentle pull along the spine.",
+   "Add slow oscillations within comfort.",
+   "State the direction and check for any symptoms."
+  ],
+  "safety_checks": [
+   "Screen for arterial dysfunction, instability and recent trauma first.",
+   "Use light force.",
+   "Stop if dizziness, nausea or arm symptoms occur."
+  ],
+  "common_errors": [
+   "Pulling with too much force.",
+   "Neck flexed or extended during traction.",
+   "Hands pressing on the front of the neck."
+  ],
+  "grading_points": [
+   "Position correct.",
+   "Doctor position stated.",
+   "Contact named.",
+   "Hand placement stated.",
+   "Direction of traction stated.",
+   "Safety checks stated."
+  ]
+ },
+ {
+  "id": "T30",
+  "region": "soft tissue",
+  "task": "Set up a side lying hip mobilization for a stiff hip joint using gentle traction.",
+  "patient_position": "Side lying on the unaffected side with the affected hip and knee slightly flexed and supported by a pillow.",
+  "doctor_position_and_stance": "Standing behind the patient at the hip, facing the patient's back.",
+  "segment_or_listing": "Right hip joint with restricted traction glide.",
+  "contact_point": "Contact over the greater trochanter and the upper thigh. Doctor contact with both hands.",
+  "line_of_drive": "Gentle long axis traction along the femur followed by a slow, low amplitude oscillation.",
+  "setup_steps": [
+   "Tell the patient the plan and get consent.",
+   "Position the patient side lying and the hip supported.",
+   "Place one hand on the greater trochanter and the other on the thigh.",
+   "Take up the slack with a gentle pull along the femur.",
+   "Add slow oscillations as the patient tolerates.",
+   "State the direction and recheck comfort."
+  ],
+  "safety_checks": [
+   "Rule out hip fracture, avascular necrosis, infection and recent hip surgery.",
+   "Do not force the hip beyond a comfortable range.",
+   "Stop for groin pain, locking or numbness."
+  ],
+  "common_errors": [
+   "Pulling too hard.",
+   "Wrong hand contact over the lateral thigh muscles only.",
+   "Patient not supported and not relaxed."
+  ],
+  "grading_points": [
+   "Position correct.",
+   "Doctor position stated.",
+   "Contact named.",
+   "Hand placement stated.",
+   "Direction of traction stated.",
+   "Consent and safety stated."
+  ]
+ }
+]
